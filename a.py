@@ -168,7 +168,45 @@ def print_dictionary(d):
     for key in d:
         print key, d[key]
 
+def get_input_datas(filename):
+    """
+    : get_input_datas   - function
+                        : read input file
+    : parameter         - filename(str)
+    : return            - ret(list<str>)
+    """
+    with open(filename,'r') as fp:
+        lines = fp.read().strip().split('\n')
+    ret = []
+    for line in lines:
+        line.strip()
+        if len(line) == 0:
+            continue
+        ret.append(line)
+    return ret
+
+def get_result_datas(filename):
+    """
+    : get_result_datas  - function
+                        : read result file and create dict<list<str>>
+    : parameter         : filename(str)
+    : return            : ret(dict<list<str>>)
+                        > {'안녕하세요',['안녕/NNG+하/NNG+세/NNB+요/EC','안녕/NNG+하/MAG+세/NNB+요/EC',..],...}
+    """
+    ret = {}
+    lines = get_input_datas(filename)
+    for line in lines:
+        if not line.split('.')[0].strip().isdigit():
+            key = line
+            ret[key] = []
+        else:
+            ret[key].append(line.split()[1].strip())
+    return ret
+
 if __name__ == '__main__':
-    count_dictionary = get_train_count()
-    print calculate_conditional_probability(count_dictionary,'JKO/NP')
+    count_dictionary    = get_train_count()
+    input_datas         = get_input_datas(options['input_filename'])
+    result_datas        = get_result_datas(options['result_filename'])
+#    print calculate_conditional_probability(count_dictionary,'JKO/NP')
+    
 
