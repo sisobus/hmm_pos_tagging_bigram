@@ -35,7 +35,7 @@ BOK/SL 7
 백주/NNG 3
 유혈극/NNG 1
 접치/VV 1
-370/SN 3
+으뜸/NNG 15
 행선지/NNG 8
 아토스/NNP 3
 國際外換市場/SH 1
@@ -86,8 +86,9 @@ point/SL 3
 웨스트팩/NNP 1
 야학/NNG 11
 응원전/NNG 3
+ETN/VA 1401
 심령/NNG 1
-삼성종합기술원/NNP 1
+ETN/VV 8470
 핸디코타/NNG 1
 television/SL 1
 야근/NNG 5
@@ -97,6 +98,7 @@ television/SL 1
 양아들/NNG 2
 召敵者則以書/SH 1
 영업품/NNG 1
+ETN/VX 2035
 맞고름/NNG 1
 Force/SL 2
 웃어른/NNG 12
@@ -263,6 +265,7 @@ Rutherford/SL 1
 분산/NNG 39
 정기종/NNP 1
 펑크/NNG 3
+水面/SH 1
 가입자/NNG 47
 코아/NNP 3
 성숙/NNG 69
@@ -284,6 +287,7 @@ Rutherford/SL 1
 田中/SH 1
 수난/NNG 32
 불일/NNG 8
+VCP/JKV 1
 盧山/SH 1
 갈피/NNG 9
 불의/NNG 21
@@ -317,6 +321,7 @@ korejskogo/SL 1
 삼일/NNG 4
 金權選擧/SH 1
 핫바/NNG 1
+강의안/NNG 2
 收屍/SH 3
 김응서/NNP 2
 뷰어/NNG 1
@@ -474,6 +479,7 @@ Assets/SL 1
 살빛/NNG 4
 停喪百日/SH 1
 with/SL 5
+JC/JX 3
 牧師/SH 1
 폴/NNP 8
 훈련/NNG 395
@@ -524,6 +530,7 @@ conditionality/SL 1
 안목/NNG 49
 배동호/NNP 1
 equal/SL 2
+政治體制/SH 1
 전력/NNG 115
 唐軍/SH 1
 메밥/NNG 1
@@ -540,6 +547,7 @@ equal/SL 2
 판매량/NNG 15
 드래두/EC 1
 血鬪/SH 1
+삼성종합기술원/NNP 1
 喪家預布空石于庭/SH 1
 縱酒賭博/SH 1
 자학/NNG 14
@@ -579,7 +587,8 @@ Geisteswissenschaft/SL 1
 공무도하가/NNP 8
 성읍/NNP 1
 벨에어/NNP 1
-강감찬/NNP 1
+JKQ/SS 1758
+JKQ/SP 23
 블로지미에르츠/NNP 1
 Vulcanus/SL 1
 옥상옥/NNG 3
@@ -593,7 +602,9 @@ Vulcanus/SL 1
 지리부도/NNG 2
 하루아침/NNG 19
 화숙이/NNP 52
+JKQ/SF 25
 똬리골/NNP 1
+JKQ/SE 2
 鄭泰守/SH 1
 농경/NNG 35
 물장구/NNG 1
@@ -663,6 +674,7 @@ G/SL 47
 가역/NNG 1
 예금자/NNG 16
 체육회/NNG 2
+MAG/SL 2
 방구석/NNG 4
 가말/NNG 1
 방광염/NNG 9
@@ -709,6 +721,7 @@ hazard/SL 1
 달라/NNB 1
 미친개/NNG 1
 낙안/NNP 1
+투르/NNP 1
 추진부/NNG 1
 농협/NNG 30
 甘言利說/SH 1
@@ -843,7 +856,7 @@ sizing/SL 1
 財閥共和國/SH 1
 집들이/NNG 4
 내동/NNP 1
-오날/NNG 1
+안방마님/NNG 1
 관람일/NNG 1
 남선/NNG 1
 이브라힘/NNP 1
@@ -861,6 +874,7 @@ sizing/SL 1
 월명리/NNP 1
 열흘/NNG 49
 외국환/NNG 22
+辯/SH 1
 혼잡/NNG 26
 청백/NNG 2
 부랴부랴/MAG 10
@@ -1006,6 +1020,7 @@ GLP/SL 1
 매력/NNG 58
 피고름/NNG 1
 민주/NNP 197
+MAG/$ 78288
 番地數/SH 1
 검거/NNG 27
 본적/NNG 5
@@ -1051,6 +1066,7 @@ CH/SL 1
 金玉錢貝/SH 1
 찧/VV 29
 요하/VV 17
+내리깔/VV 4
 한국문화사상사시론/NNP 1
 곽정출/NNP 3
 카터센터/NNP 1
@@ -1066,6 +1082,7 @@ CH/SL 1
 녹두새/NNG 3
 태자당/NNP 3
 선농/NNG 1
+박진심/NNP 1
 현대식/NNG 7
 덕신/NNP 1
 平壤/SH 3
@@ -1130,6 +1147,7 @@ NYNEX/SL 1
 백조/NNG 1
 허깨비/NNG 4
 루지에로/NNP 1
+서낭/NNG 1
 정신분석학자/NNG 1
 씨티은행/NNP 1
 紀行歌辭/SH 1
@@ -1184,10 +1202,11 @@ Matured/SL 2
 조모부/NNG 1
 꽃보라/NNG 1
 꾹꾹/MAG 7
-구릉/NNG 10
+JKO/NP 3931
 얼룩지/VV 25
 떨치/VV 80
 社員/SH 3
+陳東/SH 1
 감바스/NNG 1
 먼저/MAG 769
 권장비/NNG 2
@@ -1440,7 +1459,7 @@ OEM/SL 5
 캄푸치아/NNP 1
 마누라/NNG 75
 신랄히/MAG 2
-胎生的/SH 1
+MM 44006
 Quotient/SL 1
 李揆洪/SH 1
 부견/NNP 1
@@ -1562,6 +1581,7 @@ Buschke/SL 1
 카바이트/NNG 2
 영천시/NNP 2
 元/SH 3
+특허청/NNG 2
 驚起白沙丁畔雁/SH 1
 1823/SN 1
 소미가숙통감절요/NNG 1
@@ -1954,7 +1974,8 @@ See/SL 3
 Jung/SL 1
 깨꾸/NNG 1
 다행이/MAG 2
-척척/MAG 8
+증표/NNG 1
+XSV/JKB 1
 떠받들/VV 7
 파견자/NNG 2
 객고/NNG 1
@@ -1980,7 +2001,7 @@ TWA/SL 3
 환전상/NNG 1
 終末論/SH 4
 혐원/NNG 1
-경계심/NNG 11
+NNG/MM 2299
 초시/NNG 22
 외교사/NNG 2
 통행금지/NNG 4
@@ -2022,6 +2043,7 @@ UNILAC/SL 1
 이상하/NNP 1
 진관/NNP 1
 花潭/SH 1
+XSA/$ 2
 消費者物價指數/SH 4
 啓示/SH 3
 견실/XR 3
@@ -2128,6 +2150,7 @@ success/SL 1
 孔兵/SH 1
 정책관/NNG 4
 탑실/NNG 1
+斜線陣/SH 1
 극치/NNG 14
 오또오산노/NNG 1
 色掌別檢則各掌內契長有司糾察其失甚者改之一/SH 1
@@ -2161,7 +2184,7 @@ success/SL 1
 Revascularization/SL 1
 大姑母夫/SH 1
 支援政策/SH 1
-危機/SH 6
+대수비/NNG 2
 徒勞/SH 1
 아쉽/VA 74
 黨軍事委/SH 1
@@ -2181,6 +2204,7 @@ Revascularization/SL 1
 함중/NNG 6
 鄭鎭守/SH 1
 政策對應/SH 1
+702/SN 2
 面里制/SH 1
 발성/NNG 2
 周柱史之宗也/SH 1
@@ -2272,6 +2296,7 @@ fingertips/SL 1
 후대/NNG 31
 단어/NNG 116
 현주/NNG 1
+조급증/NNG 5
 프린터/NNG 18
 중소기업인/NNG 6
 특성/NNG 220
@@ -2443,7 +2468,7 @@ song/SL 1
 전화비/NNG 1
 멸치/NNG 39
 EURO/SL 1
-總量調整/SH 1
+SE/$ 206
 삼베/NNG 9
 담지자/NNG 1
 생시/NNG 15
@@ -2484,19 +2509,21 @@ so/SL 1
 사기도박/NNG 1
 권력자/NNG 31
 개나리꽃/NNG 6
-JFK/SL 1
+NA 81
 한국산업기술진흥협회/NNP 1
 Citizen/SL 1
 국소/NNG 2
 中嶋嶺雄/SH 1
-Vesalius/SL 1
+組織化/SH 1
 抑壓的/SH 1
 지영희/NNP 3
 종알거리/VV 1
 허허거리/VV 1
 도전장/NNG 6
 실업인회/NNG 2
+NP 47549
 口訣/SH 3
+NR 12063
 분계선/NNG 10
 tickerin/SL 1
 809/SN 8
@@ -2561,7 +2588,7 @@ radical/SL 1
 基本目標/SH 1
 appetit/SL 1
 토/NNG 14
-후보국/NNG 1
+로잔/NNP 1
 스웨이드/NNG 1
 棺柩/SH 1
 학적부/NNG 6
@@ -2615,7 +2642,7 @@ Ambiguity/SL 1
 미역/NNG 59
 李石奉/SH 1
 馬上唐音/SH 1
-몰아내/VV 33
+制度的/SH 8
 스패츠/NNP 1
 곤지암/NNP 1
 무욕/XR 2
@@ -2698,7 +2725,7 @@ Sheet/SL 1
 서석/NNP 1
 하꾸세끼/NNP 1
 司正作業/SH 1
-一時的/SH 4
+諸正佐郞/SH 1
 지력/NNG 6
 코리아리서치/NNP 3
 후쿠도메/NNP 1
@@ -2735,27 +2762,30 @@ DOHC/SL 1
 셋/NR 84
 뽕잎/NNG 2
 特調委/SH 2
-헛되이/MAG 4
+의뢰/NNG 35
 차기/NNG 31
 Indo/SL 1
 해주/NNP 6
 記念人物/SH 1
 이해영/NNP 1
+SS/SE 500
 수출지/NNG 1
 각지석조/NNG 1
-신데렐라/NNP 3
+SS/SF 6887
 且爲之糾集而程督之/SH 1
 자운영/NNG 1
 禁止/SH 1
 입구/NNG 65
-SS/SL 1
-아무쪼록/MAG 1
-靜的/SH 2
+SS/SL 2848
+SS/SO 17
+SS/SN 2305
+SS/SH 8804
 공기업/NNG 23
 미쯔코/NNP 5
 미국사/NNG 1
 徐相祿/SH 1
-장암/NNG 1
+SS/SP 52
+SS/SS 2137
 조익겸/NNP 1
 奠資則同約各出米三升備送/SH 1
 상처/NNG 133
@@ -2785,7 +2815,7 @@ Database/SL 1
 홍해삼/NNP 1
 오르타/NNP 1
 太原師範/SH 1
-검도장/NNG 1
+VCP/XSN 8845
 캠핑/NNG 2
 예음/NNP 3
 거구/NNG 4
@@ -2842,10 +2872,10 @@ Whitehead/SL 2
 미니/NNG 26
 흰비오리/NNG 1
 칼레루에가/NNP 1
-병약/XR 4
+MAG/NNB 9
 이중우/NNP 1
 literarum/SL 1
-수강료/NNG 3
+MAG/NNG 478
 壓右足而己/SH 1
 수입금/NNG 2
 選擧不正/SH 4
@@ -3021,7 +3051,7 @@ Rotterdam/SL 1
 Central/SL 2
 양호/NNG 9
 東西獨/SH 1
-무호/NNP 1
+NP/$ 45510
 1099/SN 1
 프라블럼/NNG 2
 室/SH 1
@@ -3099,7 +3129,9 @@ me/SL 14
 매거진/NNG 2
 매축/NNG 1
 seoul/SL 16
+어안/NNG 7
 牛/SH 2
+송광호/NNP 1
 시숙/NNG 15
 일본경제/NNP 1
 쉬파리/NNG 1
@@ -3126,7 +3158,7 @@ seoul/SL 16
 作業/SH 1
 돈/NNB 1
 처자식/NNG 10
-평화방송/NNP 15
+JX/SE 1
 적포도주/NNG 1
 교육학자/NNG 6
 법랍/NNG 1
@@ -3141,8 +3173,10 @@ seoul/SL 16
 애마/NNG 3
 用朱組二/SH 1
 애니메이션/NNG 8
+VX/EF 1
 생산품/NNG 10
 남정임/NNP 3
+NNG/XSN 782
 직렬/NNG 1
 이계익/NNP 3
 白纓/SH 1
@@ -3172,7 +3206,7 @@ Originality/SL 1
 강인섭/NNP 1
 후련히/MAG 3
 사다스께/NNP 1
-희뿌옇/VA 1
+Everything/SL 1
 우회/NNG 19
 팔리씨/NNP 1
 광주교도소/NNP 2
@@ -3186,6 +3220,7 @@ fiber/SL 1
 툴툴거리/VV 1
 손수/MAG 18
 중앙역/NNP 4
+벽돌/NNG 36
 불응자/NNG 1
 묘직/NNG 1
 옥시덴트/NNG 6
@@ -3252,6 +3287,7 @@ parallax/SL 2
 305/SN 2
 축구전/NNG 1
 브라우져/NNG 3
+cole/SL 1
 깨달음/NNG 40
 간질이/VV 2
 설레/VV 16
@@ -3264,7 +3300,7 @@ parallax/SL 2
 맹렬히/MAG 4
 말문/NNG 9
 풍천/NNP 1
-안방마님/NNG 1
+사인물/NNG 1
 잉태/NNG 9
 에그/IC 2
 일원/NNP 1
@@ -3284,6 +3320,7 @@ paranoia/SL 1
 전화국/NNG 4
 皆子/SH 1
 현자/NNG 7
+JKC/NNP 75
 병사/NNG 41
 언중유골/NNG 3
 리커버리/NNG 1
@@ -3335,6 +3372,7 @@ paranoia/SL 1
 포스트지/NNP 2
 탁발/NNG 1
 VIP/SL 1
+XSN/EC 29
 독신주의/NNG 1
 기업가/NNG 32
 승차권/NNG 5
@@ -3395,7 +3433,7 @@ CIA/SL 12
 한국샘물협회/NNP 1
 土地/SH 1
 백일해/NNG 2
-정동영/NNP 2
+NNP/MM 79
 진원지/NNG 5
 中南美/SH 2
 데어/NNG 1
@@ -3438,18 +3476,20 @@ CIA/SL 12
 등비/NNG 1
 낙동강/NNP 26
 毁失/SH 1
+NR/XPN 5
 반성/NNG 152
 피나/VV 7
 육탕/NNG 1
 장가/NNG 18
 알프스리조트/NNP 1
+SL/MM 2
 政治制度/SH 1
 사항/NNG 240
 순계/NNG 1
 무패/NNG 3
 차미숙/NNP 1
 사천면/NNP 1
-십팔/NR 1
+곳/NNG 1236
 박철언/NNP 5
 뵈이/VV 1
 모집처/NNG 1
@@ -3589,6 +3629,7 @@ emptive/SL 1
 달콤/XR 15
 고금주/NNP 1
 금성중학교/NNP 1
+전국부장/NNG 1
 총대/NNG 1
 동상/NNG 30
 被害者/SH 2
@@ -3653,7 +3694,7 @@ intellectualism/SL 1
 貨幣用金/SH 2
 연루자/NNG 1
 世界政治的/SH 1
-편폭/NNG 1
+XSN/MAG 115
 rigorism/SL 1
 무바라크/NNP 4
 리처드/NNP 9
@@ -3668,6 +3709,7 @@ rigorism/SL 1
 이스가리웃/NNP 2
 代報其禮少者之家有慶/SH 1
 증수/NNG 1
+장암/NNG 1
 ecstacy/SL 1
 오물/NNG 4
 고추잠자리/NNG 4
@@ -3779,6 +3821,7 @@ Kbps/SW 4
 合作投資/SH 1
 某罪逆深重/SH 1
 지참금/NNG 13
+CAPS/SL 1
 非資源保有開發途上國/SH 1
 amorphous/SL 1
 커크/NNP 5
@@ -3837,6 +3880,7 @@ cwis/SL 1
 미도파백화점/NNP 1
 던고/EF 1
 킹콩/NNP 3
+SO/SF 6
 위문단/NNG 1
 당좌/NNG 43
 기념행사/NNG 11
@@ -3892,7 +3936,6 @@ Hooke/SL 1
 바깥쪽/NNG 18
 자상/XR 12
 소비액/NNG 1
-라라/NNP 1
 송장/NNG 8
 구우/NNG 1
 당쟁/NNG 7
@@ -3978,6 +4021,7 @@ mondo/SL 1
 轟羅杰羅兀/SH 1
 오까자끼/NNP 1
 가빠지/VV 1
+소형차/NNG 6
 交友的/SH 1
 정찰수/NNG 1
 가내/NNG 3
@@ -4115,11 +4159,12 @@ Epstein/SL 1
 신포시/NNP 3
 좌상개목/NNG 1
 훅/MAG 10
+아끼다/NNP 2
 권능/NNG 23
 학비/NNG 14
 候補/SH 1
 범/NNG 12
-소니사/NNP 2
+위성체/NNG 10
 암약/NNG 5
 김인혜/NNP 1
 노소/NNG 4
@@ -4127,7 +4172,7 @@ Epstein/SL 1
 유니온/NNP 1
 지대섭/NNP 1
 카르납/NNP 1
-스왑/NNG 7
+개재/NNG 5
 고푸/VA 1
 첫참/NNG 1
 疫/SH 3
@@ -4171,6 +4216,7 @@ autonomy/SL 2
 땜/NNB 8
 軍縮案/SH 1
 차등/NNG 15
+引火性/SH 1
 땜/NNG 2
 모양새/NNG 15
 수채화/NNG 9
@@ -4203,6 +4249,7 @@ NCSA/SL 1
 개운/XR 10
 경랑/NNP 1
 끊기/VV 36
+박정희/NNP 22
 번들번들/MAG 2
 응용력/NNG 1
 漢學/SH 4
@@ -4291,6 +4338,7 @@ PSL/SL 1
 폐습/NNG 6
 Transfer/SL 1
 租稅/SH 2
+JKS/XR 2
 꼴깍/MAG 1
 배선/NNG 1
 나/NNG 83
@@ -4343,7 +4391,7 @@ Jobber/SL 1
 스바니야/NNP 2
 밸리노인회/NNP 1
 역사서/NNG 4
-크라이스트/NNP 1
+업체/NNG 357
 돈돈돈/MAG 4
 관리위/NNG 1
 학원가/NNG 1
@@ -4415,7 +4463,7 @@ Beats/SL 3
 도매업자/NNG 1
 알티/NNG 1
 聖市/SH 1
-파슨스/NNP 2
+로마/NNP 283
 訪韓/SH 16
 십오/NR 4
 하트/NNP 2
@@ -4524,7 +4572,7 @@ Siberians/SL 1
 도일/NNP 2
 War/SL 1
 입대식/NNG 2
-質疑/SH 2
+대통령감/NNG 2
 지형학/NNG 2
 落果/SH 1
 草榜冊/SH 1
@@ -4660,10 +4708,11 @@ products/SL 1
 confirmation/SL 8
 실내/NNG 47
 고등판무관실/NNG 1
+鄭元一/SH 1
 先男後女/SH 1
 만나/VV 902
 이종해/NNP 2
-饑民/SH 1
+XSN/NNP 678
 七步詩/SH 1
 평반/NNG 4
 아서도/EC 1
@@ -4672,10 +4721,10 @@ Nabu/SL 1
 신의주/NNG 1
 신화사/NNP 1
 姜希顔/SH 3
-강일/NNG 4
+XSN/NNG 55575
 김법환/NNP 1
 요네/NNG 1
-린조/NNP 1
+XSN/NNB 2193
 꼬마/NNG 147
 신의주/NNP 6
 별로/NNG 1
@@ -4707,7 +4756,7 @@ gap/SL 2
 상징체계/NNG 1
 윤락녀/NNG 1
 무릇/MAG 13
-삼사/NR 1
+VCP/JX 465
 스피츠/NNP 1
 정화수/NNG 5
 議事管理機/SH 1
@@ -4861,10 +4910,11 @@ Brennan/SL 1
 新派/SH 4
 사심/NNG 6
 삼각관계/NNG 1
+경공장/NNG 1
 김종순/NNP 2
 베트남/NNP 27
 英雄詩/SH 1
-느긋/XR 32
+특수/NNG 208
 문화관광위/NNG 1
 현대상선/NNP 1
 챙피/NNG 2
@@ -4915,6 +4965,7 @@ Jupiter/SL 2
 ISO/SL 9
 꼭두각시/NNG 6
 여진/NNG 1
+萌芽的/SH 1
 전체상/NNG 1
 음폭/NNG 3
 후지포토살롱/NNP 1
@@ -4927,7 +4978,7 @@ ISO/SL 9
 김성윤/NNP 1
 유럽우주기관/NNP 1
 經濟力/SH 7
-메를로/NNP 1
+NNG/EC 6
 점철/NNG 9
 지/EF 1179
 Future/SL 1
@@ -4938,6 +4989,7 @@ Future/SL 1
 꼬리별/NNG 1
 집회서/NNP 1
 황병태/NNP 3
+NNG/EP 1
 차관/NNG 84
 抵抗/SH 1
 한국실/NNG 1
@@ -4973,7 +5025,7 @@ Future/SL 1
 염규생/NNP 1
 文民政治/SH 1
 박창범/NNP 1
-학습실/NNG 8
+변/NNP 23
 彭排/SH 1
 8080/SN 2
 인혁/NNP 1
@@ -5030,6 +5082,8 @@ w/SW 3
 hito/SL 1
 주제가/NNG 5
 암바리삼/NNG 1
+송인식/NNP 1
+겠/EP 3933
 응집소/NNG 1
 간다라/NNP 3
 은메달/NNG 12
@@ -5121,6 +5175,7 @@ bekos/SL 1
 이규항/NNP 1
 이탈리아/NNP 98
 이류/NNG 6
+집체/NNG 6
 닉/NNP 3
 재미있/VA 145
 Ren/SL 2
@@ -5304,17 +5359,18 @@ Phoenix/SL 1
 소개료/NNG 2
 양아버지/NNG 1
 여백/NNG 1
-步道/SH 1
+VV/SS 1025
 영미/NNP 1
-스러지/VV 7
+VV/SP 7
+VV/SW 14
 근절책/NNG 1
 레이몬드/NNP 1
 팥쥐/NNP 1
 친화력/NNG 4
 전문인부/NNG 1
 해강/NNP 5
-보시까/NNG 1
-弔慰錄/SH 1
+VV/SH 19
+VV/SO 3
 교도봉/NNG 1
 라이온스/NNG 1
 한미영/NNP 1
@@ -5343,6 +5399,7 @@ TOE/SL 2
 하킴/NNP 1
 然後出門/SH 1
 로열/NNG 3
+군소리/NNG 8
 혜성이/NNP 1
 倪志福/SH 1
 전화벨/NNG 10
@@ -5367,6 +5424,7 @@ TOE/SL 2
 158/SN 1
 위락/NNG 2
 워싱턴포스트/NNP 5
+影響/SH 2
 領織慮文十二/SH 2
 탁음/NNG 1
 망부/NNG 3
@@ -5473,6 +5531,7 @@ Hermeneutik/SL 1
 읍장/NNG 1
 송별연/NNG 1
 發言輕雜/SH 1
+부득좌경우측/NNG 1
 김용석/NNP 1
 회람/NNG 1
 選系出系/SH 1
@@ -5526,7 +5585,7 @@ Orbitum/SL 1
 財特/SH 1
 특선/NNG 9
 제막식/NNG 1
-키프로스/NNG 1
+선지자/NNG 2
 김동래/NNP 1
 agreed/SL 1
 후나바시/NNP 1
@@ -5597,6 +5656,7 @@ OB/SL 35
 추격/NNG 18
 레이니/NNP 10
 엄기현/NNP 2
+單獨腐敗/SH 1
 깊이깊이/MAG 1
 防止/SH 2
 김좌진/NNP 1
@@ -5647,6 +5707,7 @@ annoyance/SL 1
 묵책요/NNP 1
 아츠/NNG 1
 황용주/NNP 1
+기차/VA 1
 08/SN 201
 파랑새/NNG 6
 호희/NNG 1
@@ -5670,6 +5731,7 @@ Fifteen/SL 1
 청빈/NNG 9
 오노즈/NNP 2
 systematic/SL 1
+밥숟가락/NNG 1
 일박/NNG 1
 경월/NNP 4
 세바르나제/NNP 4
@@ -5714,7 +5776,7 @@ Wechsler/SL 5
 患難相恤患難之事七/SH 1
 靑帶/SH 1
 지저분/XR 15
-프로메테우스/NNP 3
+NA/$ 63
 1168/SN 2
 地盤/SH 1
 준공/NNG 13
@@ -5810,7 +5872,7 @@ Vocnet/SL 1
 초현관/NNP 2
 요율/NNG 2
 로키산맥/NNP 2
-中日/SH 2
+MM/MAG 3
 EWS/SL 1
 지분/NNG 33
 비장/XR 32
@@ -5818,6 +5880,7 @@ EWS/SL 1
 움켜쥐/VV 6
 밑단/NNG 2
 무관실/NNG 1
+MM/MAJ 86
 신경/NNG 225
 블랙박스/NNG 1
 함마/NNG 1
@@ -5884,7 +5947,7 @@ minute/SL 1
 거래법/NNG 9
 생/XSN 580
 謂所交不限士庶/SH 1
-교란/NNG 25
+원앙예식장/NNP 1
 孟冬/SH 1
 허상/NNG 7
 有限勞動供給段階/SH 1
@@ -6057,6 +6120,7 @@ plenum/SL 4
 착취/NNG 28
 성년/NNG 24
 오색/NNG 13
+도수로/NNG 1
 能力人事/SH 1
 일단락/NNG 16
 202/SN 1
@@ -6113,6 +6177,7 @@ Net/SL 6
 若非四孟之會/SH 1
 典布/SH 1
 南西部/SH 1
+톱/NNG 9
 예약/NNG 60
 툴사/NNP 1
 수산물/NNG 49
@@ -6351,6 +6416,7 @@ Express/SL 1
 보호원/NNG 3
 계약자/NNG 2
 아랑곳없/VA 1
+얼음물/NNG 1
 신제주/NNP 1
 유인경/NNP 22
 비류수/NNG 1
@@ -6444,6 +6510,7 @@ Eton/SL 1
 一波/SH 1
 종금사/NNG 41
 附岩/SH 1
+SN/XSN 4
 中間投入/SH 3
 현숙이/NNP 3
 016/SN 2
@@ -6477,7 +6544,7 @@ OS/SL 1
 care/SL 1
 熟讀解義/SH 1
 勢吏/SH 2
-삼가/MAG 10
+VA/JX 1
 라든가/EC 60
 로조/NNP 1
 反美的/SH 3
@@ -6602,7 +6669,8 @@ nuri/SL 2
 컨디션/NNG 16
 다원/NNG 14
 복더위/NNG 1
-정예/NNG 8
+환풍기/NNG 3
+실업고/NNG 8
 세율/NNG 9
 총무단/NNG 2
 홍동/NNG 1
@@ -6730,7 +6798,7 @@ learner/SL 2
 신파극/NNG 1
 싸잡/VV 6
 화혼양재/NNG 2
-응급조치/NNG 5
+山林/SH 5
 양띠/NNG 5
 위화감/NNG 17
 資本投入價格/SH 1
@@ -6751,6 +6819,7 @@ chop/SL 1
 경외감/NNG 1
 采玉珠十二旒/SH 1
 스폰서/NNG 6
+XSN/VV 5
 약용/NNG 2
 和羹鹽梅/SH 1
 화개/NNP 12
@@ -6758,7 +6827,7 @@ chop/SL 1
 고추장/NNG 11
 춘란/NNG 2
 소간/NNG 1
-살인죄/NNG 3
+산꼭대기/NNG 11
 條件/SH 9
 AFC/SL 2
 일본철학사/NNP 9
@@ -6888,6 +6957,7 @@ Hypnos/SL 1
 페넌트/NNG 20
 김규칠/NNP 3
 목포/NNP 23
+Keper/SL 1
 육욕/NNG 5
 일정량/NNG 1
 價格上昇要因/SH 1
@@ -6944,10 +7014,10 @@ interactive/SL 3
 분화/NNG 77
 明鏡止水/SH 1
 召少者幼者則以回文/SH 1
-검사소장/NNG 1
+EC/XSA 9915
 달랑베르/NNP 2
 ----/SS 1
-경향잡지/NNP 1
+EC/XSV 39715
 둥글/VA 28
 평상/NNG 14
 토호/NNG 1
@@ -6980,10 +7050,11 @@ ll/SL 6
 액면/NNG 4
 586/SN 1
 항진/NNG 6
-피마주/NNG 3
+NNB/MM 1821
 생보사/NNG 12
 공보/NNG 8
 하구/JKB 42
+밀로/NNP 1
 資金調達/SH 8
 한국정보과학회/NNP 2
 무형/NNG 10
@@ -7018,6 +7089,7 @@ Brunswick/SL 2
 몸뚱아리/NNG 3
 속사/NNG 1
 등어리/NNG 2
+논농정소/NNP 1
 패딩/NNG 1
 사회심리학자/NNG 1
 김병호/NNP 1
@@ -7138,7 +7210,7 @@ HD/SL 5
 택시/NNG 100
 192/SN 1
 이정섭/NNP 1
-얇/VA 22
+barometer/SL 1
 朴鍾煥/SH 2
 경영록/NNG 1
 국제비교문학회/NNP 2
@@ -7154,6 +7226,7 @@ Three/SL 1
 에덴/NNP 4
 1863/SN 2
 순치지세/NNG 1
+고시/NNP 1
 실실/MAG 3
 영좌/NNG 38
 點/SH 9
@@ -7175,6 +7248,7 @@ Three/SL 1
 시저/NNG 3
 부스스/MAG 3
 돌돔/NNG 1
+靑丘永言/SH 1
 포도밭/NNG 1
 정보처/NNG 1
 인디오/NNG 2
@@ -7271,6 +7345,7 @@ Descartes/SL 4
 어스름/NNG 6
 협의회장/NNG 3
 韓日/SH 3
+면구/NNG 1
 그믐밤/NNG 1
 친군위/NNG 1
 후추/NNG 3
@@ -7354,7 +7429,7 @@ Tappan/SL 1
 모노톤/NNG 1
 망측/XR 5
 문집/NNG 23
-여승무원/NNG 1
+一時的/SH 4
 여사/NNG 36
 미욱/XR 1
 활동상/NNG 5
@@ -7408,6 +7483,7 @@ Tappan/SL 1
 MGM/SL 2
 상재/NNG 2
 assembly/SL 1
+XR/NNP 1
 로메오질리/NNP 1
 보따리장수/NNG 1
 1921/SN 3
@@ -7497,7 +7573,7 @@ WINDOW/SL 1
 이마빡/NNG 1
 김보남/NNP 1
 공주시청/NNP 3
-토사/NNG 1
+동녘/NNG 1
 내은이/NNP 1
 사방치기/NNG 2
 祭主焚香/SH 1
@@ -7599,6 +7675,7 @@ Daniel/SL 3
 구단주/NNG 22
 미쓰즈카/NNP 2
 Today/SL 1
+쑥뜸/NNG 2
 뉘/VV 9
 꼬나보/VV 1
 농기구비/NNG 2
@@ -7678,7 +7755,7 @@ indifferent/SL 1
 시간대/NNG 15
 무죄/NNG 3
 崔鍾鏡/SH 1
-루드/NNP 2
+SE/MAJ 43
 윗골목/NNG 1
 밤거리/NNG 6
 영덕군/NNP 3
@@ -7687,7 +7764,7 @@ indifferent/SL 1
 직통/NNG 2
 인천/NNG 2
 뽀/VV 1
-효자비/NNG 3
+SE/MAG 72
 회견장/NNG 5
 복숭아꽃/NNG 2
 으례/MAG 12
@@ -7836,6 +7913,7 @@ Caroli/SL 1
 후학/NNG 3
 머/NP 8
 民間企業/SH 1
+NR/SW 5
 거개/NNG 2
 김준엽/NNP 1
 엄살/NNG 8
@@ -7863,7 +7941,7 @@ Caroli/SL 1
 兩黛/SH 1
 방향/NNG 545
 民兵/SH 5
-尊賢崇道/SH 1
+헛되이/MAG 4
 同一思想/SH 1
 三史/SH 2
 덕불고필유린/NNG 1
@@ -7880,6 +7958,7 @@ ROTC/SL 1
 쑥스럽/VA 20
 농사력/NNG 1
 MBC/SL 59
+상담자/NNG 2
 고소/NNG 30
 통로/NNG 24
 진공관/NNG 2
@@ -8007,6 +8086,7 @@ among/SL 1
 존/NNG 2
 원혁/NNP 1
 나시오날사/NNP 1
+협착/NNG 3
 881/SN 1
 중국제/NNG 1
 대범/XR 8
@@ -8028,7 +8108,7 @@ has/SL 3
 대한화학기계/NNP 1
 은둔자/NNG 1
 산부인과/NNG 11
-財閥企業/SH 1
+아귀힘/NNG 1
 위아래/NNG 9
 피침/NNG 1
 訴訟告知/SH 1
@@ -8091,6 +8171,7 @@ Riegle/SL 2
 한국과학원/NNP 1
 높이/MAG 98
 코찔찔이/NNG 1
+翟鷄霞演/SH 1
 표현/NNG 619
 신도비/NNG 1
 콕콕콕/MAG 1
@@ -8100,27 +8181,29 @@ Riegle/SL 2
 SONY/SL 1
 다만/EC 13
 다코타/NNP 6
-까발로/NNP 1
+SO/EC 6
 해수/NNP 3
 다니/VV 626
 아이라인/NNG 5
 수양산가/NNG 1
 카를/NNP 8
 퇴락/NNG 4
-Pearson/SL 1
+SS 94799
 급여액/NNG 3
 告知/SH 1
+SP 57494
 신성혼/NNG 1
 木理/SH 1
 産油政策/SH 1
 사탄/NNG 6
-아시아유럽정상회의/NNP 1
-합동결혼식/NNG 3
-公權力行使/SH 1
+SH 30146
+SO 1394
+SN 58566
 해수/NNG 3
-코카사스/NNP 1
+SL 10271
 버거스턴/NNP 1
-酉年/SH 1
+SF 127196
+SE 3044
 촉진제/NNG 3
 비지떡/NNG 1
 weeks/SL 1
@@ -8165,12 +8248,13 @@ conformity/SL 1
 판/NNG 166
 모나/VA 6
 供給額/SH 1
-여보쇼/IC 3
+호요방/NNP 4
 시안/NNG 20
 강대표/NNP 1
 사사구/NNG 4
 소녀기/NNG 1
 生産基地/SH 1
+資金市場經路/SH 1
 군략가/NNG 1
 진짜/MAG 18
 서먹서먹/XR 7
@@ -8204,6 +8288,7 @@ conformity/SL 1
 천곡직홍/NNP 1
 Wochenmarkt/SL 1
 극성/NNG 22
+꾸밈/NNG 3
 항렬순/NNG 1
 히랄다/NNP 1
 신주독/NNG 1
@@ -8226,6 +8311,7 @@ Novum/SL 1
 권태정/NNP 1
 이곳저곳/NNG 10
 도데/NNP 1
+殉葬/SH 1
 메리트/NNG 1
 within/SL 1
 종부사배/NNG 1
@@ -8237,6 +8323,7 @@ within/SL 1
 자료집/NNG 5
 글로리/NNG 1
 DC/SL 9
+SW/EC 5
 유권자/NNG 149
 희비/NNG 2
 시대정신/NNG 3
@@ -8367,6 +8454,7 @@ Audio/SL 1
 당께/EF 1
 惡籍則明知改過然後於會集時僉議爻周/SH 1
 人民民主專政/SH 1
+병인년/NNG 1
 삼종매/NNG 1
 동인도/NNP 2
 廢墟化/SH 1
@@ -8393,6 +8481,7 @@ Audio/SL 1
 정동/NNP 5
 냉난방/NNG 2
 則僉議黜約/SH 1
+고국/NNG 29
 우투좌타인/NNG 1
 스바니야서/NNP 1
 高金利/SH 1
@@ -8418,7 +8507,7 @@ TOPLINE/SL 2
 先後/SH 2
 회수/NNG 78
 공공요금/NNG 25
-월선/NNG 2
+명당/NNG 14
 외척/NNG 11
 coefficient/SL 1
 다고는/EC 1
@@ -8498,7 +8587,6 @@ Quantum/SL 1
 는다고/EF 2
 꿰맞추/VV 3
 鄭眞人/SH 1
-2477/SN 1
 한양대학교/NNP 1
 은영/NNP 1
 990/SN 5
@@ -8578,31 +8666,40 @@ deferent/SL 1
 마키/NNP 1
 풀씨/NNG 4
 오리엔트/NNP 17
+Vesalius/SL 1
 직단/NNG 1
 발매/NNG 10
 洪/SH 4
 이튿날/NNG 58
 빌붙/VV 8
 850/SN 4
+JKS/SP 3
 김학순/NNP 17
 춘추관/NNP 1
-사탑/NNG 1
+JKS/SS 1948
 忠/SH 5
 그깟/MM 2
+JKS/SW 169
 폐허/NNG 26
 뉴/NNG 54
 거북살스럽/VA 1
+SN/NNP 97
 드라이브/NNG 32
 오물통/NNG 1
 교목/NNG 1
 발달사/NNG 2
 蓄財狂/SH 2
 술미나/NNG 1
-동녘/NNG 1
+JKS/SE 1
+JKS/SF 1
 유착/NNG 55
+JKS/SH 1240
 한국자동차공업협회/NNP 2
-바라바/NNP 1
+SN/NNG 565
+JKS/SL 170
 東西學堂/SH 2
+SN/NNB 577
+JKS/SO 1
 여맹/NNG 1
 自由中國/SH 1
 장천용/NNP 2
@@ -8668,6 +8765,7 @@ Zamenhof/SL 1
 몰리에르/NNP 1
 논어/NNP 22
 외조모/NNG 3
+XSA/XSN 25
 백분율/NNG 5
 有司色掌別檢掌其籍/SH 1
 대/EF 24
@@ -8765,7 +8863,7 @@ OA/SL 2
 연월일/NNG 1
 주왕기/NNP 1
 대법/NNG 1
-염장무/NNG 1
+節名/SH 1
 기둥감/NNG 1
 석굴암/NNP 12
 우국/NNG 1
@@ -8841,7 +8939,7 @@ OA/SL 2
 기금법/NNG 2
 MSFOu/SL 1
 콜레트/NNP 12
-房/SH 1
+이영노/NNP 1
 동북/NNG 12
 와플/NNG 2
 구더기/NNG 9
@@ -8854,6 +8952,7 @@ MSFOu/SL 1
 襲衣/SH 2
 꿀맛/NNG 4
 우반/NNG 2
+서호동헌/NNP 1
 精密/SH 1
 한철학/NNG 1
 총지휘/NNG 1
@@ -9150,15 +9249,17 @@ sister/SL 1
 형광/NNG 3
 막바지/NNG 27
 製靴業者/SH 2
+設備投資推計/SH 1
 독약/NNG 9
 방청권/NNG 1
 理性/SH 1
 빈/NNG 2
 파일/NNG 32
 녹음방초/NNG 1
-左穆右昭/SH 1
+JKG/SW 234
 낙엽송/NNG 2
 산림법/NNG 1
+JKG/SS 2187
 卵生/SH 1
 최초/NNG 187
 한편/MAJ 70
@@ -9170,10 +9271,11 @@ sister/SL 1
 李圭景/SH 1
 劍/SH 3
 눈매/NNG 3
-政府側/SH 2
+JKG/SL 298
 全仁恒/SH 2
+JKG/SN 231
 무가/NNG 8
-축축이/MAG 2
+JKG/SH 2139
 반역자/NNG 4
 상쾌감/NNG 1
 duty/SL 1
@@ -9188,7 +9290,7 @@ duty/SL 1
 時/SH 2
 웅성거리/VV 6
 내리쬐/VV 3
-이단/NNG 11
+상당/NNG 304
 딱딱이/NNG 2
 우의천/NNP 1
 위무/NNG 2
@@ -9337,6 +9439,7 @@ Jerry/SL 1
 간질병/NNG 2
 민진당/NNP 2
 서빙고/NNP 3
+XR/NP 1
 社說/SH 80
 황어/NNG 3
 공주시/NNP 13
@@ -9515,7 +9618,7 @@ EOD/SL 1
 참봉/NNG 4
 거저/MAG 12
 카랑/XR 1
-시구/NNG 28
+지시/NNG 227
 繫組五/SH 1
 쉿/IC 3
 代父/SH 1
@@ -9551,6 +9654,7 @@ Duesenberry/SL 1
 상반신/NNG 13
 r/SL 1
 행등/NNG 1
+XSN/XSN 583
 사말/NNG 1
 김천택/NNP 4
 432/SN 1
@@ -9692,7 +9796,7 @@ careerism/SL 1
 남주여대/NNG 1
 長壽/SH 1
 금가항/NNP 1
-東仁/SH 2
+SF/IC 413
 유병옥/NNP 1
 王/SH 6
 옛길/NNG 2
@@ -9748,6 +9852,7 @@ Naturwissenschaft/SL 1
 釜山港/SH 2
 병리/NNG 23
 謝六逸/SH 1
+reservation/SL 14
 1951/SN 1
 五行/SH 1
 제청자/NNG 1
@@ -9779,6 +9884,7 @@ Mitigated/SL 1
 0684/SN 1
 2020/SN 10
 교통세/NNG 2
+중창/NNG 12
 야나기/NNP 2
 은행구조조정청/NNG 1
 마르세유/NNP 1
@@ -9806,7 +9912,7 @@ Mitigated/SL 1
 변혁기/NNG 4
 코스닥/NNG 1
 장항/NNP 1
-이삿짐/NNG 11
+NNP/NNP 345
 時有一熊一虎/SH 1
 키퍼/NNP 1
 감전동/NNP 2
@@ -9814,7 +9920,7 @@ reproducibility/SL 1
 하락세/NNG 54
 957/SN 1
 류/XSN 205
-大阿飡/SH 1
+NNP/NNB 365
 부즉주유/NNG 1
 공중분해/NNG 2
 독자란/NNG 1
@@ -9830,6 +9936,8 @@ reproducibility/SL 1
 사병/NNG 12
 은유/NNG 3
 시재종숙/NNG 1
+여보쇼/IC 3
+幸福/SH 2
 속상하/VA 6
 삶기/VV 1
 자연조건/NNG 1
@@ -9862,18 +9970,18 @@ kedo/SL 1
 윤/NNP 44
 貴族群/SH 1
 貴/SH 1
-풍양/NNP 1
+NNB/NNB 1600
 보총/NNG 6
 특사/NNG 13
 목기/NNG 2
 항암제/NNG 2
-닥규빙/NNP 1
+NNB/NNG 3732
 번외/NNG 2
 간또/NNP 5
 新婦入來日/SH 1
 行初獻禮/SH 1
 원비/NNP 1
-例/SH 3
+NNB/NNP 2490
 선보/VV 1
 金寅錫/SH 1
 신수/NNG 4
@@ -9885,13 +9993,13 @@ kedo/SL 1
 미인/NNG 20
 시/EP 2178
 풍월도/NNG 1
-매니큐어/NNG 2
+NP/JX 2
 종각역/NNP 4
 南山徒/SH 1
 공화구/NNG 1
 노학/NNG 1
 삼성전/NNG 2
-상담자/NNG 2
+積極性/SH 2
 수상식/NNG 2
 은도금/NNG 1
 縱/SH 1
@@ -9929,7 +10037,7 @@ BC/SL 23
 관상/NNG 26
 아나키즘/NNG 10
 處分難/SH 1
-라인/NNG 41
+찬장/NNG 7
 그린피트/NNP 1
 작센/NNP 2
 디스터/NNG 1
@@ -9941,7 +10049,7 @@ BC/SL 23
 려는/ETM 790
 탈색/NNG 10
 프로그램/NNG 332
-블라우/NNP 2
+NNB/EC 18
 論說委員/SH 1
 이끌/VV 221
 폐활량/NNG 1
@@ -9959,6 +10067,7 @@ BC/SL 23
 ㎘/SW 1
 西園徒/SH 1
 꿀림집/NNG 1
+삼녀/NNG 1
 금식/NNG 2
 理性/SH 4
 패듀릭/NNP 1
@@ -9981,6 +10090,7 @@ Eckert/SL 1
 한껏/MAG 35
 존장초장소축사/NNG 1
 극기심/NNG 3
+NP/JC 1
 외숙/NNG 2
 宿願/SH 2
 투숙/NNG 11
@@ -10007,6 +10117,7 @@ Eckert/SL 1
 스콜라/NNG 5
 반/XPN 219
 충군애국/NNG 1
+透明/SH 1
 검표원/NNG 1
 SPD/SL 1
 輸入價/SH 1
@@ -10201,8 +10312,9 @@ angel/SL 1
 티미/NNP 1
 분석/NNG 404
 문우/NNG 1
-이무연/NNP 1
+SN/ETM 9
 부추/NNG 3
+SN/ETN 1
 부딪히/VV 21
 도영심/NNP 1
 후천/NNG 10
@@ -10262,7 +10374,7 @@ bioremediation/SL 1
 노기/NNG 2
 애손/NNG 1
 고흥/NNP 2
-보컬/NNG 6
+살차/VA 2
 석탑/NNG 2
 징민/NNG 1
 숭배/NNG 54
@@ -10284,6 +10396,7 @@ Apr/SL 1
 休戰署名/SH 1
 망국/NNG 8
 통합고/NNG 1
+convertible/SL 1
 混沈住境/SH 3
 기계관/NNG 1
 뒤탈/NNG 2
@@ -10330,6 +10443,7 @@ VDOnet/SL 2
 亦同殿下蔽膝/SH 1
 나태/NNG 6
 천단/NNG 1
+직업병/NNG 3
 문화동/NNP 2
 우물우물/MAG 6
 重化學工業製品/SH 9
@@ -10373,12 +10487,12 @@ Cantor/SL 1
 自衛隊/SH 1
 창작/NNG 94
 예사로이/MAG 1
-含蓄/SH 1
+XSV/SS 415
 虎皮/SH 1
 집현전/NNG 1
-문중섭/NNP 2
+XSV/SW 2
 공음전/NNG 1
-박희태/NNP 2
+송소석/NNP 4
 법당/NNG 28
 소도/NNG 1
 강력범/NNG 2
@@ -10386,11 +10500,12 @@ Cantor/SL 1
 레스터/NNP 2
 부약정/NNG 1
 추진위/NNG 13
-枝/SH 1
-善心/SH 2
+SF/NNG 2094
+XSV/SE 1
 레스/NNP 2
 젊은이/NNG 196
 점포/NNG 59
+XSV/SH 522
 홍복/NNG 3
 속상/XR 2
 姓名哲學館/SH 1
@@ -10417,15 +10532,18 @@ Cantor/SL 1
 송금액/NNG 2
 귀고리/NNG 2
 시험/NNG 245
-대수비/NNG 2
+NNG/JKG 59
+NNG/JKB 5
 송대수/NNP 5
 support/SL 2
 方心曲領/SH 2
+NNG/JKO 1
 고대인/NNG 6
 하옇든/MAG 1
 내금정/NNG 1
 프랜차이즈/NNG 3
 시다/EF 11
+NNG/JKS 4
 타익/NNG 1
 human/SL 1
 이규증/NNP 3
@@ -10474,6 +10592,7 @@ Jay/SL 1
 금물/NNG 12
 중등학교/NNG 14
 文吉煥/SH 1
+신두희/NNP 1
 상회/NNG 28
 帝王/SH 2
 근기/NNG 2
@@ -10623,6 +10742,7 @@ deduction/SL 1
 칼국수/NNG 5
 新主/SH 1
 넘어지/VV 29
+후각/NNG 1
 再輸入/SH 1
 外助/SH 1
 게반트하우스/NNP 1
@@ -10732,6 +10852,7 @@ receipt/SL 1
 凡有家故不得已遷葬者/SH 1
 TeleEducation/SL 1
 남농의/NNP 1
+병창/NNG 3
 난입/NNG 6
 소수파/NNG 3
 무너지/VV 149
@@ -10739,7 +10860,7 @@ TeleEducation/SL 1
 BRCA/SL 4
 Fisher/SL 1
 부산/NNG 11
-경험담/NNG 6
+탁탁/MAG 5
 회격/NNG 1
 Occident/SL 1
 첩/NNB 1
@@ -10987,6 +11108,7 @@ exe/SL 2
 아침상/NNG 3
 Vom/SL 1
 수나무/NNG 3
+NNB/JKG 14
 식보/NNG 1
 소폭/NNG 40
 식목일/NNG 2
@@ -11010,6 +11132,8 @@ KDD/SL 1
 떨리/VV 70
 향안/NNG 10
 오선지/NNG 1
+일련번호/NNG 1
+나무뿌리/NNG 2
 좆심/NNG 1
 콩코드/NNP 1
 울적/NNG 1
@@ -11018,7 +11142,7 @@ KDD/SL 1
 犯忌/SH 1
 알프스산/NNP 2
 성추행/NNG 2
-산드로/NNP 1
+가꾸/VV 81
 감전국교/NNP 3
 후려치/VV 4
 충즉진명/NNG 1
@@ -11142,7 +11266,7 @@ religious/SL 1
 음울/XR 4
 소똥/NNG 1
 악당/NNG 6
-으뜸/NNG 15
+예습/NNG 4
 캔터베리/NNP 1
 동/NNG 102
 신탁업/NNG 1
@@ -11152,6 +11276,7 @@ religious/SL 1
 아기장수/NNG 16
 주민/NNG 413
 사방팔방/NNG 1
+FV/SL 1
 韓信/SH 1
 現象/SH 4
 重商主義的/SH 1
@@ -11161,7 +11286,7 @@ religious/SL 1
 씨름인/NNG 8
 삶/NNG 796
 뼛골/NNG 1
-畵面化/SH 1
+NP/EC 20
 초전도체/NNG 1
 선남면/NNP 1
 漸移地帶/SH 1
@@ -11246,7 +11371,7 @@ Brunelleschi/SL 1
 PS/SL 1
 客恭揖而退/SH 1
 시달림/NNG 2
-짐짝/NNG 1
+강애숙/NNP 1
 Scythian/SL 1
 風流道/SH 1
 핵미사일/NNG 6
@@ -11425,7 +11550,7 @@ Mayo/SL 1
 神託/SH 1
 腸炎/SH 1
 판서상대호군/NNG 1
-文憲書院/SH 1
+對東南亞/SH 2
 紅桃飮/SH 1
 닭집/NNG 1
 각론/NNG 27
@@ -11455,7 +11580,8 @@ Mayo/SL 1
 拘束起訴率/SH 1
 구변/NNG 1
 철퇴/NNG 5
-장년기/NNG 1
+NNG/NNB 1015
+NNG/NNG 82785
 빙점/NNG 2
 論山郡/SH 3
 돌연히/MAG 1
@@ -11463,6 +11589,7 @@ Mayo/SL 1
 나프타/NNP 5
 한국일보사/NNP 10
 주름잡/VV 10
+NNG/NNP 8169
 人事/SH 7
 三別抄軍/SH 1
 동인/NNG 50
@@ -11481,6 +11608,7 @@ Mayo/SL 1
 淸州二十五掌內也/SH 1
 세달/NNP 2
 막연/XR 60
+볼셰비키/NNP 1
 출생증/NNG 1
 대로/NNG 2
 사바/NNG 1
@@ -11490,12 +11618,13 @@ Mayo/SL 1
 데/NNP 1
 과녘/NNG 1
 四十七顆/SH 1
-透明/SH 1
+VA 57299
 want/SL 1
 安定心理/SH 1
 1984/SN 22
 명계/NNG 1
 Elements/SL 1
+NNG/NA 1
 동중국해대륙붕/NNP 1
 1493/SN 2
 聖山/SH 1
@@ -11504,10 +11633,11 @@ Elements/SL 1
 평과/NNG 1
 Informatization/SL 1
 항쟁/NNG 36
-直月先署名後/SH 1
+VV 261763
 생산력/NNG 27
-오미환/NNP 6
+VX 74462
 평사원/NNG 1
+NNG/NP 778
 Galilei/SL 3
 찰리/NNP 4
 핑후유정/NNP 1
@@ -11597,7 +11727,7 @@ Intercontinental/SL 1
 아버님/NNG 18
 카나토스/NNP 3
 민원/NNG 24
-공한/NNG 2
+NNP/XPN 164
 솜옷/NNG 1
 킬로바이트/NNB 4
 산서/NNG 2
@@ -11605,7 +11735,7 @@ Intercontinental/SL 1
 하교/NNG 4
 한국노동연구소장/NNG 1
 제갈공명/NNP 2
-ㅁ세/EC 1
+사상가/NNG 26
 남정도/NNP 1
 조서/NNG 7
 인종학/NNG 1
@@ -11615,24 +11745,26 @@ Intercontinental/SL 1
 낚시회/NNG 1
 赤松/SH 1
 매화/NNG 6
+결단코/MAG 2
 언쟁/NNG 6
 其家力有不足/SH 1
-순이익/NNG 7
+XSV 101321
 마티엘/NNG 1
 옥녀/NNG 2
 터럭/NNG 1
-육지/NNG 31
+JKO/SN 76
 皆徒行則相揖而過凡徒行/SH 1
 매파/NNG 1
 체이슨스/NNP 1
 기자실/NNG 1
+XSA 33766
 용무/NNG 4
 두들기/VV 22
 由是而生/SH 1
 파탄/NNP 1
 브라질/NNP 98
 字/SH 9
-國家保衛委員會/SH 1
+XSN 66547
 特別法運用責任者/SH 1
 ranking/SL 1
 입원비/NNG 1
@@ -11718,6 +11850,7 @@ must/SL 3
 그나저나/MAG 5
 中小/SH 2
 굿마/NNP 2
+기념상/NNG 2
 씨붙임/NNG 1
 문족/NNG 1
 회사장/NNG 1
@@ -11738,7 +11871,7 @@ must/SL 3
 부림사건/NNP 1
 국방군/NNG 1
 여행법/NNG 1
-백일치성/NNG 1
+수류/NNP 1
 自體準備/SH 1
 아이티/NNP 1
 외손/NNG 24
@@ -11839,6 +11972,7 @@ imf/SL 5
 이민섭/NNP 4
 Wechslelr/SL 1
 形成段階/SH 1
+犯則品/SH 1
 변광호/NNP 1
 예속/NNG 36
 오프/NNG 3
@@ -11959,7 +12093,7 @@ Drucker/SL 1
 그이/NP 12
 본건/NNG 10
 담아내/VV 9
-address/SL 4
+161/SN 3
 마부/NNG 14
 모시/VV 287
 777/SN 4
@@ -11990,7 +12124,7 @@ address/SL 4
 모트/NNP 2
 주임/NNG 72
 Atlantic/SL 1
-음역/NNG 3
+경계심/NNG 11
 유대인/NNG 39
 transit/SL 1
 Folk/SL 2
@@ -12082,7 +12216,7 @@ FAO/SL 1
 유일신/NNG 3
 그윽/XR 11
 오클라호마/NNP 2
-引火性/SH 1
+SN/XPN 1227
 물수건/NNG 2
 재종숙모/NNG 1
 농도/NNG 24
@@ -12332,7 +12466,7 @@ Avoidance/SL 3
 및/MAJ 2232
 강동구/NNP 3
 정업원/NNP 1
-꺼내/VV 163
+JKG/XSN 5962
 名相/SH 1
 正朝/SH 1
 approach/SL 5
@@ -12364,7 +12498,7 @@ Cousin/SL 1
 런던대학/NNP 1
 비닐/NNG 44
 미모/NNG 4
-카모나/NNP 1
+或黨惡飾言有所掩覆/SH 1
 가에아/NNP 1
 초대소/NNG 136
 친(親)히/MAG 1
@@ -12403,7 +12537,7 @@ Cousin/SL 1
 나부랭이/NNG 1
 여간/MAG 54
 微視的/SH 4
-선/NNG 329
+李炳浩/SH 3
 옐친/NNP 60
 구도/NNG 73
 정지태/NNP 4
@@ -12453,7 +12587,7 @@ Moody/SL 3
 돋/VV 19
 수근거리/VV 4
 결성/NNG 51
-내/VV 1063
+정확히/MAG 79
 촉발제/NNG 1
 깨끗/XR 168
 며느리/NNG 150
@@ -12500,6 +12634,7 @@ USIA/SL 2
 857/SN 1
 一元化/SH 2
 若當朗物而其數不定者/SH 1
+만기채/NNG 1
 팬히터/NNG 3
 카세트/NNG 4
 아르마/NNP 1
@@ -12543,7 +12678,7 @@ USIA/SL 2
 일중일체다중일/NNG 2
 pooh/SL 2
 本稿/SH 4
-제일초/NNP 1
+SN/MAG 1
 퍼레이드/NNG 4
 씨암탉/NNG 1
 주례/NNG 18
@@ -12648,6 +12783,7 @@ Popper/SL 1
 대흥도/NNP 1
 최용석/NNP 2
 主宗商品/SH 1
+오합지졸/NNG 1
 高度化/SH 4
 성모학교/NNP 2
 전군/NNG 2
@@ -12663,7 +12799,7 @@ Popper/SL 1
 需給事情/SH 1
 간곡히/MAG 4
 1234/SN 2
-색슨족/NNP 1
+370/SN 3
 후자/NNG 50
 연기/NNG 172
 골병/NNG 3
@@ -12852,6 +12988,7 @@ Rahe/SL 1
 예고/NNG 80
 한량/NNG 4
 뱃지/NNG 7
+백일치성/NNG 1
 com/SL 27
 르피가로지/NNP 1
 긴박/NNG 10
@@ -12966,6 +13103,7 @@ who/SL 1
 짊어지/VV 42
 FO/SL 1
 社會意識/SH 1
+NR/XSN 41
 신곡/NNP 1
 나뭇결무늬/NNG 1
 모시/NNG 6
@@ -13051,7 +13189,7 @@ Naisbitt/SL 2
 교계/NNG 9
 陳謝/SH 1
 1643/SN 1
-원운동/NNG 46
+달걀/NNG 25
 부리나케/MAG 2
 박준병/NNP 8
 박종률/NNP 1
@@ -13101,6 +13239,7 @@ Alighieri/SL 1
 하얼빈/NNP 2
 中原/SH 2
 연계/NNG 91
+危機/SH 6
 경신례/NNG 1
 난투극/NNG 1
 김지숙/NNP 1
@@ -13121,6 +13260,7 @@ Alighieri/SL 1
 3131/SN 1
 강회/NNG 1
 장막/NNG 13
+관모/NNG 2
 알프스산맥/NNP 1
 死活/SH 2
 연포/NNG 1
@@ -13135,6 +13275,7 @@ Alighieri/SL 1
 失政/SH 2
 키/NNP 1
 공업구/NNG 1
+금송/NNG 1
 好奇/SH 1
 박재찬/NNP 1
 인정담/NNG 1
@@ -13160,6 +13301,7 @@ Alighieri/SL 1
 其日早朝使子弟/SH 1
 부계/NNG 99
 시어멍/NNG 1
+VCP/ETN 135
 使者/SH 2
 왕망/NNP 1
 조동일/NNP 6
@@ -13180,10 +13322,10 @@ acceptable/SL 1
 노예/NNG 69
 틀어박히/VV 14
 Win/SL 2
-이산화질소/NNG 1
+종월/NNP 1
 예당/NNP 1
 官認/SH 2
-예습/NNG 4
+흑산도/NNP 4
 나누미/NNP 1
 경제국/NNG 2
 보상액/NNG 1
@@ -13228,6 +13370,7 @@ historisch/SL 1
 차손/NNG 1
 썬마이크로시스템즈사/NNP 1
 someone/SL 2
+鄭海永/SH 2
 가지각색/NNG 2
 내상/NNG 5
 롬비니/NNP 2
@@ -13270,6 +13413,7 @@ TWQ/SL 1
 새/VV 50
 미사여구/NNG 4
 招福/SH 1
+蔚山/SH 2
 협조문/NNG 1
 이다지/MAG 3
 입영/NNG 3
@@ -13312,7 +13456,7 @@ Coelestium/SL 1
 굽/VV 51
 개구멍/NNG 3
 놀이터/NNG 9
-lending/SL 1
+SN/NR 1163
 긷/VV 18
 낮도깨비/NNG 1
 세모/NNG 7
@@ -13324,7 +13468,7 @@ spup/SL 1
 흥인문/NNP 1
 市/SH 7
 카풀/NNG 1
-리모컨/NNG 3
+구둣발/NNG 9
 팔아먹/VV 13
 마력/NNG 2
 中共中央統戰部/SH 1
@@ -13333,7 +13477,6 @@ spup/SL 1
 星州郡/SH 3
 혼비백산/NNG 4
 衣/SH 6
-節食/SH 1
 슈퍼/NNG 36
 Green/SL 2
 SMMF/SL 1
@@ -13408,7 +13551,9 @@ Baroque/SL 1
 艮翁/SH 1
 1767/SN 1
 농민회/NNG 1
+NNG/MAG 159
 재테크/NNG 4
+不振/SH 2
 지루/XR 50
 거보/NNG 2
 거죽/NNG 1
@@ -13429,7 +13574,7 @@ history/SL 2
 탕아/NNG 1
 느냐며/EC 3
 서베이/NNG 1
-입성/NNG 12
+외총/NNG 1
 所謂惡者/SH 1
 km/SW 27
 인문대/NNG 3
@@ -13482,7 +13627,7 @@ CELL/SL 1
 필브리크/NNP 1
 피장자/NNG 1
 Pushing/SL 1
-실/NNG 68
+엮/VV 67
 가락국기/NNP 1
 김재찬/NNP 1
 소대상/NNG 1
@@ -13531,7 +13676,7 @@ UBS/SL 6
 授官告辭禮/SH 2
 하극상/NNG 2
 Les/SL 2
-김룡수/NNP 1
+응원단장/NNG 1
 readiness/SL 1
 특히/MAG 1460
 연합/NNG 144
@@ -13606,7 +13751,7 @@ outcomes/SL 2
 1940/SN 7
 목질/NNG 2
 절록/NNG 1
-입약/NNG 1
+朴海楨/SH 1
 두말없이/MAG 1
 음직/EC 27
 偶發債務/SH 1
@@ -13692,7 +13837,9 @@ outcomes/SL 2
 왕제산/NNP 1
 조강선/NNP 3
 연구사/NNG 3
-頂上/SH 2
+NR/NP 2
+298/SN 1
+NR/NR 130
 首陽山/SH 1
 층층이/MAG 2
 담수/NNP 2
@@ -13707,6 +13854,7 @@ service/SL 7
 철썩철썩/MAG 1
 인스피레이션/NNG 1
 寄齋生/SH 1
+XR 27578
 동음이의어/NNG 2
 빵꾸/NNG 2
 반월성/NNP 4
@@ -13754,6 +13902,7 @@ intellectual/SL 1
 책걸상/NNG 13
 공안부/NNG 3
 성수면/NNP 1
+中央執行委/SH 1
 호세아/NNP 1
 宋惠淑/SH 1
 괜시리/MAG 2
@@ -13789,7 +13938,7 @@ we/SL 6
 역함/NNG 1
 홀어머니/NNG 9
 定置/SH 1
-계략/NNG 4
+항차/NNG 1
 Cannon/SL 6
 타임워너/NNP 1
 키로프아카데미/NNP 2
@@ -14022,7 +14171,7 @@ circuit/SL 2
 且出壯奴一人持三日糧/SH 1
 平天下/SH 1
 위구르자치구/NNP 1
-금송/NNG 1
+흥겹/VA 11
 별짓/NNG 2
 直接投資家/SH 2
 한국정치외교사학회/NNP 1
@@ -14091,6 +14240,7 @@ terrestial/SL 1
 조직체/NNG 11
 압도/NNG 51
 시디롬/NNG 15
+XSA/SH 112
 바끄/NNG 1
 現行産油制限/SH 1
 셋트/NNG 2
@@ -14098,7 +14248,7 @@ terrestial/SL 1
 역전/NNG 30
 어의/NNG 9
 노름빚/NNG 2
-일성령/NNG 1
+장원두/NNP 1
 정예진/NNP 1
 자손지절/NNG 1
 후루룩후루룩/MAG 1
@@ -14111,7 +14261,7 @@ terrestial/SL 1
 吉女/SH 1
 절대법/NNG 1
 軍發展/SH 1
-舊株取得/SH 4
+XSA/SS 41
 얼음장/NNG 2
 敍述/SH 2
 석류/NNG 1
@@ -14221,7 +14371,6 @@ Character/SL 1
 공천심사위/NNP 12
 rete/SL 1
 或誣人過惡以無爲有/SH 1
-실업고/NNG 8
 law/SL 2
 油價/SH 2
 敬栗齋/SH 1
@@ -14240,6 +14389,7 @@ law/SL 2
 입견/NNG 1
 잠식/NNG 26
 時限/SH 1
+고무인/NNG 2
 숙방비/NNG 2
 일구일혼/NNG 1
 分類/SH 2
@@ -14311,6 +14461,7 @@ Finno/SL 1
 얼기설기/MAG 4
 차갑/VA 37
 간과/NNG 48
+玉/SH 1
 황해도/NNP 8
 급식/NNG 9
 흰색/NNG 31
@@ -14478,7 +14629,6 @@ skepticism/SL 1
 글자체/NNG 4
 도다/EC 10
 갱단/NNG 1
-구두/NNG 71
 개미/NNG 24
 묘지난/NNG 2
 우툴두툴/MAG 2
@@ -14567,7 +14717,7 @@ Yes/SL 3
 經營者/SH 3
 좋/VV 1
 붕우지도/NNG 1
-최태복/NNP 2
+1369/SN 1
 동각/NNP 1
 Festinger/SL 1
 公/SH 6
@@ -14660,7 +14810,7 @@ supposed/SL 1
 무게/NNG 71
 가급적/MAG 20
 스판/NNP 1
-친면/NNG 1
+SP/EC 17135
 AM/SL 2
 建設相/SH 1
 趙昌杰/SH 1
@@ -14677,7 +14827,7 @@ WFP/SL 7
 명동대성당/NNP 2
 칸/NNG 55
 광개토부동산/NNP 1
-178/SN 10
+벌걸음/NNG 1
 총각김치/NNG 1
 고딕/NNG 3
 와트슨/NNP 1
@@ -14697,7 +14847,7 @@ shocked/SL 1
 命課學/SH 1
 심도자/NNG 1
 지피/VV 5
-소형차/NNG 6
+XSN/$ 159
 중국집/NNG 8
 부제/NNG 24
 메밀대/NNG 1
@@ -14717,7 +14867,7 @@ lycee/SL 1
 청리학교/NNP 1
 浮沈/SH 1
 Swap/SL 1
-위성체/NNG 10
+소니사/NNP 2
 채우/VV 122
 8752/SN 1
 비쳐치/NNG 1
@@ -14769,7 +14919,7 @@ move/SL 1
 技能人/SH 1
 主題/SH 1
 부급/NNG 1
-로마/NNP 283
+파슨스/NNP 2
 學者/SH 3
 입신양명/NNG 3
 Mi/SL 1
@@ -14851,7 +15001,7 @@ Bonn/SL 1
 분법/NNG 3
 적합/XR 93
 잔류물/NNG 1
-불요불급/NNG 3
+구두/NNG 71
 主人始起/SH 1
 격몽요결/NNG 5
 연오랑/NNP 1
@@ -14871,7 +15021,7 @@ Bonn/SL 1
 박명보/NNP 1
 theory/SL 9
 季祭/SH 1
-변/NNP 23
+학습실/NNG 8
 학술원/NNG 1
 저희/NP 76
 趙珖/SH 1
@@ -14907,6 +15057,7 @@ Learning/SL 1
 弄/SH 1
 政策的/SH 9
 辛奉乘/SH 1
+左穆右昭/SH 1
 三染終色爲吾/SH 1
 이상무/NNP 1
 안대/NNG 1
@@ -14947,7 +15098,7 @@ SAVE/SL 1
 부촌/NNG 1
 학교장/NNG 7
 漢文/SH 2
-橙於議政府/SH 1
+듯/NNB 854
 여성/NNG 575
 홀링스/NNP 1
 학회장/NNG 1
@@ -14985,7 +15136,7 @@ Pattison/SL 1
 월차/NNG 3
 타전/NNG 1
 독촉/NNG 12
-밥숟가락/NNG 1
+척척/MAG 8
 동프리슬란드/NNP 6
 시간제한/NNG 1
 態度/SH 1
@@ -15040,10 +15191,12 @@ Home/SL 2
 뉴라이프플랜/NNG 2
 울대/NNG 1
 효/NNG 66
+勞使/SH 1
 산림녹화/NNG 1
 불개미/NNG 1
 毒/SH 1
 則尊者只入靈座前坐哭/SH 1
+급살/NNG 1
 천노엘/NNP 1
 들볶/VV 6
 처리장/NNG 3
@@ -15191,6 +15344,7 @@ dessert/SL 1
 허리띠/NNG 22
 市域/SH 1
 대학/NNG 1715
+SS/VA 1
 동창회/NNG 13
 谷崎潤一郞/SH 1
 알팔파/NNG 1
@@ -15203,7 +15357,7 @@ dessert/SL 1
 보령항/NNP 1
 바자회/NNG 1
 민허리띠/NNG 1
-유라시아대륙/NNP 2
+SS/VV 8
 대학/NNP 3
 田植/SH 1
 한라/NNP 26
@@ -15395,12 +15549,12 @@ IV/SL 2
 EBS/SL 1
 원산지/NNG 14
 실무/NNG 92
-은혼식/NNG 1
+전대협/NNP 1
 물거름/NNG 1
 벌초/NNG 3
 金大中/SH 18
 낮일/NNG 1
-호요방/NNP 4
+일본말/NNG 10
 네티즌/NNG 34
 대서소/NNG 1
 성장기/NNG 6
@@ -15495,6 +15649,7 @@ IBCA/SL 1
 발육/NNG 12
 씹새끼/NNG 10
 方言/SH 2
+협잡물/NNG 1
 균형식/NNG 2
 베리타스/NNG 1
 稼動/SH 1
@@ -15634,7 +15789,7 @@ Bruner/SL 1
 검인기/NNG 1
 횃불선교센터/NNP 1
 차지/NNG 470
-구석지/VA 2
+SH/$ 20126
 들뢰즈/NNP 1
 재회/NNG 22
 三淸敎育隊/SH 1
@@ -15658,7 +15813,7 @@ Bruner/SL 1
 신명호/NNP 3
 事例/SH 3
 爲國爲民/SH 1
-人生/SH 1
+불국사/NNP 6
 細約靑組/SH 1
 김인범/NNP 1
 덩굴/NNG 1
@@ -15680,7 +15835,6 @@ Model/SL 1
 싱/NNG 1
 languages/SL 3
 어모마/EC 1
-制度的/SH 8
 엽은/NNP 2
 월출/NNG 6
 걸/VV 332
@@ -15733,6 +15887,7 @@ Sunnyvale/SL 1
 정인성/NNP 3
 入學金/SH 1
 헤레즈/NNP 1
+JKO/JC 3
 여치/NNG 1
 다름없/VA 81
 영계/NNP 1
@@ -15748,7 +15903,7 @@ Sunnyvale/SL 1
 終場/SH 1
 右處事之要/SH 1
 당제/NNG 5
-살차/VA 2
+JKO/JX 513
 백암산/NNP 2
 현위/NNG 1
 의구심/NNG 43
@@ -15768,8 +15923,9 @@ Sunnyvale/SL 1
 제라르/NNP 1
 Warburg/SL 1
 심판대/NNG 5
-송소석/NNP 4
+XSN/NR 507
 학술/NNG 75
+XSN/NP 3614
 가늘/VA 41
 특진/NNG 1
 選擧法/SH 1
@@ -15870,7 +16026,7 @@ extremes/SL 1
 흉중/NNG 1
 김대종/NNP 1
 명지대/NNP 7
-나무뿌리/NNG 2
+장남/NNG 111
 어머이/NNG 1
 赤旗/SH 1
 해적/NNG 7
@@ -15900,6 +16056,7 @@ extremes/SL 1
 대인국/NNG 1
 有德/SH 1
 엄서옥/NNP 2
+알파토코페롤/NNG 1
 자비심/NNG 1
 전리/NNG 1
 뉴캐슬대/NNP 1
@@ -15972,7 +16129,7 @@ VDNK/SL 1
 빙의/NNG 3
 anomalist/SL 1
 Pascal/SL 1
-사상가/NNG 26
+ㅁ세/EC 1
 라이선스/NNG 2
 二頭像/SH 1
 NB/SL 1
@@ -16039,6 +16196,7 @@ PPM/SW 2
 마조비에츠키/NNP 1
 主人揖而回身/SH 1
 오의/NNG 1
+오미환/NNP 6
 건강법/NNG 36
 금잔디/NNG 1
 천자수모법/NNG 1
@@ -16272,7 +16430,7 @@ x/SL 3
 외팔이/NNG 8
 디어도/NNP 1
 올섞이/VV 1
-외총/NNG 1
+입성/NNG 12
 전주곡/NNG 4
 서경/NNP 6
 본받/VV 31
@@ -16317,6 +16475,7 @@ Art/SL 1
 도연명/NNP 1
 콜록콜록/MAG 1
 남도/NNG 16
+橙於議政府/SH 1
 勞作演戱/SH 1
 꾀꼬리/NNG 9
 창원군/NNP 1
@@ -16343,6 +16502,7 @@ K/SL 65
 김동준/NNP 2
 장삿속/NNG 5
 고립주의/NNG 9
+듀비비에/NNP 1
 특급/NNG 17
 박물관장/NNG 7
 sich/SL 2
@@ -16467,13 +16627,13 @@ Offset/SL 1
 禮書/SH 2
 pop/SL 4
 古訓/SH 1
-율/XSN 450
+SS/SW 930
 침입자/NNG 3
 유조/NNP 1
 홍종근/NNP 1
 치안대/NNG 1
 或戱言弄人有所侵侮/SH 1
-벌걸음/NNG 1
+178/SN 10
 야총회/NNG 1
 거제/NNP 2
 몰표/NNG 2
@@ -16683,7 +16843,7 @@ platform/SL 1
 박여숙/NNP 1
 머리털자리/NNG 1
 어수록/XR 1
-視聽者/SH 2
+統制/SH 1
 내침/NNG 1
 게오스민/NNG 1
 돈거래/NNG 2
@@ -16735,6 +16895,7 @@ Photocopy/SL 1
 684/SN 2
 손꼽/VV 10
 불쾌감/NNG 24
+Quotation/SL 1
 점퍼/NNG 6
 매/NNG 138
 새장/NNG 2
@@ -16765,6 +16926,7 @@ Photocopy/SL 1
 인사위/NNG 3
 여귀남가/NNG 1
 씨족/NNG 11
+VCP/VCP 2
 만달라/NNP 1
 적위대사/NNG 1
 발령/NNG 26
@@ -16789,6 +16951,7 @@ Photocopy/SL 1
 한건주의/NNG 1
 公式代案/SH 2
 實績/SH 2
+JX/$ 18
 깃털/NNG 5
 申正次/SH 1
 약전/NNG 2
@@ -16999,7 +17162,7 @@ proverty/SL 1
 천진암/NNP 1
 혈세/NNG 9
 삼세판/NNG 1
-흥겹/VA 11
+병약/XR 4
 명찰/NNG 7
 1136/SN 1
 트리스탄/NNP 1
@@ -17010,6 +17173,7 @@ proverty/SL 1
 外貨信用/SH 2
 관계없이/MAG 6
 청산리/NNP 2
+수강료/NNG 3
 신덕성결교회/NNP 1
 오랫만/NNG 5
 지도원/NNG 191
@@ -17094,6 +17258,7 @@ Bracy/SL 1
 동우/NNP 37
 삐뚤어지/VV 1
 尹孝孫/SH 1
+장법/NNG 7
 輸入需要/SH 1
 미끼/NNP 7
 適正/SH 2
@@ -17418,6 +17583,7 @@ Heidelberg/SL 1
 부붕/MAG 1
 춘추의/NNG 1
 첫돌/NNG 2
+鐵槌/SH 1
 OO/SL 7
 대한제국/NNP 3
 중형/NNG 13
@@ -17470,8 +17636,9 @@ Muller/SL 1
 프로그래밍업/NNG 1
 보사연/NNG 7
 9512/SN 2
-항복/NNG 19
+EF/EP 43539
 의천/NNP 2
+金融計定/SH 1
 려구/EF 1
 강동면/NNP 4
 終戰/SH 2
@@ -17534,6 +17701,7 @@ a/SL 50
 으르대/VV 1
 기소/NNG 81
 古今東西/SH 1
+異論/SH 1
 별나/VA 14
 려/EF 2
 인물화/NNG 1
@@ -17566,7 +17734,7 @@ a/SL 50
 박정수/NNP 5
 중흥동/NNP 1
 或爲人謀事反以敗事/SH 1
-도수로/NNG 1
+SP/XSN 828
 반년/NNG 1
 양미리/NNG 3
 조전/NNG 3
@@ -17715,7 +17883,7 @@ L/SL 18
 남태평양/NNP 2
 평평/XR 7
 錯覺/SH 1
-늙은이/NNG 26
+석진강/NNP 2
 출세/NNG 53
 이상복/NNP 1
 家計貸出/SH 2
@@ -17724,7 +17892,7 @@ George/SL 1
 부적/NNG 4
 反動/SH 2
 投資收支/SH 6
-오키스트라/NNG 6
+직접/MAG 400
 여마동/NNP 1
 푹신/XR 1
 대풍/NNG 1
@@ -17851,7 +18019,7 @@ CR/SL 2
 만행/NNG 11
 家禮儀節/SH 1
 namics/SL 1
-이자/NNG 165
+향단이/NNP 1
 한국영화연/NNP 1
 조령관/NNG 1
 마대천/NNP 1
@@ -17883,6 +18051,7 @@ Schoenmaker/SL 1
 발레/NNG 8
 트랙터/NNG 4
 룩스/NNG 1
+總額/SH 1
 임어당/NNP 2
 비만증/NNG 2
 위성/NNG 299
@@ -17969,8 +18138,8 @@ curriculum/SL 1
 문지기/NNG 7
 수덕/NNP 1
 再從妹/SH 1
-覆試/SH 2
-문안드리/VV 1
+JKS/NR 228
+JKS/NP 5408
 진면목/NNG 3
 平安/SH 1
 서한/NNG 13
@@ -18072,7 +18241,7 @@ Peter/SL 4
 김현준/NNP 3
 지황/NNG 1
 束手無策/SH 1
-김광보/NNP 1
+VA/$ 55381
 高下/SH 1
 朴寅煥/SH 1
 一過/SH 1
@@ -18142,7 +18311,7 @@ Dramatica/SL 1
 집도/NNG 1
 구룡포/NNP 4
 사하촌/NNP 1
-Sputnik/SL 1
+알라/NNP 4
 송충/NNG 1
 分離/SH 1
 교감/NNG 116
@@ -18264,6 +18433,7 @@ HDTV/SL 2
 관리단/NNG 2
 인천역/NNP 1
 우우/IC 1
+VV/SL 7
 루르드/NNP 5
 君爲臣綱/SH 1
 구요/EF 21
@@ -18409,6 +18579,7 @@ POS/SL 4
 모공론/NNG 1
 다산/NNP 35
 도박/NNG 67
+네로/NNP 1
 對立點/SH 1
 流動/SH 1
 藍紬杰赤古里/SH 1
@@ -18538,6 +18709,7 @@ Shieldron/SL 1
 재천/NNP 1
 장따이천/NNP 2
 요란/XR 1
+SH/NA 2
 똥줄/NNG 1
 그제야/MAG 20
 經濟行政/SH 1
@@ -18547,8 +18719,9 @@ Shieldron/SL 1
 동백나무/NNG 4
 벡터사/NNP 1
 巨物級/SH 1
-카시미론/NNG 1
+SH/NR 5
 저돌/XR 1
+SH/NP 3
 고리타분/XR 1
 詩句/SH 1
 바랑/NNG 3
@@ -18799,6 +18972,7 @@ age/SL 1
 부시시/MAG 4
 自家/SH 1
 상지대/NNP 1
+강감찬/NNP 1
 김수용/NNP 1
 프라이머리/NNG 5
 發顯/SH 1
@@ -18808,6 +18982,7 @@ age/SL 1
 가/VX 1448
 정종복/NNP 2
 세몰이/NNG 1
+평화방송/NNP 15
 先親/SH 2
 본능/NNG 70
 화창/XR 2
@@ -18817,6 +18992,7 @@ age/SL 1
 팽명민/NNP 2
 골든/NNG 2
 케이블카/NNG 1
+그레/NNG 1
 2200/SN 2
 월송암/NNG 1
 Cassini/SL 1
@@ -18836,7 +19012,7 @@ multimedia/SL 1
 밀리/NNB 9
 代表的/SH 1
 護喪/SH 2
-미라/NNP 1
+마/EF 3
 고레띠/NNP 1
 고태우/NNP 1
 물어뜯/VV 5
@@ -18899,7 +19075,7 @@ sir/SL 2
 변이/NNG 5
 和而不同/SH 1
 不足/SH 7
-辯/SH 1
+XSN/ETN 8
 檢印/SH 1
 李用茂/SH 1
 아스라히/MAG 1
@@ -18963,7 +19139,7 @@ soap/SL 1
 식수/NNG 23
 창자/NNG 6
 요가/NNG 2
-나레이션/NNG 1
+석가사/NNP 9
 춘양/NNG 1
 난맥/NNG 7
 정주/NNP 1
@@ -19036,7 +19212,7 @@ Th/SL 1
 콜린/NNP 2
 총무과장/NNG 2
 생활용수/NNG 1
-논점/NNG 1
+버금/NNG 1
 빙그레/NNP 2
 중국인/NNG 43
 273/SN 1
@@ -19044,7 +19220,7 @@ CATV/SL 12
 피히테/NNP 3
 반발감/NNG 1
 위원국/NNG 1
-기오스크/NNG 1
+SF/JX 247
 시공비/NNG 1
 고환/NNG 12
 몽고/NNP 37
@@ -19093,14 +19269,15 @@ mysticsim/SL 1
 식물원/NNG 1
 新株/SH 1
 장황/XR 12
-40/SN 426
+안면/NNG 21
+SS/MAG 133
 돌짐승/NNG 1
 엘리어트/NNP 1
 댓금/NNG 3
 Moore/SL 1
 O/SL 25
 소유자/NNG 18
-권태감/NNG 1
+SS/MAJ 3
 使人告以有某客不能出迎/SH 1
 슐라이르막허/NNP 1
 흐릿/XR 7
@@ -19117,7 +19294,7 @@ O/SL 25
 富民/SH 1
 ticker/SL 1
 순환/NNG 72
-김선창/NNP 21
+조정/NNG 557
 의미심장/XR 4
 값/NNG 219
 옭/VV 2
@@ -19165,7 +19342,7 @@ ticker/SL 1
 상한선/NNG 10
 이정빈/NNP 3
 불순물/NNG 2
-암기/NNG 15
+아야만/EC 38
 문소현/NNP 1
 제왕운기/NNP 1
 도자기전/NNG 1
@@ -19206,7 +19383,7 @@ ticker/SL 1
 인사춘풍/NNG 1
 Mark/SL 2
 정남희제/NNP 1
-강애숙/NNP 1
+節食/SH 1
 부곡/NNP 1
 앓아눕/VV 1
 정겹/VA 11
@@ -19225,12 +19402,12 @@ Mark/SL 2
 특실/NNG 1
 225/SN 1
 독립전쟁/NNP 2
-집적/NNG 12
+XSN/SH 184
 1678/SN 4
 食糧問題/SH 1
 여행/NNG 316
 Theory/SL 1
-반대표/NNG 2
+XSN/SN 799
 부작/NNG 1
 竹/SH 3
 金山守吉/SH 1
@@ -19242,9 +19419,10 @@ Theory/SL 1
 이준/NNP 1
 중봉/NNG 2
 複合不況/SH 2
-數値上/SH 1
+XSN/SS 264
 되살피/VV 1
 父母之喪則送賻聃布三疋麻布二疋/SH 1
+XSN/SW 46
 따끈/XR 1
 ㄴ다든지/EC 28
 환시/NNG 2
@@ -19316,7 +19494,7 @@ Network/SL 5
 hotel/SL 15
 紛亂/SH 1
 곽성민/NNP 1
-鄭海永/SH 2
+NNB/XPN 4
 利潤性/SH 2
 발자욱/NNG 5
 책하/VV 1
@@ -19357,6 +19535,7 @@ union/SL 1
 集散據點/SH 1
 빠다/NNG 1
 혼/NNG 60
+VV/XPN 7
 국무원/NNG 1
 슬기/NNG 34
 거들/VV 28
@@ -19502,7 +19681,7 @@ walking/SL 1
 맨해튼은행/NNP 2
 진열법/NNG 1
 世襲的/SH 1
-허자/NNP 1
+司貨監收藏之以續用度/SH 1
 대니보일/NNP 1
 츠빙거박물관/NNP 1
 흉포/XR 4
@@ -19522,6 +19701,7 @@ Ineustrialization/SL 1
 휴양지/NNG 10
 초롱/NNG 4
 소자/NNG 6
+JKB/JKB 173
 최단/NNG 3
 이/NNP 319
 일간지/NNG 18
@@ -19532,7 +19712,7 @@ Ineustrialization/SL 1
 文日鉉/SH 6
 견습/NNG 1
 몇몇/NR 7
-뒷거래/NNG 1
+JKB/JKO 4
 김시담/NNP 1
 소음원/NNG 2
 이/NNG 91
@@ -19616,6 +19796,7 @@ Galbadrah/SL 1
 박성훈/NNP 3
 남색/NNG 4
 끝장나/VV 1
+SE/MM 4
 월드와이드웹/NNG 6
 지석묘/NNG 1
 豫覺/SH 1
@@ -19740,6 +19921,7 @@ SNG/SL 3
 진척/NNG 22
 金井山/SH 1
 존폐/NNG 5
+JKB/SP 6
 연화/NNG 2
 북쪽/NNG 117
 武弁/SH 1
@@ -19840,12 +20022,16 @@ ROM/SL 3
 화나노/NNP 1
 불안정/NNG 5
 선대/NNG 8
-當務和敬/SH 1
+JKC/SH 71
+JKC/SL 3
 첨삭/NNG 1
+JKC/SN 14
 성직/NNG 26
 고려증권/NNP 1
+JKC/SS 219
 驢/SH 1
 支給對象/SH 2
+JKC/SW 4
 창포물/NNG 1
 ascribed/SL 1
 학자금/NNG 3
@@ -19897,16 +20083,16 @@ ascribed/SL 1
 임파/NNG 1
 黑漆家具/SH 1
 스파이글라스사/NNP 1
-박동화/NNP 1
 回/SH 2
 미신자/NNG 1
-네로/NNP 1
+對應/SH 3
 시술/NNG 6
 韓華/SH 2
 지도/EC 2
 삼성언론재단/NNP 2
 연락망/NNG 3
 박재규/NNP 1
+JKB/SF 4
 소비재/NNG 61
 네예/EF 1
 파밭/NNG 1
@@ -19997,6 +20183,7 @@ SOC/SL 9
 白布直領/SH 1
 會社型/SH 1
 적/VA 529
+NNB/$ 86399
 모봉모관모씨지구/NNG 1
 物價引上/SH 1
 양이/NNG 3
@@ -20055,6 +20242,7 @@ SOC/SL 9
 1515/SN 1
 마음가짐/NNG 20
 責明/SH 1
+JKB/SO 2
 삼혜동전/NNP 1
 二統爲甲/SH 1
 然後乃請入一/SH 1
@@ -20080,6 +20268,7 @@ SOC/SL 9
 컹탈/NNG 1
 캠프/NNP 3
 麗澤齋/SH 1
+화산회/NNG 1
 북새통/NNG 3
 요사이/NNG 6
 危機說/SH 1
@@ -20177,6 +20366,7 @@ Sparks/SL 1
 분거/NNG 1
 반짝/MAG 12
 帝國/SH 1
+覆試/SH 2
 古今島/SH 1
 e/SL 3
 충실히/MAG 19
@@ -20202,7 +20392,7 @@ e/SL 3
 담소/NNG 4
 블로피시/NNP 1
 오은정/NNP 1
-기술원장/NNG 2
+SN/JKG 10
 금감원/NNG 14
 物議/SH 1
 促求/SH 1
@@ -20231,6 +20421,7 @@ e/SL 3
 현승일/NNP 1
 Man/SL 1
 외피/NNG 1
+JKC/MAG 3
 즉석/NNG 30
 물신/NNG 2
 똑배/NNP 1
@@ -20252,6 +20443,7 @@ homme/SL 2
 상수도/NNG 12
 연립/NNG 31
 의정/NNG 25
+SN/JKS 1
 초간/NNG 1
 시치/NNP 1
 外換去來/SH 1
@@ -20264,6 +20456,7 @@ homme/SL 2
 아교/NNG 1
 박수복/NNP 1
 聲/SH 2
+부락민/NNG 1
 이영주/NNP 1
 準定理/SH 1
 느냐라는/ETM 1
@@ -20276,7 +20469,6 @@ homme/SL 2
 헬라/NNP 4
 철커덕/MAG 2
 尊位/SH 1
-문제/NNG 3425
 상한액/NNG 2
 세/VA 50
 거래국/NNG 1
@@ -20335,7 +20527,7 @@ Ad/SL 8
 보직/NNG 9
 천적/NNG 7
 ㄹ세/EC 6
-資金市場經路/SH 1
+JX/JX 1680
 路上/SH 1
 면강/NNP 1
 ㄹ세/EF 6
@@ -20410,7 +20602,7 @@ Emerging/SL 1
 전영순/NNP 1
 寵臣/SH 1
 접견물/NNG 1
-승화/NNG 27
+VA/ETN 10
 문짝/NNG 7
 경찰국/NNG 1
 운동선수/NNG 10
@@ -20458,6 +20650,7 @@ time/SL 7
 북미/NNP 18
 Grass/SL 1
 事理/SH 2
+VCN/SE 2
 홍성기/NNP 1
 토막/NNG 32
 사감/NNG 4
@@ -20465,11 +20658,11 @@ Grass/SL 1
 순지/NNP 1
 密告者/SH 1
 민극/NNG 1
-십억/NR 2
+굉장히/MAG 22
 우랄/NNP 3
 자유혼/NNG 1
 葡萄狀球菌/SH 1
-總額/SH 1
+VCN/SS 45
 補身/SH 2
 스콜피온/NNP 1
 世生/SH 1
@@ -20488,7 +20681,7 @@ Grass/SL 1
 전손/NNG 4
 중신동/NNP 1
 하문/NNG 1
-출퇴근/NNG 17
+망막/NNG 29
 미메이/NNP 1
 껴안/VV 22
 이별식/NNG 1
@@ -20512,6 +20705,7 @@ Grass/SL 1
 seeing/SL 2
 수호전/NNP 3
 위험/NNG 297
+항복/NNG 19
 本然/SH 1
 지겹/VA 19
 皆織成/SH 2
@@ -20533,7 +20727,7 @@ seeing/SL 2
 베니어판/NNG 2
 용의주도/NNG 3
 과문/NNG 1
-이종옥/NNP 1
+圓柱形足/SH 1
 도이칠란트어/NNP 1
 조원/NNG 3
 구전경험방/NNP 2
@@ -20648,6 +20842,7 @@ Spar/SL 1
 판석/NNG 1
 문명인/NNG 1
 guarantee/SL 1
+무적함대/NNG 1
 김일융/NNP 1
 김경화/NNP 1
 淚屋/SH 2
@@ -20666,6 +20861,7 @@ Michigan/SL 1
 월세비/NNG 1
 魚東肉西/SH 1
 동대문시장/NNP 3
+一流企業/SH 1
 대충/NNG 3
 술청/NNG 2
 ──/SS 1
@@ -20696,14 +20892,16 @@ Werner/SL 1
 으모/EC 2
 왕우승/NNP 1
 심포니/NNG 3
+알피니즘/NNG 1
 디요/EF 3
 630/SN 5
 사계축/NNG 1
+VV/NP 69
 내려치/VV 3
 子婦喪/SH 1
 低層/SH 1
 光/SH 2
-불러들이/VV 17
+선로/NNG 3
 호남선/NNP 15
 흉악범/NNG 6
 방조인/NNG 1
@@ -20724,12 +20922,12 @@ MPPC/SL 1
 귀사/NNG 1
 四旬節/SH 2
 전기/NNG 233
-불초/NNG 1
+省黨/SH 2
 獻壽歌/SH 1
 시찰단/NNG 2
 박/NNG 20
 亞獻官/SH 1
-사용/NNG 1076
+빼/VV 177
 615/SN 2
 향내/NNG 9
 見地/SH 1
@@ -20825,7 +21023,7 @@ Simulator/SL 1
 長恨夢/SH 1
 옥수수/NNG 41
 仍隨其行/SH 1
-문광식/NNP 1
+필리페/NNP 1
 달가워하/VV 3
 진입/NNG 112
 ㄴ다더라/EC 1
@@ -20930,7 +21128,7 @@ Levi/SL 1
 모으/VV 473
 저명/NNG 27
 정론지/NNG 1
-이완제/NNG 1
+주머니/NNG 69
 近日點/SH 1
 용두사미/NNG 4
 罪狀/SH 1
@@ -20950,7 +21148,7 @@ DOS/SL 1
 獨逸/SH 15
 변변히/MAG 1
 휘두르/VV 62
-고국/NNG 29
+SN/MM 45
 일공론/NNG 1
 집짐승/NNG 2
 숙의/NNG 1
@@ -20964,7 +21162,7 @@ DOS/SL 1
 앞일/NNG 1
 신용석/NNP 2
 오르/VV 541
-곳/NNG 1236
+십팔/NR 1
 夏節/SH 1
 三略/SH 1
 절박/XR 32
@@ -21087,7 +21285,7 @@ genetic/SL 1
 겸임/NNG 13
 school/SL 4
 以黑緞爲之/SH 1
-역불급/NNG 1
+XPN 7407
 妙策/SH 1
 문고본/NNG 1
 스머프/NNP 2
@@ -21126,6 +21324,7 @@ Trend/SL 1
 촌장/NNG 2
 청명/NNG 5
 솔직/XR 49
+후보국/NNG 1
 성류굴/NNP 2
 박희도/NNP 1
 체류자/NNG 13
@@ -21236,7 +21435,7 @@ Voluntarist/SL 1
 陶然/SH 1
 곡진/NNG 4
 소모비/NNG 1
-백태/NNG 1
+학생/NNG 1280
 부사장/NNG 9
 라느니/EC 10
 권로갑/NNP 1
@@ -21362,7 +21561,7 @@ vcwelc/SL 1
 큰마음/NNG 1
 이악/XR 1
 1800/SN 3
-경조비/NNG 3
+농대/NNG 2
 전모/NNG 15
 源泉/SH 1
 접경국/NNG 1
@@ -21445,6 +21644,7 @@ LNG/SL 6
 호텔롯데월드/NNP 1
 健全經營努力/SH 1
 最終貸付/SH 1
+제설/NNG 2
 booked/SL 2
 합창/NNG 15
 오작동/NNG 2
@@ -21475,6 +21675,7 @@ fund/SL 1
 종친회/NNG 4
 父子有親/SH 1
 마포/NNG 2
+SS/XPN 28
 퍼킨스/NNP 2
 요꾸/NNG 1
 지양/NNG 33
@@ -21518,10 +21719,10 @@ five/SL 1
 므로/EC 471
 一曰交其人/SH 1
 담금질/NNG 1
-실비/NNG 5
+어요/EF 1159
 새벽별/NNG 1
 뇌이/VV 1
-MIG/SL 1
+코칭스태프/NNG 26
 마네/NNP 6
 주간한국/NNP 5
 고형/NNG 3
@@ -21549,7 +21750,7 @@ MIG/SL 1
 갈아타/VV 13
 안열부락/NNP 1
 시누대/NNG 1
-쉴라이허/NNP 1
+한국전통문화고/NNP 1
 비상계엄/NNG 12
 하인/NNG 14
 남염부주지/NNP 1
@@ -21785,7 +21986,7 @@ Encyclopaedia/SL 1
 先進國中/SH 2
 초군배/NNG 1
 침탈상/NNG 1
-선지자/NNG 2
+NNB/SE 2
 침채/NNG 3
 쇠망사/NNG 1
 업수이/NNG 1
@@ -21955,11 +22156,12 @@ Specials/SL 1
 소문/NNG 135
 聚社爲鄕/SH 1
 一體有心調/SH 1
-이미경/NNP 2
+SH/SP 349
 定言/SH 1
-속바지/NNG 1
+SH/SS 8878
 다글다글/MAG 1
 질기/VA 8
+SH/SW 15
 前部/SH 1
 김신애/NNP 3
 정형/NNG 15
@@ -21969,11 +22171,15 @@ Specials/SL 1
 동창/NNG 43
 plant/SL 1
 아황산/NNG 1
-급행열차/NNG 1
+SH/SE 13
+SH/SF 5
+SH/SH 1
 純黑飾榴首/SH 1
 詭祭/SH 4
 태평양화학/NNP 1
+SH/SL 20
 동방로/NNP 2
+SH/SN 424
 아프터서비스/NNG 1
 내리/VV 665
 북두칠성/NNG 10
@@ -21983,6 +22189,7 @@ plant/SL 1
 세가엔터프라이즈/NNP 1
 묵살/NNG 11
 목래/NNG 39
+갱목/NNG 1
 平均壽命/SH 1
 모래/NNG 48
 喪葬習俗/SH 1
@@ -22009,7 +22216,7 @@ Hooykass/SL 1
 균형자/NNG 1
 무역/NNG 282
 地方組織/SH 1
-석진강/NNP 2
+늙은이/NNG 26
 순조롭/VA 1
 친행/NNG 1
 삼청기업/NNP 1
@@ -22099,6 +22306,7 @@ variable/SL 1
 知通禮門/SH 1
 뱃노래/NNG 1
 三十/SH 1
+소안도/NNP 4
 TSM/SL 1
 일/VV 104
 시무룩/XR 3
@@ -22214,6 +22422,7 @@ Salerno/SL 1
 참제/NNG 10
 로만/NNG 1
 서면/NNP 6
+그대루/MAG 1
 김영길/NNP 1
 선목단/NNG 1
 화악산/NNP 3
@@ -22379,6 +22588,7 @@ Boram/SL 1
 삼사천/NR 1
 기자조선/NNP 1
 구지가/NNP 15
+운위/NNG 5
 레숑/NNG 1
 안전도/NNG 2
 邏頭/SH 5
@@ -22418,7 +22628,7 @@ diastole/SL 1
 연짓문/NNG 1
 주객/NNG 4
 호남동/NNP 1
-듯/NNB 854
+디드로/NNP 3
 모병/NNG 2
 마댓자루/NNG 1
 합당/XR 32
@@ -22453,17 +22663,19 @@ Gennep/SL 1
 이원복/NNP 1
 일회/NNG 2
 아포단백/NNG 1
-改革運動/SH 2
+SF/JKS 32
 수군거리/VV 4
 교묘히/MAG 5
 외소고의/NNG 1
 선후배/NNG 10
-호되/VA 18
+SF/JKV 61
 웨딩드레스/NNG 6
 중풍/NNG 5
+SF/JKO 60
 죽령산/NNP 1
 수조시/NNG 1
-콩브레/NNP 1
+SF/JKC 1
+SF/JKB 65
 해태관광/NNP 1
 無所不爲/SH 2
 선선히/MAG 4
@@ -22491,6 +22703,7 @@ Gennep/SL 1
 무동/NNG 2
 매니/NNP 1
 改訂版/SH 1
+SW/XSN 14
 則以非理好訟論/SH 1
 Mankind/SL 1
 若幼者則雖小災亦親弔/SH 1
@@ -22503,6 +22716,7 @@ JAMAIS/SL 1
 페터/NNP 2
 추준석/NNP 2
 93/SN 123
+뒷편/NNG 3
 이창애/NNP 1
 오라클사/NNP 3
 카섹스/NNG 1
@@ -22592,7 +22806,7 @@ information/SL 2
 약대/NNG 4
 年甲/SH 1
 도로변/NNG 10
-쥐/VV 153
+함성호/NNP 5
 효용/NNG 20
 地方法院/SH 1
 태진아/NNP 2
@@ -22659,7 +22873,7 @@ ELSS/SL 2
 헌작/NNG 30
 조사단/NNG 25
 지식욕/NNG 3
-그리스군/NNG 1
+배로우항/NNP 1
 알선업/NNG 1
 말풀/NNG 1
 설치령/NNG 1
@@ -22782,12 +22996,12 @@ Pisa/SL 3
 彩履/SH 1
 Wire/SL 7
 不可分性/SH 1
-암사슴/NNG 1
+VV/NNG 3076
 朝覲服遠遊冠絳紗袍/SH 1
 自衛意識/SH 1
 모세스/NNP 1
 동지회/NNG 4
-내리깔/VV 4
+VV/NNB 49
 직업관/NNG 4
 ㄴ대서야/EC 5
 생식선/NNG 1
@@ -22798,7 +23012,7 @@ Wire/SL 7
 은의/NNG 4
 김도현/NNP 1
 폐백실/NNG 5
-拉北/SH 1
+VV/NNP 23
 삼월이/NNP 4
 각질/NNG 2
 승격/NNG 10
@@ -22841,10 +23055,12 @@ Wire/SL 7
 舊官僚/SH 1
 후송/NNG 2
 단추/NNG 17
+김광보/NNP 1
 하절/NNG 1
 최준상/NNP 1
 수계증/NNG 1
 벼슬/NNG 32
+MAG/NP 6
 밑줄/NNG 1
 독축/NNG 8
 번지르/MAG 2
@@ -22862,6 +23078,7 @@ Wire/SL 7
 산정교/NNP 1
 영월/NNP 11
 님프/NNG 2
+EF/$ 1
 姑母夫/SH 1
 스탠리/NNP 2
 변화/NNG 1015
@@ -22893,19 +23110,19 @@ IFCI/SL 1
 종질녀/NNG 2
 캐츠스쿨/NNP 1
 병법/NNG 1
-龍頭會/SH 1
+JX/NNB 14328
 윤규신/NNP 1
 서준원/NNP 1
-영주시/NNP 2
+JX/NNG 60094
 소르베/NNG 1
 張洪彬/SH 1
 공훈/NNG 1
 겉옷/NNG 14
 백운평/NNP 1
 九月服者/SH 1
-지어내/VV 22
+JX/NNP 6311
 살결/NNG 2
-새삼/MAG 150
+거두/VV 248
 長時間/SH 1
 길하/VA 7
 캘리포니아주립大/NNP 1
@@ -22969,7 +23186,7 @@ Harlingen/SL 1
 家家禮/SH 1
 그란데/NNP 1
 니끼찌/NNG 1
-運用/SH 7
+센터/NNG 130
 보통/NNG 163
 積石/SH 1
 물경/MAG 2
@@ -22997,7 +23214,7 @@ Harlingen/SL 1
 종량제/NNG 3
 더욱이/MAG 4
 라요/EC 1
-무지/NNG 29
+NR/MM 53
 동나/VV 3
 정치의식/NNG 7
 식인국/NNG 1
@@ -23026,6 +23243,7 @@ EDS/SL 7
 remake/SL 1
 갱갱이/NNP 1
 經濟團體/SH 2
+VCN/JKC 8
 애지자/NNG 4
 trouble/SL 1
 양종/NNG 1
@@ -23097,6 +23315,7 @@ Halle/SL 1
 한강장단/NNP 1
 于歸/SH 1
 512/SN 1
+지법/NNG 2
 국원/NNG 5
 통합민주당/NNP 2
 hackwatch/SL 1
@@ -23155,6 +23374,7 @@ EDA/SL 3
 署押/SH 1
 실히/MAG 3
 전농동/NNP 1
+심오/XR 6
 이홍선/NNP 1
 自淨/SH 1
 카피토/NNG 1
@@ -23189,6 +23409,7 @@ compression/SL 2
 庚戌/SH 1
 형식미/NNG 3
 맥가이버/NNP 1
+진달래산/NNP 1
 獅子吼/SH 1
 頓悟漸修/SH 1
 손부/NNG 3
@@ -23352,6 +23573,7 @@ Nietzsche/SL 1
 원금/NNG 14
 오스마/NNP 1
 先山/SH 1
+성호/NNG 3
 구질/NNG 8
 열댓/NR 3
 교육위/NNG 2
@@ -23377,6 +23599,7 @@ Nye/SL 1
 왜소음경증/NNG 1
 起伏/SH 1
 한국민/NNG 19
+은혼식/NNG 1
 치아/NNG 10
 先占/SH 1
 花郞道/SH 1
@@ -23384,7 +23607,7 @@ Nye/SL 1
 Turoff/SL 1
 정보/NNB 7
 낙산사/NNP 1
-따라/JX 15
+極少量/SH 1
 관음제도본원진경/NNG 1
 여신명/NNP 1
 오하기문/NNP 1
@@ -23415,7 +23638,7 @@ OMCC/SL 2
 로열발레스쿨/NNP 2
 짝짝/MAG 1
 산행지/NNG 2
-단독/NNG 79
+순번/NNG 10
 꽃피우/VV 12
 형편/NNG 199
 미샤일/NNP 1
@@ -23501,7 +23724,7 @@ Tutee/SL 1
 화법/NNG 5
 쟈카이/NNP 1
 영세자/NNG 1
-325/SN 4
+상도/NNG 9
 연평균/NNG 25
 山門/SH 1
 의서/NNG 2
@@ -23514,7 +23737,7 @@ IPU/SL 2
 order/SL 1
 Data/SL 1
 유전학/NNG 4
-노털/NNG 2
+능선/NNG 33
 백전/NNG 1
 김자점/NNP 1
 耐久消費財/SH 3
@@ -23526,7 +23749,7 @@ Data/SL 1
 相/SH 4
 명복/NNG 5
 旌忠壇/SH 1
-약강재유조이불문/NNG 1
+SP/SO 1
 방어력/NNG 3
 소복히/MAG 2
 껑충/MAG 4
@@ -23551,9 +23774,11 @@ Data/SL 1
 충청/NNG 1
 버전/NNG 3
 고문헌/NNG 1
+다비식/NNG 2
 낙천주의자/NNG 3
 750/SN 7
 생산지/NNG 12
+SP/SF 4
 나이넥스사/NNP 1
 六途/SH 1
 진노/NNG 5
@@ -23562,6 +23787,7 @@ Data/SL 1
 급작히/MAG 1
 스테파노폴러스/NNP 3
 대사성/NNG 5
+XsV 1
 外換危機/SH 19
 는단대이/EF 1
 或半跏趺/SH 1
@@ -23691,7 +23917,7 @@ Toynbee/SL 1
 성극/NNG 2
 축재액/NNG 1
 장은/NNP 2
-서산군/NNP 5
+의전/NNG 4
 韓寶鐵鋼/SH 1
 흥얼거리/VV 3
 섣불리/MAG 11
@@ -23742,6 +23968,7 @@ remarks/SL 1
 돌진/NNG 4
 帳幕/SH 1
 초소/NNG 29
+동아건설/NNP 1
 이만/MAG 6
 米麥雜穀/SH 1
 팔부/NNG 1
@@ -23786,7 +24013,7 @@ Presse/SL 1
 사주당/NNG 1
 풀리그/NNG 1
 都試/SH 1
-그참/IC 1
+敎旨具官/SH 1
 으려는/ETM 91
 奴隸道德/SH 1
 식초/NNG 2
@@ -23916,7 +24143,7 @@ representative/SL 1
 산기/NNG 2
 겨우내/MAG 5
 근속자/NNG 1
-對東南亞/SH 2
+권혁철/NNP 1
 석방/NNG 50
 Thun/SL 1
 건조법/NNG 1
@@ -23934,7 +24161,7 @@ et/SL 3
 세디요/NNP 1
 가행/NNG 1
 주총/NNG 1
-支/SH 1
+줄리엣/NNP 8
 工學系/SH 1
 처형/NNG 24
 하물며/MAJ 15
@@ -23960,7 +24187,6 @@ cogito/SL 1
 形態/SH 1
 李兌榮/SH 4
 진공청소기/NNG 2
-致仕奉朝賀/SH 1
 객지/NNP 1
 稻作/SH 1
 成熟遲延/SH 1
@@ -23976,6 +24202,7 @@ Agenda/SL 1
 영남인/NNG 2
 凡尺皆以周尺爲度/SH 1
 천민/NNG 21
+文憲書院/SH 1
 삼봉/NNG 1
 사망일/NNG 1
 유추/NNG 17
@@ -23996,6 +24223,8 @@ Hors/SL 1
 定款變更/SH 1
 정동익/NNP 1
 午枕風來睡自醒/SH 1
+SS/NR 29
+SS/NP 116
 칭크/NNP 1
 첼로/NNG 4
 금고령/NNG 1
@@ -24006,6 +24235,7 @@ Hors/SL 1
 恩典/SH 1
 버스업/NNG 1
 報官治罪後黜鄕一/SH 1
+SS/NA 7
 66/SN 48
 혼수/NNG 29
 율사/NNG 3
@@ -24042,7 +24272,8 @@ UNDP/SL 1
 대/NNB 1535
 622/SN 3
 손도장/NNG 1
-양티나무/NNG 1
+MAG/EC 2
+라라/NNP 1
 패튜릭/NNP 1
 상원사/NNP 3
 Processor/SL 1
@@ -24110,7 +24341,7 @@ Paradox/SL 1
 항우/NNP 11
 믹서/NNG 1
 실내악/NNG 8
-고문실/NNG 2
+SP/JC 221
 박범훈/NNP 2
 쎄레나데/NNG 1
 얼마간/NNG 28
@@ -24127,7 +24358,7 @@ Paradox/SL 1
 QVC/SL 1
 북돋/VV 8
 실루엣/NNG 3
-선연히/MAG 1
+SP/JX 1257
 대전/NNG 106
 요원/NNG 64
 존경어/NNG 2
@@ -24268,6 +24499,7 @@ Johannes/SL 2
 아데스/NNP 1
 연예가/NNG 1
 쇠막대기/NNG 1
+MAJ/MAG 1
 전성업공사/NNP 1
 Federation/SL 2
 古時調/SH 1
@@ -24288,6 +24520,7 @@ haven/SL 1
 새순/NNG 7
 面是背非/SH 1
 김계관/NNP 1
+완충기/NNG 1
 열도/NNG 6
 김두한/NNP 1
 번쩍거리/VV 2
@@ -24311,7 +24544,7 @@ Socrates/SL 1
 중기/NNG 36
 Simon/SL 2
 마담뚜/NNG 1
-母國語/SH 1
+胎生的/SH 1
 점치/VV 34
 오다가다/MAG 2
 모/VV 1
@@ -24326,6 +24559,7 @@ refl/SL 1
 관광객/NNG 74
 더글러스/NNP 2
 폭포수/NNG 3
+物價調査/SH 1
 多神敎/SH 2
 도오꼬/NNP 2
 독과점/NNG 21
@@ -24373,6 +24607,7 @@ mechanical/SL 3
 색깔/NNG 119
 유태교인/NNG 1
 노략/NNG 2
+영국병/NNG 1
 대마/NNG 11
 군것/NNG 6
 꽁보리밥/NNG 2
@@ -24422,6 +24657,7 @@ OCR/SL 1
 不信風潮/SH 2
 별생각/NNG 2
 방정용/NNP 1
+JKS/EC 211
 출력/NNG 5
 門中/SH 1
 단초/NNG 3
@@ -24449,7 +24685,7 @@ Utopia/SL 1
 商去來/SH 3
 위민/NNG 3
 시/NNP 1
-유분수/NNG 1
+인부/NNG 26
 신동아/NNP 7
 士大夫士庶人條/SH 1
 林/SH 1
@@ -24482,7 +24718,7 @@ modeling/SL 1
 약정/NNG 52
 건학/NNG 2
 제작비/NNG 13
-송광호/NNP 1
+XR/XPN 325
 분주/NNG 6
 주부/NNG 250
 무실/NNG 1
@@ -24509,7 +24745,7 @@ modeling/SL 1
 서울고법/NNP 4
 Gouldner/SL 1
 진부인터체인지/NNP 1
-김형오/NNP 2
+Sputnik/SL 1
 하핫/IC 1
 창평/NNP 2
 내쏘/VV 3
@@ -24520,6 +24756,7 @@ Gouldner/SL 1
 요부/NNG 2
 학술서/NNG 1
 노/NNG 38
+忍冬草/SH 1
 콩국수/NNG 1
 가파르나움/NNP 2
 周小舟/SH 1
@@ -24586,6 +24823,7 @@ Outsourcing/SL 1
 衣繫/SH 1
 갭/NNG 3
 통신사/NNG 11
+EF/XSV 4823
 불가지/NNG 1
 사이버캐시사/NNP 1
 물러나/VV 60
@@ -24593,6 +24831,7 @@ Outsourcing/SL 1
 간첩죄/NNG 1
 거니와/EC 59
 유사시/NNG 6
+EF/XSA 2204
 질타/NNG 10
 아리스띕텔레스/NNP 1
 쏘가리/NNG 1
@@ -24634,13 +24873,14 @@ recapitalization/SL 1
 Kodak/SL 1
 行政責任/SH 1
 침투/NNG 69
+正道/SH 6
 斜陽/SH 1
 한국/NNP 2218
 전송량/NNG 1
 입교/NNG 6
 Competence/SL 1
 박명국/NNP 1
-법체처/NNG 1
+향우회/NNG 3
 한인희/NNP 1
 영남대/NNP 6
 어엿/XR 10
@@ -24673,12 +24913,13 @@ Competence/SL 1
 출근/NNG 51
 도래솔/NNG 2
 후버/NNP 1
-홍모/NNG 1
+河秀貞/SH 1
 운우/NNG 1
 포브스/NNP 50
 流動性/SH 21
-향우회/NNG 3
+JKS/NNG 60073
 환절기/NNG 1
+JKS/NNB 8555
 黃/SH 12
 개풍군/NNP 1
 代祝/SH 1
@@ -24691,6 +24932,7 @@ Competence/SL 1
 如及第爲大禮/SH 1
 셀류키아/NNP 1
 배방계/NNP 2
+JKS/NNP 4138
 해운대/NNP 10
 성과급/NNG 1
 검소/NNG 9
@@ -24768,9 +25010,10 @@ Paris/SL 2
 孝/SH 7
 비단/NNG 36
 金南洙/SH 2
+홍세미명/NNG 1
 장윤희/NNP 1
 유태주의/NNG 7
-海外論調/SH 1
+타워호텔/NNP 1
 에레미야/NNP 1
 遠洋漁獲/SH 1
 변정일/NNP 2
@@ -25124,7 +25367,7 @@ rature/SL 1
 아스뜨륙/NNP 1
 도꾸가와/NNP 8
 表出/SH 1
-손때/NNG 11
+득표전/NNG 3
 하이웨이/NNG 6
 유역/NNG 24
 56/SN 60
@@ -25139,6 +25382,8 @@ Winter/SL 1
 부상자/NNG 5
 祖父/SH 2
 미미/XR 37
+SP/ETN 106
+SP/ETM 478
 겐스께/NNP 1
 어옹/NNG 2
 거성/NNG 7
@@ -25189,6 +25434,7 @@ Winter/SL 1
 그/NP 6249
 롱스커트/NNG 1
 몰수/NNG 6
+카시미론/NNG 1
 同殿下冠/SH 1
 아랫물/NNG 4
 물푸레나무/NNG 14
@@ -25198,6 +25444,7 @@ Winter/SL 1
 v/SL 5
 칠성판/NNG 8
 사모예드어/NNP 1
+JKS/XPN 1
 貯蓄/SH 1
 외길/NNG 5
 청루주사/NNG 1
@@ -25364,6 +25611,7 @@ letter/SL 1
 유/NNG 17
 업자/NNG 53
 물바가지/NNG 1
+검도장/NNG 1
 企業經營/SH 2
 국어사/NNG 1
 광주여행사/NNP 1
@@ -25372,6 +25620,7 @@ letter/SL 1
 노은면/NNP 1
 유/NNP 21
 역마살/NNG 2
+뒤라스/NNP 2
 무직/NNG 3
 조병/NNG 1
 Lyer/SL 1
@@ -25381,6 +25630,7 @@ Lyer/SL 1
 1577/SN 1
 하야/NNG 4
 단안/NNG 11
+謝恩肅拜/SH 1
 번영/NNG 39
 자화상/NNG 3
 휘감기/VV 1
@@ -25443,6 +25693,7 @@ Cash/SL 3
 현감/NNG 1
 不信素地/SH 1
 삼풍/NNP 2
+이른바/MAG 2
 기준/NNG 536
 淫祀/SH 2
 1799/SN 1
@@ -25506,7 +25757,7 @@ Kawi/SL 1
 輸入貨物先取保證書/SH 1
 주/NNG 257
 핀트/NNG 1
-殉葬/SH 1
+신상품/NNG 2
 화랑가/NNG 2
 주/NNB 126
 好調/SH 1
@@ -25594,6 +25845,7 @@ hrung/SL 1
 탈자/NNG 1
 디모인/NNP 9
 당구장/NNG 4
+신해박해/NNP 3
 외종질녀/NNG 1
 옳다/IC 2
 디첸/NNP 1
@@ -25710,6 +25962,7 @@ ITN/SL 1
 라에/NNP 2
 회부/NNG 13
 bps/SW 22
+人生/SH 1
 대본집/NNG 1
 984/SN 1
 엿기름/NNG 2
@@ -25812,7 +26065,7 @@ ATP/SL 2
 평양외국어대/NNP 1
 Hegel/SL 2
 두/EC 1
-水面/SH 1
+엄호/NNG 1
 會計/SH 5
 규격품/NNG 5
 바웬사/NNP 17
@@ -25820,7 +26073,7 @@ Hegel/SL 2
 최적/NNG 17
 혜호배/NNG 1
 졸개/NNG 1
-하고하/VA 1
+쌍끌이/NNG 5
 정탐/NNG 1
 분오리지/NNP 1
 地境/SH 1
@@ -25859,7 +26112,7 @@ poetics/SL 1
 국악인/NNG 4
 으리/EF 5
 다나까/NNP 7
-明陵/SH 1
+MAG/MAG 227
 문권진/NNP 1
 자드라/NNP 1
 으리/EC 4
@@ -25868,7 +26121,7 @@ poetics/SL 1
 노랭이/NNG 6
 펑밍민/NNP 1
 발령지/NNG 1
-訓民敎化/SH 2
+MAG/MAJ 1
 남곤/NNP 1
 비꼬/VV 6
 헬맷/NNG 1
@@ -26042,7 +26295,7 @@ internal/SL 1
 경조사/NNG 5
 폐컴퓨터/NNG 1
 므/NNP 1
-자배기/NNG 1
+nca/SL 1
 결함액/NNG 1
 코치석/NNG 1
 아들딸/NNG 9
@@ -26132,7 +26385,7 @@ internal/SL 1
 고수석/NNP 2
 和合的/SH 1
 보조구종/NNG 1
-춘풍/NNG 3
+SL/$ 6579
 from/SL 6
 入嫁式/SH 1
 選擧資金/SH 1
@@ -26231,12 +26484,13 @@ Holmes/SL 2
 이사/NNG 230
 現代唯物論/SH 1
 최공웅/NNP 1
+진양면/NNP 1
 오대산/NNP 6
 視覺的/SH 2
 1897/SN 6
 육면체/NNG 2
 쓰디쓰/VA 2
-철도원/NNG 3
+전력투구/NNG 11
 다고/EC 4413
 김빈/NNP 1
 기자촌/NNG 1
@@ -26282,7 +26536,7 @@ KKK/SL 1
 메이저/NNP 3
 노블락/NNP 1
 河伯/SH 1
-斜線陣/SH 1
+SE/JKQ 1
 고르메/NNG 1
 아토스배/NNG 2
 산후병/NNG 1
@@ -26293,6 +26547,7 @@ KKK/SL 1
 중앙정보국/NNP 2
 한의학/NNG 4
 파리/NNG 23
+강응천/NNP 1
 金洪信/SH 1
 Jaques/SL 1
 靑春/SH 1
@@ -26314,6 +26569,7 @@ millennium/SL 1
 정헌공도/NNP 1
 화전민/NNG 6
 응/NNP 1
+勉學/SH 1
 잡병/NNG 1
 이민사/NNG 1
 산신령/NNG 2
@@ -26368,6 +26624,7 @@ nearby/SL 1
 엄존/NNG 5
 동편/NNG 7
 요나/NNP 3
+ETN/XSA 1028
 분식/NNG 11
 정원일/NNP 1
 수유역/NNP 1
@@ -26376,6 +26633,7 @@ Ramada/SL 1
 榜眼/SH 1
 미혼모/NNG 4
 80/SN 342
+ETN/XSV 4872
 국조/NNG 5
 cm/SW 51
 효강통리원장/NNG 1
@@ -26399,11 +26657,12 @@ cm/SW 51
 忌諱/SH 1
 공돈/NNG 5
 이지연/NNP 1
-동아건설/NNP 1
+XR/NNG 118
 장익/NNG 1
 나도/NNG 1
 kHz/SW 1
 강장/NNG 1
+XR/NNB 1
 대모/NNG 6
 응어리지/VV 2
 花下垂二玉滴/SH 1
@@ -26427,6 +26686,7 @@ Baccalaurat/SL 1
 콜머니/NNG 1
 짚불/NNG 4
 묘비명/NNG 3
+일렉트로닉/NNP 2
 켰어보/VV 1
 유인태/NNP 2
 살상/NNG 17
@@ -26468,7 +26728,7 @@ COM/SL 3
 前三幅後四幅/SH 3
 미쓰하루/NNP 1
 대주교/NNG 8
-진인/NNG 18
+祝焚祝/SH 1
 비결책/NNG 1
 도넛/NNG 2
 고신도/NNG 1
@@ -26491,7 +26751,7 @@ COM/SL 3
 生進科/SH 2
 케니/NNP 1
 공기놀이/NNG 2
-不振/SH 2
+XSA/NP 7
 영세농/NNG 2
 連繫/SH 2
 성벽/NNG 6
@@ -26580,6 +26840,7 @@ movies/SL 1
 한국방송대학교/NNP 1
 업장/NNG 1
 소근거리/VV 6
+비호/NNG 17
 豪民/SH 1
 이내/NNG 105
 에너테크/NNG 1
@@ -26810,11 +27071,11 @@ neutrality/SL 1
 장곽/NNG 1
 ㅢ/NNG 1
 망령/NNG 4
-謝則惟所服凡尊者長者或往少者幼者之家/SH 1
+JX/EC 8081
 하창수/NNP 1
 동음이어/NNG 1
 실리/VV 111
-積極性/SH 2
+JX/EF 7
 수협/NNP 19
 여행비/NNG 3
 이영섭/NNP 1
@@ -26826,6 +27087,7 @@ neutrality/SL 1
 총수익/NNG 1
 공과/NNG 12
 Graphics/SL 1
+단벌/NNG 1
 지옥선/NNP 5
 支給不能/SH 3
 유자/NNG 1
@@ -26850,7 +27112,7 @@ illusion/SL 1
 알뫼/NNP 1
 겔다/NNP 2
 목회/NNG 1
-서프랑크/NNP 2
+源花/SH 1
 未來志向的/SH 1
 치누아/NNP 1
 따지/VV 276
@@ -26929,6 +27191,7 @@ Vernon/SL 2
 훈육/NNG 12
 스킨/NNG 2
 아아뇨/IC 1
+MAG/MM 1
 댁/NP 6
 모밥/NNG 1
 상달/NNG 1
@@ -26946,6 +27209,7 @@ Vernon/SL 2
 남사면/NNP 1
 창간호/NNG 13
 상계점/NNG 1
+日本哲學思想史/SH 2
 연두사/NNG 1
 움사이드골프장/NNP 4
 黨利黨略的/SH 1
@@ -26964,6 +27228,7 @@ total/SL 2
 좌우/NNG 140
 1010/SN 1
 재종형/NNG 1
+마승/NNG 2
 虐殺劇/SH 1
 서고/NNG 5
 描金龍文用珠二十一顆/SH 1
@@ -26972,6 +27237,7 @@ total/SL 2
 감촉/NNG 8
 할아버지/NNG 310
 내전/NNG 26
+image/SL 3
 中高/SH 1
 강경히/MAG 1
 독선/NNG 46
@@ -26979,14 +27245,14 @@ total/SL 2
 短期金利/SH 2
 해지/VV 8
 홀드/NNG 1
-誌石/SH 5
+쓸데없/VA 18
 맞이/XR 123
 명예욕/NNG 3
 先進果實/SH 1
 기반/NNG 254
 團結/SH 1
 편삼/NNG 2
-조급증/NNG 5
+SP/XPN 18
 왕별/NNG 1
 삼일우/NNG 1
 급류/NNG 17
@@ -27034,7 +27300,7 @@ mv/SL 1
 望其行遠乃入凡見尊者必拜/SH 1
 間接的/SH 2
 내쫓기/VV 1
-天理人慾不容/SH 1
+JKS/ETN 825
 墓幕/SH 1
 경리과/NNG 1
 피혁업/NNG 1
@@ -27248,6 +27514,7 @@ super/SL 3
 史學敎授/SH 1
 글때/NA 1
 내장/NNG 36
+質疑/SH 2
 오손/NNG 1
 治人者/SH 1
 편전/NNG 2
@@ -27336,7 +27603,7 @@ Settlement/SL 1
 大灑衣/SH 1
 지오텍사/NNP 1
 짝수/NNG 10
-부득좌경우측/NNG 1
+JKB/$ 1
 新羅菊/SH 1
 법질서/NNG 15
 작황/NNG 6
@@ -27345,7 +27612,7 @@ Settlement/SL 1
 우월주의자/NNG 4
 카약/NNG 26
 株式發行規模/SH 2
-背德/SH 1
+NNB/MAG 7
 방조자/NNG 2
 만무/XR 10
 비탈/NNG 7
@@ -27438,9 +27705,9 @@ mirabile/SL 1
 로마군/NNG 2
 키즈/NNG 1
 미개인/NNG 4
-Somewhere/SL 1
+JKG/NR 576
 윤민구/NNP 2
-특질/NNG 41
+JKG/NP 5366
 홍주/NNP 1
 畯嶺/SH 1
 구산도/NNG 1
@@ -27467,6 +27734,7 @@ Somewhere/SL 1
 누승/NNG 1
 김태희/NNP 1
 기쁨/NNG 96
+JKO/MAG 13
 해묵이/NNG 10
 금쪽/NNG 1
 奴隸/SH 1
@@ -27475,8 +27743,8 @@ Somewhere/SL 1
 기로서니/EC 3
 하희라/NNP 1
 반기문/NNP 3
-대통령감/NNG 2
-河秀貞/SH 1
+IC/$ 1088
+음역/NNG 3
 혼유석/NNG 1
 으라구/EC 4
 사재/VV 1
@@ -27514,6 +27782,7 @@ cable/SL 1
 장영달/NNP 3
 김명수/NNP 2
 쿠마르/NNP 1
+보시까/NNG 1
 산호초/NNG 1
 희비극/NNG 1
 冷化/SH 1
@@ -27580,10 +27849,12 @@ fairness/SL 1
 인위/NNG 58
 찢/VV 33
 머슴살이/NNG 6
+XSV/JX 1
 수소문/NNG 4
 이숭용/NNP 18
 중인/NNG 7
 木奴婢/SH 1
+數値上/SH 1
 民間/SH 3
 Highway/SL 4
 밀려오/VV 19
@@ -27608,7 +27879,7 @@ Highway/SL 4
 讀者文摘/SH 1
 삼가하/VV 5
 ＋/SW 3
-대리석/NNG 8
+박종철/NNP 3
 聽思聰/SH 1
 爵位/SH 1
 걸개/NNG 2
@@ -27686,8 +27957,9 @@ flatworm/SL 1
 일산/NNP 17
 사록/NNG 1
 영한사전/NNG 4
+JKB/ETN 4042
 紫的廣的甫裏/SH 1
-강응천/NNP 1
+JKB/ETM 1
 只行歲首之拜及賀謝/SH 1
 표리일체/NNG 1
 탁송업/NNG 1
@@ -27712,7 +27984,7 @@ Ekman/SL 1
 株式/SH 2
 미지/NNG 16
 한국자원연/NNP 1
-章含元/SH 1
+이종배/NNP 1
 안세현/NNP 1
 입후/NNG 7
 갑오경장/NNP 2
@@ -27724,7 +27996,7 @@ Ekman/SL 1
 주먹구구식/NNG 2
 치과/NNG 15
 작업장/NNG 25
-압소바/NNP 1
+선문답/NNG 2
 꽃노래/NNG 1
 쇳물/NNG 2
 생떼/NNG 3
@@ -27822,6 +28094,7 @@ magnetic/SL 1
 바르샤바대/NNP 1
 短期/SH 4
 입버릇/NNG 9
+타운/NNG 8
 現行法規/SH 1
 실종자/NNG 7
 현/NNP 10
@@ -27856,7 +28129,7 @@ magnetic/SL 1
 이어서/MAG 40
 마루/NNG 43
 오텐쨩/NNP 1
-종묘공원/NNP 1
+EC/JX 1
 면죄부/NNG 28
 大岡面/SH 2
 ㅂ네/EC 3
@@ -27924,6 +28197,7 @@ plan/SL 2
 김세원/NNP 1
 판판/XR 1
 니체/NNP 4
+뚱하/VA 1
 집중/NNG 318
 역돔/NNG 1
 솥밥/NNG 1
@@ -27953,7 +28227,7 @@ Ganbold/SL 1
 父慈子孝/SH 2
 일인/NNG 6
 觀山樓/SH 1
-翟鷄霞演/SH 1
+XSN/SL 52
 函數/SH 1
 종족원/NNG 1
 죽/NNG 46
@@ -28028,6 +28302,7 @@ OK/SL 13
 紅旗/SH 1
 오리/VV 4
 玆遇天開景運/SH 1
+白檀香/SH 1
 뱅크/NNG 16
 전직/NNG 72
 양학/NNG 30
@@ -28066,6 +28341,7 @@ Over/SL 1
 단말/NNG 1
 자물쇠/NNG 8
 니컬러스/NNP 2
+饑民/SH 1
 뒷모습/NNG 16
 싸/VV 139
 김종학/NNP 1
@@ -28116,7 +28392,7 @@ GINet/SL 1
 씨/NNP 1
 삼경/NNG 3
 이원수/NNP 4
-면구/NNG 1
+강일/NNG 4
 수/NNP 1
 난초/NNG 3
 상제의/NNG 1
@@ -28140,7 +28416,7 @@ Musi/SL 1
 러/NNP 23
 地母神/SH 1
 분탕/NNG 2
-뒤라스/NNP 2
+린조/NNP 1
 문중/NNG 115
 고드름/NNG 6
 天圓地方/SH 1
@@ -28165,6 +28441,7 @@ Please/SL 2
 들이박/VV 1
 메르세데스/NNP 2
 윤석범/NNP 1
+기술원장/NNG 2
 某月干支朔/SH 2
 직종/NNG 16
 직업/NNG 230
@@ -28174,6 +28451,7 @@ Please/SL 2
 오거리/NNG 1
 엠파이어/NNG 1
 冕冠/SH 1
+XR/JKS 1
 김영수/NNP 3
 확연히/MAG 7
 수도원/NNG 8
@@ -28189,7 +28467,6 @@ Fr/SL 1
 참/NNB 42
 분/NNB 769
 귀뚜라미/NNG 1
-상도/NNG 9
 decode/SL 1
 관료부/NNG 1
 容納/SH 1
@@ -28238,6 +28515,7 @@ decode/SL 1
 회남면/NNP 1
 인터메조/NNP 1
 會食/SH 1
+장독/NNG 1
 波動/SH 2
 마일드세븐/NNG 1
 트집/NNG 13
@@ -28484,6 +28762,7 @@ bound/SL 1
 李洪九/SH 2
 nll/SL 3
 尹東柱/SH 1
+바실라/NNP 1
 진부/NNG 4
 새서/NNP 4
 젤이/NNG 1
@@ -28542,7 +28821,7 @@ Line/SL 1
 돌연사/NNG 1
 마렵/VA 2
 냐구/EF 5
-지성소/NNG 2
+짐짝/NNG 1
 별묘/NNG 2
 국제주의/NNG 2
 냐구/EC 3
@@ -28550,6 +28829,7 @@ Line/SL 1
 스포츠/NNG 130
 트루먼/NNP 1
 의주/NNP 3
+패인/NNG 5
 신혼부부/NNG 9
 흔연히/MAG 1
 박춘경/NNP 1
@@ -28580,6 +28860,7 @@ Ethno/SL 1
 피사리/NNG 1
 말참견/NNG 1
 8800/SN 1
+반세기/NNG 27
 謂約中之人死/SH 1
 통박/NNG 1
 間諜網/SH 1
@@ -28657,7 +28938,7 @@ calculus/SL 1
 白牌/SH 2
 난치병자/NNG 1
 박영근/NNP 1
-月印千江之曲/SH 1
+민물/NNG 7
 sampling/SL 1
 쐬/VV 18
 제작업/NNG 2
@@ -28765,6 +29046,7 @@ suggest/SL 1
 조작/NNG 117
 기술부/NNG 2
 미하엘/NNP 1
+VV/XSN 38
 경/XSN 125
 코펜하겐공항/NNP 3
 心農/SH 1
@@ -28815,7 +29097,7 @@ Full/SL 2
 牧民觀/SH 1
 ㄹ지라/EC 1
 ㄴ다며/EF 2
-경공장/NNG 1
+고용주/NNG 2
 직관/NNG 11
 영락없/VA 2
 무기/NNP 1
@@ -28834,7 +29116,7 @@ Full/SL 2
 유수호/NNP 1
 김영이/NNP 1
 손동우/NNP 1
-하고/NNG 4
+풍곡/NNP 1
 영고탑/NNP 1
 봉헌/NNG 54
 발짓/NNG 2
@@ -28867,7 +29149,7 @@ positive/SL 4
 慧諶/SH 1
 1584/SN 7
 淚/SH 4
-잇대/VV 1
+허례허식/NNG 4
 月旦評/SH 3
 갈웜/NNG 1
 前線/SH 1
@@ -28951,12 +29233,14 @@ DRAM/SL 2
 時系列分析/SH 1
 축력/NNG 1
 擔轝/SH 1
+크루소/NNP 2
 상하이공항/NNP 1
 樂府詩/SH 1
 투망/NNG 2
 韓國銀行法/SH 12
 폐회식/NNG 3
 분자설/NNG 1
+낙상/NNG 1
 저녁상/NNG 3
 집성/NNG 2
 동그랗/VA 11
@@ -29006,6 +29290,7 @@ DRAM/SL 2
 총통화/NNG 5
 텔리비젼/NNG 1
 시조창/NNG 1
+XSN/ETM 9
 經濟安定化/SH 1
 몰아닥치/VV 5
 윤권이/NNP 1
@@ -29128,8 +29413,9 @@ bibel/SL 1
 수원구장/NNP 2
 잠복/NNG 11
 윤기/NNG 12
-산꼭대기/NNG 11
+JKB/NP 6990
 의계/NNG 1
+JKB/NR 429
 東西從享位/SH 1
 팔방/NNG 3
 1545/SN 1
@@ -29207,8 +29493,9 @@ Darwin/SL 9
 특용/NNG 1
 참가작/NNG 1
 고픈/ETM 1
-타락상/NNG 3
+JKV/NP 21
 해동창/NNG 1
+JKV/NR 1
 교활/XR 10
 後軍/SH 1
 더더구나/MAG 3
@@ -29295,7 +29582,7 @@ paxi/SL 1
 상전벽해/NNG 1
 1624/SN 1
 구본태/NNP 3
-특수/NNG 208
+느긋/XR 32
 喪期/SH 2
 Hodrick/SL 2
 사서/NNP 2
@@ -29325,9 +29612,11 @@ vortex/SL 3
 同約協力濟之/SH 1
 헵번룩/NNG 4
 사친/NNG 1
+경봉/NNP 1
 쏘련/NNP 1
 눈가리개/NNG 1
 규동/NNP 1
+李滉/SH 1
 박중수/NNP 1
 수천만/NR 13
 요청문/NNG 1
@@ -29341,7 +29630,7 @@ vortex/SL 3
 포럼/NNG 15
 딜레마/NNG 8
 작전동/NNP 2
-아귀힘/NNG 1
+현옥/NNP 3
 포부/NNG 24
 도로/NNG 119
 월보/NNG 3
@@ -29366,7 +29655,7 @@ Discours/SL 2
 뽀다구/NNG 2
 의법/NNG 3
 죄/VV 13
-석가사/NNP 9
+미라/NNP 1
 new/SL 1
 너그럽/VA 17
 朴松熙/SH 1
@@ -29451,7 +29740,7 @@ transaction/SL 2
 국채/NNG 23
 육송/NNG 1
 신의경/NNP 1
-行政便宜/SH 1
+JKB/NNP 7234
 속앓이/NNG 1
 김흥수/NNP 1
 自己本位/SH 1
@@ -29460,9 +29749,10 @@ transaction/SL 2
 하늘색/NNG 3
 예언자/NNG 19
 雇傭係數/SH 1
-군소리/NNG 8
+JKB/NNB 15869
 충남도/NNP 2
 권여선/NNP 3
+JKB/NNG 109490
 대포/NNG 26
 피임약/NNG 2
 클레어/NNP 1
@@ -29558,6 +29848,7 @@ risk/SL 1
 바로크/NNG 7
 방앗간/NNG 2
 次集團/SH 1
+VV/EC 1205
 조묘/NNG 3
 Committee/SL 1
 앞사람/NNG 1
@@ -29699,7 +29990,7 @@ Village/SL 1
 권문세족/NNG 1
 평론사/NNG 1
 동부경찰서/NNP 2
-convertible/SL 1
+내공/NNG 1
 얼간/NNG 1
 갈무리/NNG 1
 질겁/NNG 3
@@ -29726,15 +30017,16 @@ convertible/SL 1
 제반/NNG 33
 잡일/NNG 2
 金義珍/SH 1
-沖繩/SH 1
-듀비비에/NNP 1
-완충기/NNG 1
+NNG/SL 1037
+NNG/SO 42
+NNG/SN 6042
 강주/NNG 3
-일련번호/NNG 1
+NNG/SH 1306
 녹아내리/VV 3
 일감/NNG 6
+NNG/SE 135
 얄팍/XR 12
-단벌/NNG 1
+NNG/SF 360
 NPR/SL 1
 墨團領/SH 1
 앞뜰/NNG 3
@@ -29743,8 +30035,12 @@ NPR/SL 1
 財政難/SH 1
 첫이레/NNG 4
 媤從姑母/SH 1
+NNG/SW 732
+NNG/SP 3123
+NNG/SS 17780
 재칩국/NNG 1
 북괴군/NNG 3
+JX/MM 2
 PLO/SL 4
 해독제/NNG 1
 이영문/NNP 1
@@ -29808,6 +30104,7 @@ Ghazaki/SL 1
 쿨적거리/VV 1
 애국주의/NNG 2
 東野彙輯/SH 1
+정동영/NNP 2
 돼지고기/NNG 13
 비복/NNG 1
 공산당혁명/NNP 1
@@ -29854,7 +30151,7 @@ Recall/SL 1
 와제드/NNP 1
 芳山/SH 1
 한국어/NNP 70
-향단이/NNP 1
+會食事件/SH 1
 길래/EC 23
 열여덟/NR 7
 친속/NNG 2
@@ -29873,6 +30170,7 @@ Recall/SL 1
 나자레/NNP 1
 俟長者己過乃行/SH 1
 진습의/NNG 1
+$ 1614089
 젯밥/NNG 1
 梨/SH 3
 재래종/NNG 3
@@ -29881,6 +30179,7 @@ Recall/SL 1
 눈곱/NNG 2
 제휴/NNG 35
 볼로니아/NNP 2
+라스칼라좌/NNP 1
 규검/NNG 1
 혼물/NNG 2
 일리어드/NNP 1
@@ -29913,6 +30212,7 @@ Discourse/SL 1
 Fore/SL 1
 이질/NNG 21
 贊引/SH 1
+ETM/JX 1
 하이마블/NNG 4
 냉정/NNG 30
 법인/NNG 101
@@ -29993,6 +30293,7 @@ Greenberg/SL 1
 바삐/MAG 19
 빙설/NNG 1
 姜在彦/SH 1
+JKV/XSN 33
 스럽/XSA 1177
 세속오계/NNP 2
 조리/NNG 16
@@ -30008,6 +30309,7 @@ Greenberg/SL 1
 傳承/SH 1
 소고/NNG 3
 흘깃/MAG 1
+VA/NNB 30
 폭투/NNG 6
 고독/NNG 58
 修文鍊武/SH 1
@@ -30030,7 +30332,7 @@ Primary/SL 1
 中以綱瑀/SH 1
 흰바위/NNP 1
 심결/NNG 1
-李炳浩/SH 3
+선/NNG 329
 애무/NNG 5
 순찰차/NNG 3
 크메르투지/NNP 1
@@ -30146,12 +30448,14 @@ KDI/SL 14
 財閥/SH 9
 上飾珠寶鈿花九/SH 1
 맞창/NNG 1
+EP/XSN 1
 繼世思想/SH 1
 고가품/NNG 6
 民願/SH 1
 某氏諱某神主/SH 1
 石蘭/SH 1
 南北統一/SH 1
+EP/XSA 1482
 촌팔분/NNG 6
 甲骨/SH 1
 정재왈/NNP 2
@@ -30162,11 +30466,12 @@ KDI/SL 14
 무리수/NNG 2
 코로나/NNG 1
 司樽/SH 1
+EP/XSV 14336
 동아투자금융/NNP 1
 열광/NNG 12
 엄금/NNG 3
 아니꼽/VA 18
-유채/NNG 6
+XR/$ 26763
 석탄가루/NNG 2
 민둥산/NNG 1
 알료샤/NNP 1
@@ -30202,6 +30507,7 @@ roll/SL 1
 헛헛/XR 1
 어이야/IC 2
 長盧慈覺禪師/SH 1
+NP/ETM 1
 흉조/NNG 1
 1680/SN 4
 靈星壇/SH 3
@@ -30226,7 +30532,7 @@ roll/SL 1
 위로연/NNG 1
 시두리/NNP 1
 영광/NNP 16
-응원단장/NNG 1
+VA/ETM 1
 금정/NNP 3
 잡학/NNG 1
 姓/SH 7
@@ -30340,7 +30646,7 @@ Kaas/SL 1
 불사이군/NNG 1
 부재모상/NNG 2
 물끄러미/MAG 19
-或黨惡飾言有所掩覆/SH 1
+김창순/NNP 1
 공맹/NNG 5
 비분강개/NNG 5
 한영고/NNP 2
@@ -30431,8 +30737,9 @@ HBS/SL 2
 나리/VV 2
 改編指數/SH 1
 굴설/NNG 1
-尊卑秩序/SH 1
+SH/NNG 241
 호투/NNG 9
+SH/NNB 10
 사기그릇/NNG 1
 팽팽/MAG 1
 群衆/SH 1
@@ -30445,7 +30752,7 @@ HBS/SL 2
 LAN/SL 6
 암자/NNG 16
 가불/NNG 2
-시안/NNP 1
+SH/NNP 46
 딴은/MAG 3
 Dioptrique/SL 1
 薦新/SH 1
@@ -30564,6 +30871,7 @@ tarte/SL 1
 오배자/NNG 1
 펌핑/NNG 1
 모찰트/NNP 1
+四禮式/SH 1
 강금세/NNP 1
 토스카/NNP 5
 감/NNG 74
@@ -30618,7 +30926,7 @@ specus/SL 1
 대란/NNG 17
 투표일/NNG 4
 무상/NNP 1
-알파토코페롤/NNG 1
+삼인칭/NNG 1
 세계관/NNG 42
 올여름/NNG 3
 한국전자통신연구소/NNP 4
@@ -30715,6 +31023,7 @@ analytic/SL 1
 귀인/NNG 2
 443/SN 2
 격/NNG 18
+장개석/NNP 2
 싱겁/VA 19
 試金石/SH 1
 내과/NNG 17
@@ -30777,6 +31086,7 @@ Cattell/SL 1
 원생지/NNG 1
 석순/NNG 1
 轉禍爲福/SH 4
+VCN/$ 6318
 콜롬비아/NNP 8
 無彈無石/SH 1
 기록집/NNG 1
@@ -30886,6 +31196,7 @@ MB/SW 1
 휑하/VA 4
 이규철/NNP 1
 경계령/NNG 1
+마스게임/NNG 1
 價格要因/SH 2
 1688/SN 2
 두발/NNG 3
@@ -30920,12 +31231,14 @@ voprosu/SL 1
 中山/SH 1
 보행기/NNG 1
 패망/NNG 9
+집적/NNG 12
 어기적거리/VV 1
 푼장사/NNG 1
 건설부/NNG 11
 라이타돌/NNG 1
 캔버스/NNG 1
 스트렙토마이세스/NNG 2
+XSA/MAG 570
 뻐드렁/NNG 1
 불씨/NNG 32
 바닷속/NNG 6
@@ -30934,13 +31247,14 @@ Telecom/SL 1
 서울중앙병원/NNP 7
 新木/SH 1
 종증손녀/NNG 2
-직접/MAG 400
+오키스트라/NNG 6
 리츠칼튼호텔/NNP 1
 라스웰/NNP 2
 石窟/SH 1
+XSN/SO 1
 일장/NNG 5
 이용후생학/NNG 1
-견학/NNG 13
+반대표/NNG 2
 구하기/NNP 1
 뒤적거리/VV 3
 일왕/NNG 5
@@ -31010,6 +31324,7 @@ Telecom/SL 1
 궐석/NNG 1
 초막/NNG 1
 중용/NNG 8
+XSN/SP 1
 共腰有竇積本色培想/SH 1
 枯死木/SH 1
 플라스틱업/NNG 1
@@ -31132,7 +31447,7 @@ Online/SL 1
 입방체/NNG 1
 陜西省/SH 2
 존장자/NNG 2
-Quotation/SL 1
+SP/$ 5593
 김진사/NNP 1
 패러다임/NNG 66
 데이에이시끼모꾸/NNP 1
@@ -31158,13 +31473,14 @@ statement/SL 2
 벌름거리/VV 3
 산업군/NNG 1
 군당/NNG 1
-조정/NNG 557
+김선창/NNP 21
 럭금/NNP 1
 Schachter/SL 4
 윤리/NNG 202
 뾰루퉁/NNG 1
 우샤/NNP 2
 課題/SH 5
+불빛/NNG 56
 부동표/NNG 4
 위로/NNG 55
 국제위성기구/NNP 1
@@ -31252,6 +31568,7 @@ IMO/SL 1
 同壻/SH 1
 쓰이/VV 198
 李昇薰/SH 1
+세계연맹/NNP 1
 正反/SH 2
 鄕社/SH 1
 消費財輸入/SH 6
@@ -31330,7 +31647,7 @@ Clerk/SL 12
 향냄새/NNG 1
 놀림감/NNG 1
 晨謁禮/SH 2
-업체/NNG 357
+내세우/VV 250
 Presper/SL 1
 삼분/NNG 1
 으스스/MAG 6
@@ -31341,6 +31658,7 @@ Presper/SL 1
 을세라/EC 2
 헌강왕/NNP 4
 택사스주/NNP 1
+SN/JKB 3
 戰略/SH 1
 박완서/NNP 2
 산행/NNG 35
@@ -31349,6 +31667,7 @@ Presper/SL 1
 바리케이드/NNG 1
 하필/MAG 28
 물자/NNG 44
+SN/JKO 2
 예술사/NNG 1
 우리동무/NNP 1
 원호/NNP 4
@@ -31373,18 +31692,19 @@ tolerance/SL 1
 최기선/NNP 1
 전곡/NNG 4
 織物類/SH 1
-hercsr/SL 1
+VOOLive/SL 1
 喪家當訃告于直月/SH 1
 재종자/NNG 1
 북두/NNG 1
 진료/NNG 34
 보물/NNG 21
 인트라넷/NNG 25
+과학보안국/NNG 1
 시형제/NNG 1
 인물성인이동/NNG 1
 전곡/NNP 7
 資産評價差額/SH 1
-without/SL 1
+타이론우즈/NNP 1
 천인/NNG 3
 시사복/NNG 1
 뛰어들/VV 61
@@ -31437,7 +31757,7 @@ flight/SL 1
 증차/NNG 3
 EMI/SL 1
 짐클라크/NNP 1
-털어놓/VV 45
+하고/NNG 4
 How/SL 5
 임노동자/NNG 1
 표선면/NNP 1
@@ -31449,7 +31769,7 @@ How/SL 5
 아/NA 1
 우주/NNG 262
 불평/NNG 42
-장개석/NNP 2
+인색/NNG 27
 相見禮/SH 1
 방아/NNG 10
 MAIL/SL 1
@@ -31467,6 +31787,7 @@ enjoy/SL 1
 야물/VV 1
 육성회장/NNG 2
 조방원/NNG 1
+청미레/NNG 1
 李鍾旺/SH 2
 잠실벌/NNP 4
 성룡/NNP 1
@@ -31505,6 +31826,7 @@ decay/SL 1
 도농/NNG 2
 캘린더/NNG 1
 이유태/NNP 3
+정신문명/NNG 3
 용역/NNG 19
 旅行受入/SH 1
 대검/NNG 18
@@ -31522,6 +31844,7 @@ golden/SL 1
 完全變動換率制度/SH 1
 수산대/NNP 1
 답디다/EF 1
+Die/SL 1
 삼화페인트/NNP 1
 호강/NNG 7
 박경상/NNP 2
@@ -31529,7 +31852,7 @@ golden/SL 1
 봉쇄/NNG 38
 강화물/NNG 1
 코딱지/NNG 5
-비제바노/NNP 1
+쌀가루/NNG 1
 젬퍼/NNP 1
 고현/NNG 1
 위난/NNG 2
@@ -31554,6 +31877,7 @@ upskilling/SL 1
 노친/NNP 2
 877/SN 2
 資金/SH 5
+財貨總價額/SH 1
 대전가톨릭대/NNP 1
 모리야/NNP 1
 차도/NNG 8
@@ -31646,6 +31970,7 @@ Quillian/SL 1
 한국기독교출판협회/NNP 1
 Carson/SL 1
 서화/NNG 9
+안정제/NNG 1
 범어/NNG 1
 꼭둑각시/NNG 1
 共有/SH 1
@@ -31750,7 +32075,7 @@ seller's/SL 1
 마대/NNG 1
 주안/NNP 7
 점탈/NNG 2
-배로우항/NNP 1
+枝/SH 1
 아래아/NNP 3
 豫定/SH 1
 皆親進問故/SH 1
@@ -31805,7 +32130,7 @@ Karl/SL 2
 민항기/NNG 12
 망칙/XR 1
 이날/NNG 408
-센터/NNG 130
+추이/NNG 52
 리즈/NNP 1
 지역/NNG 1459
 남체마을/NNP 1
@@ -31872,6 +32197,7 @@ LIBOR/SL 1
 자위/NNG 35
 지지/VV 8
 케케묵/VA 2
+NP/JKV 1
 다탄두/NNG 1
 금지/NNG 175
 중동/NNG 1
@@ -31883,7 +32209,7 @@ LIBOR/SL 1
 다까후사/NNP 1
 참살/NNG 4
 脫權/SH 1
-병인년/NNG 1
+步道/SH 1
 Special/SL 1
 중동/NNP 50
 田夫野人/SH 1
@@ -31898,9 +32224,10 @@ Special/SL 1
 선장/NNG 8
 쓰쓰미/NNP 1
 위대/XR 107
-바실라/NNP 1
+스러지/VV 7
 핸섬/NNG 1
 멋대로/MAG 23
+녹취/NNG 1
 正衣/SH 1
 조로아스터/NNP 15
 급부상/NNG 4
@@ -31925,7 +32252,7 @@ hjcho/SL 2
 카랑카랑/MAG 2
 남북한군/NNG 1
 임란/NNP 6
-의전/NNG 4
+교란/NNG 25
 밀렵/NNG 9
 섬나라/NNG 13
 同窓/SH 1
@@ -31961,11 +32288,11 @@ planned/SL 1
 옆머리/NNG 2
 봉화군/NNP 1
 獨占的/SH 1
-심오/XR 6
+VV/SF 1
 흉폭/NNG 1
 전쟁놀이/NNG 2
 퍼마시/VV 3
-줄리엣/NNP 8
+VV/SE 46
 연기군/NNP 6
 벤디다드/NNP 1
 步法/SH 1
@@ -32036,6 +32363,7 @@ green/SL 1
 宜尙靑/SH 1
 포청천/NNP 11
 선화예중/NNP 1
+論農政疏/SH 1
 출근부/NNG 1
 許勝照/SH 1
 소/XPN 128
@@ -32062,7 +32390,7 @@ green/SL 1
 광속구/NNG 1
 조현정/NNP 1
 숭경/NNG 1
-命運/SH 4
+체/NNG 32
 석등탑/NNP 1
 휠체어/NNG 28
 병기/NNG 3
@@ -32116,8 +32444,9 @@ EFT/SL 4
 설설/MAG 1
 파상/NNG 5
 뜻하/VV 11
-Ticknor/SL 1
+SP/NNG 16150
 取其息十分之二/SH 1
+SP/NNB 1470
 襲席/SH 1
 소관/NNG 19
 供給擴大政策/SH 1
@@ -32128,6 +32457,7 @@ Ticknor/SL 1
 분절상/NNG 1
 속생각/NNG 1
 벌써/MAG 236
+SP/NNP 2652
 갈급증/NNG 1
 빈농/NNG 6
 P/SL 55
@@ -32198,7 +32528,7 @@ viable/SL 2
 바이트/NNG 2
 산록/NNG 2
 관계인/NNG 1
-멤바/NNG 8
+EF/ETN 2
 미팅룩/NNG 2
 苦言/SH 3
 업주/NNG 9
@@ -32330,7 +32660,7 @@ Alcock/SL 1
 이구/NNG 1
 겸손/NNG 34
 청순/NNG 4
-nca/SL 1
+VCP/XR 2
 542/SN 2
 而加以金粧/SH 1
 歷史觀/SH 2
@@ -32347,7 +32677,7 @@ Simons/SL 1
 이상흔/NNP 1
 밀물/NNG 6
 행주치마/NNG 2
-홍세미명/NNG 1
+호호/IC 3
 李敏求/SH 1
 우대/NNG 55
 Time/SL 7
@@ -32363,9 +32693,11 @@ Time/SL 7
 multiversity/SL 1
 ㄹ랑/JX 2
 文革所産/SH 1
-고급문화/NNG 3
+SE/JKO 47
 다고/EF 50
 자계/NNG 1
+SE/JKB 66
+SE/JKC 1
 생색/NNG 9
 희작/NNG 2
 慶南/SH 2
@@ -32380,8 +32712,9 @@ multiversity/SL 1
 사적기/NNG 2
 飯/SH 6
 하트포드/NNP 1
-종월/NNP 1
+SE/JKS 49
 小則密規之/SH 1
+SE/JKV 4
 흰쥐/NNG 1
 현구고례/NNG 1
 동면/NNG 3
@@ -32398,6 +32731,7 @@ multiversity/SL 1
 권화/NNG 1
 벤자민/NNP 3
 요하네스/NNP 1
+洞契收租錄/SH 1
 밀착/NNG 26
 실덕/NNG 2
 축도/NNG 2
@@ -32416,6 +32750,7 @@ Agreement/SL 2
 섹스/NNG 31
 최재필/NNP 1
 기술원/NNG 1
+VV/$ 255076
 입소/NNG 6
 Jones/SL 2
 know/SL 4
@@ -32459,7 +32794,7 @@ Euclid/SL 3
 선향재/NNP 1
 黨職/SH 1
 재능/NNG 39
-initiative/SL 1
+고이치/NNP 1
 잔디/NNG 31
 돌핀스/NNP 1
 이그라우/NNP 1
@@ -32468,8 +32803,7 @@ initiative/SL 1
 정보지/NNG 4
 親知/SH 1
 親族/SH 6
-源花/SH 1
-크라커/NNG 2
+서프랑크/NNP 2
 총천연색/NNG 2
 ⑦/SW 15
 중계동/NNP 1
@@ -32515,6 +32849,7 @@ bank/SL 3
 들어붙/VV 1
 스테파네트/NNP 1
 아르마다/NNP 1
+도산면/NNP 1
 왕림/NNG 1
 말소/NNG 7
 고치/NNG 1
@@ -32590,6 +32925,7 @@ game/SL 3
 청교도/NNG 13
 풍요/NNG 52
 쑤근대/VV 1
+콘센트/NNG 1
 석고/NNG 5
 지혜/NNP 2
 비답/NNG 2
@@ -32603,7 +32939,7 @@ game/SL 3
 communication/SL 2
 세종호텔/NNP 2
 관리자/NNG 19
-脫臼/SH 1
+전통문화/NNG 35
 거늘/EC 7
 봄비/NNG 3
 鄭寒崗/SH 1
@@ -32611,7 +32947,7 @@ communication/SL 2
 순사/NNG 6
 文奎鉉/SH 1
 수월/NNG 2
-아야만/EC 38
+致仕奉朝賀/SH 1
 目容端/SH 1
 뛰어내리/VV 17
 부면/NNG 7
@@ -32705,6 +33041,7 @@ OASDHI/SL 1
 종축/NNG 1
 김효영/NNP 3
 영해선/NNG 1
+거늘/EF 1
 대동여지도/NNG 3
 縮小/SH 5
 전종훈/NNP 1
@@ -32778,7 +33115,7 @@ ml/SL 2
 뚜드리/VV 2
 觀光/SH 2
 복고주의/NNG 4
-엄호/NNG 1
+或主人有倦色/SH 1
 의심/NNG 212
 EMS/SL 1
 잡혀가/VV 14
@@ -32824,6 +33161,7 @@ THEN/SL 1
 정절/NNG 13
 쪼그라지/VV 1
 오하라/NNP 1
+문안드리/VV 1
 참신/XR 49
 上帶金鉤玉玎槻全/SH 1
 주법/NNG 4
@@ -32831,6 +33169,7 @@ THEN/SL 1
 조선업/NNG 2
 西歐議會民主主義/SH 1
 제복제/NNG 1
+뒷거래/NNG 1
 돋구/VV 20
 애한/NNG 1
 장탄수/NNG 1
@@ -32892,7 +33231,7 @@ AT/SL 11
 골칫거리/NNG 9
 울상/NNG 14
 白笠/SH 1
-一流企業/SH 1
+SN/$ 40790
 뇌/NNG 36
 힐끗힐끗/MAG 1
 구운몽/NNP 20
@@ -32927,6 +33266,7 @@ altaische/SL 1
 순익/NNG 8
 as/SL 5
 한오백년/NNP 1
+VX/JX 7
 닌쿠라/NNP 1
 기쁘/VA 98
 토스카니니/NNP 1
@@ -32940,6 +33280,7 @@ as/SL 5
 인공호흡/NNG 1
 할거주의/NNG 3
 옥련동/NNP 1
+얼마큼/MAG 5
 얼씬/MAG 5
 맥주홀/NNG 8
 議員活動/SH 1
@@ -32950,7 +33291,7 @@ as/SL 5
 行政機構/SH 1
 양로/NNG 1
 변형섭/NNP 15
-餘滴/SH 1
+SE/JX 133
 학생체육관/NNP 1
 미키/NNP 5
 심진송/NNP 1
@@ -32958,6 +33299,7 @@ as/SL 5
 호기/NNG 18
 부패/NNG 233
 리바트/NNP 1
+SE/JC 3
 칠곡/NNP 2
 하릴없이/MAG 3
 법문/NNG 5
@@ -32971,6 +33313,7 @@ as/SL 5
 김봉환/NNP 1
 플라워스/NNP 1
 가호/NNG 2
+훈련법/NNG 1
 磁氣的/SH 1
 또글또글/MAG 1
 드레스덴/NNP 14
@@ -33003,7 +33346,7 @@ as/SL 5
 문명개화/NNG 1
 Ubaldo/SL 1
 천국/NNG 38
-이재식/NNP 1
+SN/XR 1
 죽도동/NNP 1
 universe/SL 2
 매니아/NNG 2
@@ -33019,7 +33362,7 @@ universe/SL 2
 패통/NNG 1
 구도자/NNG 3
 죄다/MAG 10
-subjectivity/SL 1
+알타이족/NNP 1
 門/SH 1
 천둥소리/NNG 1
 종소/NNG 1
@@ -33036,6 +33379,7 @@ subjectivity/SL 1
 料/SH 1
 유가/NNG 68
 事件/SH 23
+VCP/IC 2
 아아/IC 16
 광화문통/NNG 1
 통신업체/NNG 3
@@ -33157,7 +33501,7 @@ fax/SL 1
 一向宗/SH 1
 일대/NNG 70
 당장/NNG 206
-타입/NNG 12
+가입/NNG 212
 저/XPN 118
 좀/MAG 787
 독일연방은행/NNP 1
@@ -33177,6 +33521,7 @@ Shakespeare/SL 1
 若直月知而不告/SH 1
 분사기/NNG 1
 천변로/NNG 1
+재산설/NNG 1
 배임/NNG 1
 성관/NNG 1
 夏/SH 1
@@ -33233,6 +33578,7 @@ soul/SL 2
 휘몰/VV 8
 겨례/NNG 1
 아랫배/NNG 8
+年前/SH 1
 예찬가/NNG 2
 대부자/NNG 82
 조사업/NNG 1
@@ -33265,6 +33611,7 @@ soul/SL 2
 혼용/NNG 7
 CMS/SL 18
 채무국/NNG 4
+임자/NNG 18
 참관기/NNG 2
 齊衰五月/SH 1
 캔자스주/NNP 2
@@ -33276,11 +33623,12 @@ CMS/SL 18
 에누리/NNG 1
 대의/NNG 16
 석조/NNG 3
+등산복/NNG 2
 앗/IC 1
 항모/NNG 2
 어예/EF 1
 安保展望/SH 1
-디드로/NNP 3
+크라커/NNG 2
 구매력/NNG 10
 최랑/NNP 12
 괴뢰군/NNG 3
@@ -33309,6 +33657,7 @@ Wissen/SL 1
 民韓/SH 3
 679/SN 2
 섥히/VV 1
+SP/VV 1
 set/SL 5
 歲銜/SH 1
 뒷설거지/NNG 2
@@ -33429,7 +33778,7 @@ epicycle/SL 15
 석재/NNG 10
 허무학/NNG 7
 瀆/SH 1
-도산면/NNP 1
+VV/XR 6
 동시단/NNG 1
 言忠信/SH 1
 擇日單子/SH 1
@@ -33460,7 +33809,7 @@ arithmetic/SL 1
 코트디부아르/NNP 2
 중등부/NNG 2
 차량/NNG 86
-협착/NNG 3
+SS/IC 47
 mothers/SL 1
 덴버/NNP 2
 괴성/NNG 7
@@ -33485,11 +33834,11 @@ Kearney/SL 1
 도로시/NNP 1
 넷/NR 37
 체/IC 7
-파트타임/NNG 2
+JKV/NNG 140
 취미/NNG 77
 東床契/SH 1
 개명정/NNG 2
-지파/NNG 1
+JKV/NNB 17
 이강돈/NNP 1
 도솔래의상/NNG 1
 걷어차/VV 11
@@ -33501,14 +33850,14 @@ Kearney/SL 1
 감화/NNG 5
 Q/SL 17
 타도/NNG 20
-얼마큼/MAG 5
+JKV/NNP 183
 대한무역투자진흥공사/NNP 3
 入試不正事件/SH 1
 정착/NNG 205
 물그릇/NNG 3
 폐차/NNG 1
 스터디/NNG 4
-반목/NNG 12
+기암/NNG 1
 끌어당기/VV 9
 아/NNP 16
 유괴/NNG 5
@@ -33594,12 +33943,12 @@ ISSUE/SL 1
 근근히/MAG 5
 舊三國史/SH 1
 내성/NNG 12
-진상/NNG 121
+만/NR 1584
 前進/SH 1
 週刊/SH 1
 1911/SN 4
 HIS/SL 1
-기암/NNG 1
+반목/NNG 12
 빱/NNG 1
 日程/SH 1
 납품업/NNG 2
@@ -33613,7 +33962,7 @@ HIS/SL 1
 守本順一郞/SH 1
 파묻치/VV 1
 감시단/NNG 2
-만/NR 1584
+진상/NNG 121
 색동마고자/NNG 1
 고든/NNP 1
 次賻以聃布三疋米五斗/SH 1
@@ -33641,6 +33990,7 @@ thesei/SL 1
 군경/NNG 1
 스모/NNG 1
 물결/NNG 59
+몽학/NNG 1
 공구장/NNG 10
 고조부/NNG 2
 해설가/NNG 2
@@ -33714,6 +34064,7 @@ Isolation/SL 1
 파리아카데미/NNP 1
 유치환/NNP 1
 체코슬로바키아/NNP 5
+논점/NNG 1
 악연/NNG 5
 가하/VV 145
 예결서/NNG 1
@@ -33734,7 +34085,7 @@ REASON/SL 1
 酒妄/SH 1
 인멸/NNG 6
 산견/NNG 1
-投資限度/SH 1
+JKC/JKB 39
 사재/NNG 10
 </SS 1472
 能導人爲善/SH 2
@@ -33847,6 +34198,7 @@ Center/SL 1
 중위수/NNG 1
 리틀/NNG 7
 향공/NNG 1
+종묘공원/NNP 1
 참가인/NNG 2
 퍼넣/VV 2
 諸制度/SH 1
@@ -34181,7 +34533,7 @@ CSIS/SL 1
 法外的/SH 1
 反問/SH 1
 아까/MAG 52
-반세기/NNG 27
+스노클링/NNP 3
 力量/SH 1
 매표구/NNG 1
 정기내존/NNG 1
@@ -34315,7 +34667,7 @@ FMV/SL 3
 能以儒行持身/SH 1
 한국경제연구원/NNP 3
 1427/SN 1
-전화위복/NNG 1
+SH/XR 1
 저당권부/NNG 1
 옷섶/NNG 3
 영원불변/NNG 1
@@ -34324,6 +34676,7 @@ FMV/SL 3
 589/SN 1
 무욕동/NNP 1
 주소/NNG 47
+XPN/MM 2
 화약고/NNG 4
 若有不得已之故宰殺/SH 1
 서력/NNG 3
@@ -34340,7 +34693,7 @@ gritude/SL 1
 대진표/NNG 1
 중진국/NNG 2
 손숙진/NNP 1
-타이론우즈/NNP 1
+投資限度/SH 1
 一板/SH 1
 강창사/NNP 1
 보름/NNG 49
@@ -34383,6 +34736,7 @@ Stanley/SL 2
 總辭退/SH 1
 갯짱/NNG 1
 Consumer/SL 2
+프로메테우스/NNP 3
 부총장/NNG 6
 委任/SH 1
 어물대/VV 1
@@ -34508,6 +34862,7 @@ colorado/SL 1
 馬步壇/SH 1
 불리/XR 37
 처용랑/NNP 1
+살인죄/NNG 3
 귀뜸/NNG 1
 造言誣毁/SH 1
 加工用財貨/SH 2
@@ -34528,6 +34883,7 @@ Dhyana/SL 1
 tell/SL 2
 왕궁/NNG 14
 양복지/NNG 4
+그참/IC 1
 작약/NNG 1
 홍인길/NNP 2
 아무타/NNP 1
@@ -34567,6 +34923,7 @@ tell/SL 2
 分析時期/SH 1
 同族意識/SH 1
 투영/NNG 21
+발명가/NNG 1
 홍태표/NNP 1
 상해봉/NNP 1
 설벽/NNG 1
@@ -34621,6 +34978,7 @@ storage/SL 1
 딕/NNG 3
 한/NA 1
 평꼬/NNP 1
+둔치/NNG 1
 美軍/SH 6
 돈독/XR 3
 의무/NNG 197
@@ -34655,8 +35013,9 @@ Its/SL 2
 챔벌레인/NNP 1
 replacement/SL 1
 페소/NNB 1
+JKC/SE 1
 增大/SH 5
-569/SN 1
+임관정요/NNP 3
 군주/NNG 23
 메이크업/NNG 7
 폐포/NNG 1
@@ -34666,8 +35025,8 @@ replacement/SL 1
 이놈/NP 35
 神道/SH 1
 오롯이/MAG 1
-전국경제인연합회/NNP 1
-價格體系/SH 1
+김성호/NNP 1
+當務和敬/SH 1
 기구상/NNG 1
 옵/EP 24
 external/SL 2
@@ -34675,8 +35034,9 @@ external/SL 2
 질끈/MAG 3
 주세법/NNG 1
 봉하/VV 10
-Charter/SL 1
+섬찟/MAG 1
 실각/NNG 6
+JKS/XSN 7823
 Kaufman/SL 4
 구조/NNG 993
 작곡가/NNG 14
@@ -34706,7 +35066,7 @@ anticipation/SL 1
 考證/SH 1
 간취/NNG 1
 연구동/NNG 3
-일렉트로닉/NNP 2
+이무연/NNP 1
 타이밍/NNG 5
 아낌없/VA 5
 GSP/SL 3
@@ -34751,6 +35111,7 @@ cousin/SL 1
 예산액/NNG 2
 보필/NNG 3
 但於約員當身之喪/SH 1
+김희자/NNP 2
 빈민/NNG 24
 거듭나/VV 19
 미생물/NNG 26
@@ -34828,7 +35189,7 @@ Antoine/SL 1
 수주/NNG 11
 특파원/NNG 119
 인형전/NNG 1
-버금/NNG 1
+SF/XR 2
 종목/NNG 60
 독녀/NNG 1
 교향악단/NNG 1
@@ -34840,9 +35201,11 @@ Antoine/SL 1
 포틀랜드/NNP 1
 시가사/NNG 4
 채너리/NNP 1
+휴렛패커드/NNP 1
 소복/NNG 3
 아키히토/NNP 6
 최소한/NNG 119
+사글셋방/NNG 1
 빌미/NNG 23
 중금속/NNG 3
 첫국밥/NNG 1
@@ -34901,7 +35264,7 @@ centers/SL 1
 기층/NNG 5
 은천군/NNP 1
 상도덕/NNG 1
-碧/SH 1
+김형오/NNP 2
 잡역/NNG 1
 꼼꼼/XR 17
 실린더/NNG 1
@@ -34915,12 +35278,13 @@ centers/SL 1
 素材/SH 4
 사학사/NNG 1
 우멍하/VA 1
-응축/NNG 6
+中日/SH 2
 호지명/NNP 1
 장식비/NNG 1
 파기/NNG 20
 Strauss/SL 1
 仲介市場/SH 1
+VA/JKB 4
 허필수/NNP 1
 학년/NNG 265
 언론개혁시민연대/NNP 1
@@ -34932,6 +35296,7 @@ Strauss/SL 1
 괴오/VV 1
 振興會/SH 1
 밀라노/NNP 10
+VA/JKS 4
 남여/NNG 1
 '/SS 14388
 배설/NNG 7
@@ -34991,6 +35356,7 @@ Cesi/SL 1
 或妄傳虛報熒惑衆聽/SH 1
 輸入技術/SH 1
 물론/MAG 1133
+XsV/MAG 1
 자금원/NNG 4
 더니만/EC 3
 소통량/NNG 2
@@ -35188,7 +35554,7 @@ Aristotle/SL 1
 적치물/NNG 1
 인플레이션하/NNG 1
 수입선/NNG 3
-책보/NNG 1
+크스토포/NNP 1
 集團意識/SH 1
 常山/SH 1
 크로아티아인/NNG 3
@@ -35201,6 +35567,7 @@ Aristotle/SL 1
 됫박/NNG 3
 則不待直月之報可以先往/SH 1
 핀/NNG 5
+욕건/NNG 2
 총검/NNG 1
 흙벽/NNG 1
 중경제초/NNG 1
@@ -35253,7 +35620,7 @@ zip/SL 1
 결심/NNG 89
 東歐圈/SH 10
 尊卑/SH 1
-군자연/NNG 1
+JKG/EC 125
 母子關係/SH 1
 기행전/NNG 1
 言心聲也/SH 1
@@ -35272,6 +35639,7 @@ zip/SL 1
 임명/NNG 151
 송광사/NNP 9
 開幕/SH 1
+JKO/$ 4
 백인마을/NNP 3
 라카무/NNP 1
 에어/NNG 3
@@ -35339,7 +35707,7 @@ MTV/SL 2
 월항면/NNP 3
 복통/NNG 4
 개발국/NNG 1
-원앙예식장/NNP 1
+대업/NNG 3
 학생회/NNG 11
 방상시/NNG 3
 고려인/NNG 10
@@ -35640,7 +36008,7 @@ Hise/SL 1
 로드담바/NNP 1
 주목/NNG 279
 지인/NNG 6
-애잔/XR 2
+SO/NNP 47
 오차드거리/NNP 1
 알통/NNG 2
 正常的/SH 2
@@ -35649,9 +36017,10 @@ Hise/SL 1
 后土神/SH 1
 울진군/NNP 3
 내국/NNG 2
-若賓不拜靈座前/SH 1
+SO/NNB 56
 190/SN 8
-영변/NNP 3
+尊卑秩序/SH 1
+SO/NNG 33
 가로놓이/VV 6
 병폐/NNG 26
 사리/VV 6
@@ -35681,7 +36050,7 @@ De/SL 14
 없이/MAG 1400
 自部門/SH 1
 一曰水火/SH 1
-제향/NNG 5
+ETN/ETM 2
 편저자/NNG 1
 苦心/SH 1
 김영삼/NNP 157
@@ -35729,14 +36098,17 @@ Ferrara/SL 1
 석물/NNG 1
 아옹이/NNG 1
 이유/NNG 910
+SO/SS 29
 차세대/NNG 28
 기녀/NNG 2
+SO/SW 9
 옛말/NNG 20
 임료/NNG 1
 뒤꿈치/NNG 1
 여염/NNG 2
-SO/SL 4
-프랑크푸르터/NNP 1
+SO/SL 8
+SO/SO 17
+SO/SN 963
 면모/NNG 48
 학생과/NNG 1
 KIt/SL 1
@@ -35745,6 +36117,7 @@ KIt/SL 1
 마름풀/NNG 1
 넷투폰/NNG 1
 연출/NNG 85
+유라시아대륙/NNP 2
 요정/NNG 20
 모클리/NNP 1
 즐겁/VA 109
@@ -35803,7 +36176,7 @@ Recognition/SL 1
 진법/NNG 5
 전례학/NNG 2
 미드필더/NNG 1
-손왕재/NNP 1
+일성령/NNG 1
 되/XSV 20242
 짜릿/XR 10
 윤제림/NNP 1
@@ -35819,6 +36192,7 @@ Toltecs/SL 1
 새트/NNG 4
 글쎄다/IC 5
 상춧대/NNG 1
+VCP/EC 324
 헌주상/NNG 1
 聖職者/SH 3
 農産物/SH 3
@@ -35851,6 +36225,7 @@ Toltecs/SL 1
 양잠/NNG 1
 체첸/NNP 7
 音/SH 2
+李昌馥/SH 2
 자국어/NNG 3
 Get/SL 1
 소대렴의/NNG 1
@@ -35872,12 +36247,12 @@ Get/SL 1
 同鄕人/SH 1
 副作用/SH 1
 183/SN 5
-醫師/SH 1
+JX/JKS 118
 구두닦이/NNG 9
-오락장/NNG 1
+JX/JKQ 13
 소다노/NNP 3
-발명가/NNG 1
-경봉/NNP 1
+NP/SP 10
+NP/SS 1857
 동물원/NNG 9
 집단행동/NNG 3
 탁계석/NNP 1
@@ -35886,10 +36261,12 @@ Get/SL 1
 活貧/SH 1
 낙어/NNG 2
 앤디/NNP 2
-씨어터/NNG 1
+NP/SE 58
 壬辰/SH 2
 경건/XR 17
+NP/SF 4
 bubble/SL 1
+NP/SL 2
 스크루/NNG 1
 애드벌룬/NNG 6
 양로원/NNG 20
@@ -35984,7 +36361,7 @@ glad/SL 1
 오랑캐/NNG 11
 1991/SN 47
 난맥상/NNG 3
-성좌/NNG 1
+又讓登/SH 1
 정국/NNG 136
 철수/NNP 1
 코셔/NNG 1
@@ -36041,10 +36418,11 @@ Leihkasse/SL 1
 아무래도/MAG 99
 배변/NNG 1
 돈여/NNP 1
-숙정/NNG 13
+SW/SP 10
+SW/SS 268
 感動的/SH 1
 확약/NNG 1
-헤헤/MAG 2
+SW/SW 74
 네자비시마야/NNP 1
 主要/SH 12
 主語/SH 1
@@ -36055,13 +36433,14 @@ matching/SL 1
 제족/NNG 1
 아이엠에프/NNP 9
 洪錫炫/SH 1
-진달래산/NNP 1
+SW/SF 9
 안주/NNG 42
-헌팅턴/NNP 2
+SW/SH 28
 학습반/NNG 3
 홈볼트/NNP 1
-SW/SL 23
-長齊裳端/SH 1
+SW/SL 152
+SW/SO 3
+SW/SN 4312
 천지탑/NNP 1
 래닌스키/NNP 1
 대소사/NNG 4
@@ -36075,6 +36454,7 @@ SW/SL 23
 斷片/SH 1
 수주전/NNG 2
 黃赤白瘍綠/SH 1
+資金梗塞現象/SH 1
 警戒除去/SH 1
 춘곤증/NNG 1
 영상미/NNG 2
@@ -36157,7 +36537,7 @@ PCS/SL 12
 심원/NNP 1
 圖說/SH 2
 百濟傳/SH 1
-일백만/NR 1
+JX/XR 13
 청왕조/NNG 1
 저개발/NNG 1
 응원대/NNG 1
@@ -36167,7 +36547,7 @@ PCS/SL 12
 자유자/NNG 1
 가고시마/NNP 2
 千百/SH 1
-마쿠하리/NNP 1
+국경/NNG 83
 오돌도돌/MAG 1
 하노버/NNP 4
 그제사/MAG 3
@@ -36331,7 +36711,7 @@ else/SL 2
 팰러스/NNG 1
 보증익기탕/NNP 1
 스트렙토마이신/NNG 1
-정신병/NNG 1
+公選/SH 1
 Simplicio/SL 1
 보성군/NNP 1
 고법/NNG 5
@@ -36438,6 +36818,7 @@ would/SL 5
 김○기/NNP 1
 나이스빗/NNP 2
 盛服/SH 1
+MAG/JX 3
 Mars/SL 2
 RM/SL 1
 전정/NNG 2
@@ -36476,6 +36857,7 @@ MSAW/SL 1
 明文化/SH 1
 는다느니/EC 2
 곁가지/NNG 1
+實/SH 3
 실무대표협/NNG 1
 진영/NNP 9
 可也其四曰凡遠出及自遠而歸/SH 1
@@ -36492,7 +36874,7 @@ MSAW/SL 1
 女人/SH 4
 記言/SH 1
 演技術/SH 1
-주머니/NNG 69
+따땃/XR 1
 가쌍디/NNP 2
 마산리/NNP 2
 劉玉鐘/SH 1
@@ -36513,8 +36895,8 @@ MSAW/SL 1
 신페인당/NNP 10
 異議/SH 2
 이웅희/NNP 2
-브라운관/NNG 2
-스노클링/NNP 3
+JC/JKB 51
+경복/NNG 2
 음절/NNG 14
 신수설/NNG 2
 외대/NNP 3
@@ -36537,7 +36919,7 @@ MSAW/SL 1
 권건오/NNP 1
 도덕/NNG 227
 가미/NNG 31
-마스게임/NNG 1
+둑/NNG 33
 웨스트/NNG 2
 동중서/NNP 2
 亦出門上馬若於尊長之家/SH 1
@@ -36551,6 +36933,7 @@ MSAW/SL 1
 임정경/NNP 1
 경비견/NNG 3
 표정/NNG 263
+SW/NR 95
 소원/NNG 68
 유통/NNG 201
 體育/SH 1
@@ -36650,6 +37033,7 @@ writing/SL 1
 短期貿易信用/SH 2
 동아출판사/NNP 2
 상대자/NNG 4
+훈련량/NNG 2
 knower/SL 1
 한기근/NNP 1
 불태우/VV 14
@@ -36829,6 +37213,7 @@ BJP/SL 3
 七胎道/SH 2
 描/SH 1
 중국실/NNG 1
+總量調整/SH 1
 총합/NNG 1
 부부유별/NNG 3
 백화/NNP 41
@@ -36839,7 +37224,7 @@ BJP/SL 3
 글감/NNG 1
 심사위/NNG 4
 태양광/NNG 6
-安定對策/SH 1
+NNP/ETM 3
 헤어드라이어/NNG 1
 강구/NNG 92
 목책/NNG 3
@@ -36879,7 +37264,7 @@ rien/SL 1
 여한/NNG 2
 徐京錫/SH 1
 이리로/MAG 9
-마이크로컴퓨터/NNG 1
+內閣一括辭表/SH 1
 부의장/NNG 27
 부과금/NNG 4
 스티로폼/NNG 2
@@ -36975,6 +37360,7 @@ more/SL 1
 목성/NNG 4
 그래/IC 209
 무색/NNG 2
+색슨족/NNP 1
 마리아수/NNP 1
 검정색/NNG 13
 옹기짐/NNG 1
@@ -37040,9 +37426,10 @@ septum/SL 1
 사운/NNG 2
 聖典/SH 1
 애착심/NNG 1
-이춘하/NNP 1
+맷값/NNG 1
 1899/SN 5
 한곳/NNG 10
+碧/SH 1
 메이커/NNG 19
 초상의/NNG 1
 분한/NNG 2
@@ -37057,7 +37444,7 @@ septum/SL 1
 음탕/XR 3
 비상대책위/NNP 1
 하고/JKQ 31
-피자/NNG 7
+우러나오/VV 14
 대륙붕/NNG 9
 여우/NNG 29
 若放逸不檢則/SH 1
@@ -37277,6 +37664,7 @@ Optics/SL 1
 능성어/NNG 1
 아나키/NNP 1
 포장마차/NNG 16
+事前承認/SH 1
 적손/NNG 1
 는데요/EC 9
 개찰구/NNG 18
@@ -37409,7 +37797,7 @@ TODD/SL 1
 용정기/NNG 1
 1109/SN 2
 역옹패설/NNP 1
-권혁철/NNP 1
+자중지란/NNG 2
 이토록/MAG 19
 본부석/NNG 5
 진중/NNP 1
@@ -37425,7 +37813,7 @@ TODD/SL 1
 利點/SH 1
 補助定理/SH 1
 탐방/NNG 6
-몽학/NNG 1
+추종자/NNG 11
 떳떳이/MAG 6
 아나트/NNP 2
 완납/NNG 5
@@ -37518,6 +37906,7 @@ Royal/SL 3
 뻘/NNG 1
 암반층/NNG 1
 네트워크/NNG 81
+電視/SH 1
 poll/SL 1
 주역인/NNG 1
 정일화/NNP 2
@@ -37529,7 +37918,7 @@ poll/SL 1
 증조/NNG 4
 삼태도/NNG 1
 광신/NNG 4
-똑똑/MAG 1
+패륜/NNG 3
 吳德/SH 1
 횃대/NNG 1
 김용식/NNP 1
@@ -37544,6 +37933,7 @@ poll/SL 1
 빌딩/NNG 35
 영등포/NNP 11
 부/NNB 58
+從姨母/SH 1
 부/NNG 129
 종찰/NNG 2
 環境保全/SH 1
@@ -37580,8 +37970,10 @@ MAI/SL 1
 가와시마/NNP 3
 회오/NNG 1
 忌避/SH 1
-음직/NNG 1
-不感/SH 1
+NNB/SS 377
+NNB/SP 3
+VA/EC 18
+NNB/SW 60
 수수꽃다리/NNG 1
 양재시스템/NNP 1
 Kritik/SL 2
@@ -37589,14 +37981,15 @@ Kritik/SL 2
 항재전장/NNG 1
 기계학/NNG 2
 낄낄/MAG 4
-등기소/NNG 3
+NNB/SF 7
 들먹이/VV 21
 연면적/NNG 5
 情分/SH 1
+NNB/SH 501
 鄭明和/SH 1
 현대/NNG 339
-알라/NNP 4
-숙이/VV 54
+NNB/SO 5
+NNB/SL 56
 밤새우/VV 6
 大義/SH 2
 不易/SH 1
@@ -37701,7 +38094,8 @@ Doctor/SL 1
 멱건/NNG 1
 자료실/NNG 5
 南朝鮮/SH 1
-흑연/NNG 1
+SE/JKG 3
+JKV/ETN 1
 인수봉/NNP 5
 金相洙/SH 1
 치모/NNG 1
@@ -37736,6 +38130,7 @@ Sarasvati/SL 1
 遷屍/SH 1
 竹杖/SH 1
 위압/NNG 7
+양곤/NNP 1
 솔깃/XR 9
 눈썰매장/NNG 2
 콘티/NNG 1
@@ -37791,6 +38186,7 @@ FOX/SL 1
 비서업/NNG 1
 현배/NNP 1
 퍼팅/NNG 5
+정동호/NNP 1
 밑바닥/NNG 24
 責任問題/SH 1
 笹川鍾郞/SH 1
@@ -37867,6 +38263,7 @@ might/SL 1
 證得/SH 1
 가버나움/NNP 1
 만감/NNG 2
+전화위복/NNG 1
 공법/NNG 8
 則同約之人爲之借助器/SH 1
 친지/NNG 39
@@ -37906,6 +38303,7 @@ might/SL 1
 장대잡이/NNG 1
 술/NNG 511
 장맛/NNG 3
+XSN/MM 1
 HSBC/SL 2
 광고전/NNG 1
 선량/XR 15
@@ -37932,7 +38330,7 @@ HSBC/SL 2
 배때끼/NNG 1
 경찰지서/NNG 2
 미술/NNG 154
-組織化/SH 1
+SW/$ 3393
 장지동/NNP 1
 長惠幼順/SH 1
 金永三/SH 2
@@ -38078,8 +38476,9 @@ an/SL 5
 아브니달/NNP 1
 문예사/NNG 1
 남대/NNG 1
-젊음/NNG 23
+NNB/NP 112
 갈대밭/NNG 1
+NNB/NR 2943
 감무/NNG 1
 助其養疾之費/SH 1
 Babylon/SL 1
@@ -38127,6 +38526,7 @@ Counter/SL 1
 병역필/NNG 1
 鄕校/SH 3
 규장문화사/NNP 1
+ETN/VCN 78
 관측통/NNG 3
 접근책/NNG 1
 드옹/NNP 1
@@ -38146,6 +38546,7 @@ nich/SL 1
 양동이/NNG 1
 衿荷/SH 1
 헌신짝/NNG 2
+ETN/VCP 1679
 對話政治/SH 3
 흙먼지/NNG 2
 무릎길이/NNG 4
@@ -38172,7 +38573,7 @@ Branch/SL 1
 아남산업/NNP 1
 라니요/EF 2
 利子/SH 1
-繒五章/SH 1
+MAG/ETN 6
 히로히토/NNP 5
 한국방송공사장/NNG 1
 분홍/NNG 10
@@ -38192,6 +38593,7 @@ Babel/SL 1
 북방인/NNG 1
 하중곤/NNP 1
 숙명/NNP 2
+패닉/NNP 1
 而節目多不同凡鄕之約四/SH 1
 의안/NNG 3
 學生自律的/SH 1
@@ -38229,6 +38631,7 @@ Ranke/SL 1
 문무왕릉/NNP 1
 旣會/SH 1
 패닉/NNG 1
+승화/NNG 27
 반달/NNP 1
 山西省/SH 4
 骨肉相殘/SH 1
@@ -38510,6 +38913,7 @@ thank/SL 1
 문행/NNP 3
 自由守護/SH 1
 다규제/NNG 1
+Pearson/SL 1
 DPA/SL 1
 예능인/NNG 1
 보잘것없이/MAG 2
@@ -38558,7 +38962,7 @@ DPA/SL 1
 敎育革命/SH 1
 아무개/NP 27
 학습당/NNG 1
-굉장히/MAG 22
+십억/NR 2
 資源問題/SH 1
 따/VV 155
 적출술/NNG 1
@@ -38569,6 +38973,7 @@ DPA/SL 1
 학이/NNG 1
 再從同媤/SH 2
 짓거리/NNG 2
+脫臼/SH 1
 망울/NNG 1
 정인지/NNP 2
 호응/NNG 70
@@ -38609,7 +39014,7 @@ DPA/SL 1
 바소/NNP 1
 풍징/NNG 1
 광산/NNP 2
-여하/NNG 30
+李/SH 5
 연후/NNG 9
 禮治主義/SH 1
 자만/NNG 14
@@ -38650,7 +39055,7 @@ transformation/SL 2
 예성강/NNP 5
 信用供與/SH 1
 일치감/NNG 1
-성명/NNG 105
+공석/NNG 22
 하문/NNP 1
 서시/NNP 1
 고인문/NNG 1
@@ -38687,7 +39092,7 @@ pharmacy/SL 1
 김문원/NNP 1
 진혼/NNG 1
 양주/NNP 3
-망막/NNG 29
+무선/NNG 39
 缺如/SH 1
 도쿄대학/NNP 2
 상구/NNP 15
@@ -38740,6 +39145,8 @@ DTV/SL 1
 진여/NNG 1
 꿍꿍/MAG 1
 知識/SH 2
+JKV/SH 1
+JKV/SO 1
 政派/SH 1
 성인군자/NNG 1
 김영목/NNP 1
@@ -38753,7 +39160,7 @@ DTV/SL 1
 석복/NNG 1
 벽사력/NNG 1
 損絶賣/SH 1
-이른바/MAG 2
+JKV/SS 2
 上刻山形四/SH 1
 조정근/NNP 2
 Chomsky/SL 1
@@ -38916,6 +39323,7 @@ PT/SL 4
 늦봄/NNG 1
 바이콤/NNP 1
 한시체/NNG 1
+XSA/EC 14
 외친/NNG 1
 이만/NR 5
 沮害/SH 1
@@ -38954,7 +39362,7 @@ sapiens/SL 1
 조선대/NNP 3
 왜/IC 5
 非命/SH 1
-잎자루/NNG 1
+SH/SO 2
 NIES/SL 5
 내가/VV 1
 조비/NNG 3
@@ -38975,6 +39383,7 @@ What/SL 6
 營養價/SH 1
 액틀/NNG 1
 시정책/NNG 1
+EP/EP 726
 용선/NNG 1
 패색/NNG 1
 반촌/NNG 4
@@ -38987,7 +39396,7 @@ What/SL 6
 이해/NNG 896
 하키/NNG 3
 Strada/SL 1
-버르장머리/NNG 2
+EP/EC 6
 抗酸化/SH 1
 安秉初/SH 1
 게든/EC 12
@@ -39016,7 +39425,7 @@ Sudden/SL 1
 大聯合/SH 1
 해체/NNG 91
 崔公徒/SH 1
-풍곡/NNP 1
+親臨酌獻/SH 1
 간절/XR 53
 외곽/NNG 11
 靈長/SH 1
@@ -39061,6 +39470,7 @@ Energeia/SL 1
 惡黨/SH 1
 企劃循期/SH 1
 노고/NNG 22
+MAJ/$ 22269
 에사길라/NNP 3
 송구/XR 3
 敎權/SH 8
@@ -39095,7 +39505,7 @@ Sun/SL 1
 난치/NNG 1
 국수당/NNG 1
 한국치매가족회/NNP 1
-교착/NNG 11
+원자재/NNG 63
 몸값/NNG 7
 하일라이트/NNG 4
 등사물/NNG 1
@@ -39209,6 +39619,7 @@ good/SL 5
 상봉/NNG 34
 MS/SL 14
 퇴설당/NNG 1
+金鉉奬/SH 1
 자긍심/NNG 19
 월출산/NNP 1
 苔衾具/SH 1
@@ -39252,6 +39663,7 @@ Isaac/SL 2
 하나/MAJ 30
 반함/NNG 4
 麻/SH 4
+리치오네/NNP 1
 장외/NNG 19
 脆弱性/SH 2
 김형덕/NNP 1
@@ -39437,7 +39849,7 @@ M&A/SL 7
 파편/NNG 7
 피이드백/NNG 2
 포항공항/NNP 1
-칠판/NNG 18
+동궁/NNG 1
 쇼크/NNG 30
 의향서/NNG 1
 옥궐/NNG 1
@@ -39451,7 +39863,7 @@ M&A/SL 7
 사례집/NNG 1
 사고력/NNG 30
 사치품/NNG 5
-강녕/NNG 1
+XSN/JKB 2
 댄서/NNG 1
 타격/NNG 95
 conference/SL 1
@@ -39480,7 +39892,7 @@ conference/SL 1
 황성숲/NNP 1
 생활체/NNG 1
 한라산/NNP 15
-中央執行委/SH 1
+齊整然後/SH 1
 속주/NNG 2
 쌩쌩/MAG 1
 오랫/MM 4
@@ -39623,6 +40035,7 @@ short/SL 1
 承以白玉山珠紘纓/SH 1
 기식기조연후/NNG 1
 스즈끼/NNP 4
+정예/NNG 8
 오류/NNG 55
 부서장/NNG 4
 純粹通貨論者/SH 3
@@ -39647,7 +40060,6 @@ josephus/SL 1
 向背/SH 1
 내려가/VV 161
 김헌선/NNP 3
-추이/NNG 52
 PAL/SL 2
 난파/NNG 4
 이민우/NNP 15
@@ -39675,6 +40087,7 @@ serve/SL 1
 함남/NNP 5
 리필/NNG 3
 이화/NNG 3
+VCP/JKO 1
 壓力/SH 3
 과격주의자/NNG 1
 삼사/NNG 2
@@ -39684,7 +40097,7 @@ serve/SL 1
 으루/JKB 37
 하이퍼텍스트/NNG 2
 떨어트리/VV 1
-중립국/NNG 7
+VCP/JKB 304
 임산물/NNG 1
 낙발/NNG 2
 비취/NNG 1
@@ -39744,19 +40157,20 @@ serve/SL 1
 소풍/NNG 29
 1096/SN 1
 은실이/NNP 1
-그대루/MAG 1
+SN/SE 6
 견인력/NNG 1
 내남없이/MAG 2
-파인애플/NNG 1
+SN/SH 44
 두/MM 1915
-쌀가루/NNG 1
-1699/SN 1
+SN/SN 5
+SN/SO 1120
+SN/SL 169
 自重/SH 1
 수군/NNG 6
-comparative/SL 1
-강의안/NNG 2
+SN/SS 3542
+SN/SP 2843
 극우/NNG 15
-當不憚其勞也其二曰有凶事則弔之謂死喪水火之類災之小者則同約以書弔之/SH 1
+SN/SW 308
 마음껏/MAG 40
 느니만/EC 1
 辛卿植/SH 1
@@ -39790,7 +40204,7 @@ SBC/SL 9
 아버지상/NNG 1
 비누칠/NNG 1
 星辰/SH 1
-造詣/SH 1
+SL/NNP 46
 623/SN 2
 모니카/NNP 2
 제어국/NNG 1
@@ -39800,8 +40214,10 @@ SBC/SL 9
 하대/NNG 1
 운산리/NNP 1
 콘/NNP 1
+SL/NNB 6
 민족산업총회사/NNP 1
 태화루/NNP 1
+SL/NNG 108
 언덕/NNG 46
 임대차/NNG 5
 디스트릭트/NNG 1
@@ -39828,6 +40244,7 @@ all/SL 5
 구멍/NNG 84
 헤어밴드/NNG 1
 신세길/NNP 1
+선연히/MAG 1
 노인성단/NNG 1
 째/XSN 637
 Prescott/SL 2
@@ -39944,10 +40361,11 @@ Sully/SL 1
 경영학/NNG 11
 중미/NNP 1
 Exchange/SL 3
-單獨腐敗/SH 1
+전국경제인연합회/NNP 1
 汪/SH 1
 인제/MAG 11
 FIFA/SL 7
+價格體系/SH 1
 연대장/NNG 14
 김창환/NNP 1
 전파력/NNG 1
@@ -39958,7 +40376,7 @@ FIFA/SL 7
 大朝鮮國君主/SH 1
 이좌거/NNP 1
 리스크/NNG 47
-朴海楨/SH 1
+울산시/NNP 1
 헤르메티씨즘/NNG 11
 Wrestling/SL 2
 조차/JX 400
@@ -40145,6 +40563,7 @@ Training/SL 1
 벤/NNP 11
 급여/NNG 24
 ray/SL 1
+拉北/SH 1
 아집/NNG 6
 성미/NNG 9
 연구열/NNG 1
@@ -40156,7 +40575,7 @@ ray/SL 1
 옹글/VA 1
 좌정/NNG 3
 ㄴ다던데/EC 2
-鄭元一/SH 1
+덜커덩거리/VV 1
 노처녀/NNG 1
 성냥불/NNG 4
 획일/XR 34
@@ -40188,6 +40607,7 @@ Mitsubishi/SL 1
 분담금/NNG 4
 목종/NNP 1
 이현보/NNP 6
+불초/NNG 1
 개조/NNG 32
 입양자/NNG 1
 깎이/VV 11
@@ -40195,7 +40615,7 @@ Mitsubishi/SL 1
 얌전/NNG 16
 난국/NNG 20
 환시장/NNG 2
-부여조/NNG 1
+이봉동/NNP 2
 소기업/NNG 2
 원거리/NNG 7
 벌컥/MAG 4
@@ -40210,7 +40630,7 @@ Mitsubishi/SL 1
 농사직설/NNP 1
 이민자/NNG 4
 情事/SH 1
-빼/VV 177
+사용/NNG 1076
 자매지/NNG 2
 레스토랑/NNG 21
 효능/NNG 8
@@ -40221,6 +40641,7 @@ Mitsubishi/SL 1
 치마/NNG 50
 비티/NNG 1
 거시기/NP 1
+박상호/NNP 1
 다정다감/XR 1
 철주기/NNG 1
 공인/NNG 61
@@ -40228,6 +40649,7 @@ Mitsubishi/SL 1
 해부사/NNG 1
 용떡/NNG 1
 새빨개지/VV 2
+SF/XSN 141
 직설/NNG 4
 취객/NNG 3
 바이오/NNG 4
@@ -40274,6 +40696,7 @@ Leucippus/SL 1
 주번/NNG 23
 임경업/NNP 5
 증산/NNG 17
+累代獨子/SH 1
 cordis/SL 5
 칼텍스/NNP 1
 류용차/NNP 1
@@ -40343,7 +40766,7 @@ disk/SL 4
 정희/NNP 11
 우국지사/NNG 1
 명지리/NNP 1
-FV/SL 1
+2303/SN 1
 豆粥/SH 1
 향림사/NNP 1
 아동기/NNG 2
@@ -40587,7 +41010,7 @@ Economic/SL 3
 르미렐/NNP 2
 경솔히/MAG 2
 窮班/SH 1
-외자/NNG 33
+2477/SN 1
 백인천/NNP 1
 샘솟/VV 1
 英斷/SH 4
@@ -40634,7 +41057,6 @@ Bill/SL 1
 아무래두/MAG 1
 입장/NNG 622
 불인지심/NNG 1
-세빌리아/NNP 2
 지탱/NNG 37
 스티븐슨/NNP 1
 풍속/NNG 95
@@ -40652,6 +41074,7 @@ Bill/SL 1
 정은배/NNP 1
 선탠/NNG 1
 성패/NNG 23
+試券/SH 4
 출몰사/NNG 1
 갈로/NNP 1
 명기/NNG 26
@@ -40694,6 +41117,7 @@ Less/SL 1
 1241/SN 1
 群舞/SH 1
 비발디/NNP 2
+야마노우찌/NNP 2
 귀빈실/NNG 3
 애석히/MAG 1
 줄이/VV 225
@@ -40731,6 +41155,7 @@ computer/SL 3
 同一/SH 1
 찬연/XR 1
 봄내/NNG 1
+크라이스트/NNP 1
 金相賢/SH 2
 출원/NNG 11
 密規制/SH 1
@@ -40745,7 +41170,7 @@ Larry/SL 1
 同牢宴/SH 1
 시원/NNG 10
 정찰/NNG 14
-고무인/NNG 2
+EF/SS 1
 데이턴/NNP 1
 니산춘/NNG 1
 운동량/NNG 6
@@ -40775,12 +41200,12 @@ dx/SL 1
 自給自足度/SH 1
 뚝심/NNG 3
 저마/NNG 1
-필리페/NNP 1
+문광식/NNP 1
 늘어서/VV 23
 冠姓/SH 1
 129/SN 3
 확답/NNG 1
-SPF/SL 1
+철모/NNG 4
 고기반찬/NNG 4
 크세르크세스/NNP 1
 民正/SH 3
@@ -40814,7 +41239,7 @@ TRINITE/SL 1
 해수욕장/NNG 3
 차분히/MAG 11
 發想/SH 3
-겸전/NNG 1
+연희동/NNP 7
 한미/NNG 3
 국악기/NNG 2
 양미간/NNG 3
@@ -40855,6 +41280,7 @@ Polytechnic/SL 1
 정박/NNG 2
 階級間/SH 1
 뉴서비스/NNG 1
+JKG/XPN 1
 민며느리/NNG 1
 미쓰구미/NNP 1
 숲길/NNG 4
@@ -40897,7 +41323,7 @@ Selye/SL 1
 강심장/NNG 1
 앞줄/NNG 4
 폭넓/VA 75
-청안면/NNP 2
+靜的/SH 2
 버클리대학/NNP 1
 루아/NNG 1
 구성감/NNG 1
@@ -41096,7 +41522,8 @@ integrated/SL 2
 머찌/NNG 1
 욕지기/NNG 2
 깡통/NNG 15
-엔터테이너/NNG 2
+JKC/NR 79
+JKC/NP 82
 {/SS 2509
 전국부/NNG 2
 반상균/NNP 1
@@ -41125,6 +41552,7 @@ Gigabite/SL 1
 周易/SH 4
 기/NNG 258
 분간/NNG 20
+JX/SP 1
 부안/NNP 1
 짤래짤래/MAG 1
 최창봉/NNP 1
@@ -41190,6 +41618,7 @@ reprographic/SL 2
 한국교육개발원/NNP 2
 공전수이취식책/NNG 1
 가쓰라/NNP 1
+크샤바루나/NNP 1
 屬稱/SH 1
 행정원장/NNG 2
 연찬/NNG 2
@@ -41377,14 +41806,14 @@ f/SL 2
 聲容靜/SH 1
 암사동/NNP 6
 뒤섞/VV 2
-뒷편/NNG 3
-얼음물/NNG 1
+박동화/NNP 1
+응축/NNG 6
 요런/MM 3
 出門父子易衣行/SH 1
 년한/NNG 1
 447/SN 1
 서풍/NNG 1
-세나뚜스/NNP 3
+이완제/NNG 1
 새터/NNP 2
 변별/NNG 4
 비밀공작/NNG 2
@@ -41403,6 +41832,7 @@ f/SL 2
 衣弔服再拜哭而送之幼者之喪/SH 1
 노욕/NNG 1
 증거물/NNG 2
+왕과시/NNP 1
 프립케/NNP 2
 가드/NNG 3
 Ausserr/SL 1
@@ -41442,6 +41872,7 @@ Salomon/SL 1
 마사단/NNG 1
 특정국/NNG 2
 Bourgois/SL 1
+hold/SL 1
 에드/NNP 1
 이딸리아/NNP 1
 曲直明著而曲者猶不止/SH 1
@@ -41536,7 +41967,7 @@ Thornton/SL 9
 빠삐용/NNP 2
 欲坐禪詩/SH 1
 까무러치/VV 2
-게터/NNG 1
+임산부/NNG 8
 현록/NNG 1
 최종일/NNG 2
 진부면/NNP 1
@@ -41562,7 +41993,9 @@ Dresdner/SL 1
 김수중/NNP 1
 차주/NNG 12
 교두보/NNG 12
+不感/SH 1
 酒甁/SH 3
+도첩/NNG 1
 승리자/NNG 11
 김재명/NNP 1
 袍/SH 4
@@ -41610,11 +42043,12 @@ Saggi/SL 1
 쇼핑백/NNG 6
 班常分義/SH 1
 공시/NNG 50
+디오클레티아누스/NNP 1
 Clark/SL 1
 여봐란/NA 1
 己葬後則奠于墓/SH 1
 最終貸付資金/SH 7
-강부길/NNP 2
+JKO/XSN 5053
 약독물/NNG 1
 일차원/NNG 3
 그루/NNB 44
@@ -41623,7 +42057,7 @@ Clark/SL 1
 땅/MAG 2
 959/SN 1
 빨랫줄/NNG 4
-趨勢成長率/SH 1
+경향잡지/NNP 1
 아다파왕/NNP 1
 경문/NNG 3
 우려/NNG 372
@@ -41680,6 +42114,7 @@ card/SL 1
 정장화/NNG 1
 아들놈/NNG 8
 투덕투덕/MAG 2
+중상류/NNG 4
 增廣試/SH 1
 착생/NNG 1
 국립대/NNG 1
@@ -41699,20 +42134,20 @@ card/SL 1
 뤼미에르/NNP 1
 硏究問題/SH 1
 원청/NNG 3
-혈당/NNG 3
+장로회신대/NNP 1
 열적/VA 1
 예수/NNG 5
 좌설/NNG 1
 云謂/SH 3
 아라미드/NNG 1
-음주례/NNG 1
+어이하/VV 1
 attraction/SL 2
 싯달타/NNP 1
 프리마코프/NNP 1
 욕설/NNG 22
 일용품/NNG 1
 비스듬히/MAG 8
-일본말/NNG 10
+석/MM 39
 작전부/NNG 1
 206/SN 5
 1679/SN 2
@@ -41721,7 +42156,7 @@ attraction/SL 2
 영사단/NNG 1
 外裏白正布引紋八幅單頭二件/SH 1
 악다구니/NNG 2
-한국군/NNG 10
+신데렐라/NNP 3
 備奠物具祭文賻狀/SH 1
 총탄/NNG 3
 활자/NNG 12
@@ -41794,17 +42229,19 @@ Korea/SL 1
 완성/NNG 146
 爾雅/SH 1
 춘향가/NNP 3
+SF/SP 1
 앞가슴/NNG 3
 人間尊重/SH 1
 木箭/SH 3
 敎育部/SH 2
 수녀회/NNG 25
 출항/NNG 10
-鑛産品/SH 2
+XR/XR 13
 끄덕/MAG 3
 부안군/NNP 2
 사판/NNG 1
 對東歐圈/SH 1
+NR/NNB 2
 멀티비전/NNG 2
 선용/NNG 3
 밥상/NNG 27
@@ -41902,6 +42339,7 @@ Viewer/SL 1
 금경주/NNP 1
 집행자/NNG 4
 靑南臺/SH 1
+NA/NNG 1
 대일/NNP 9
 조두영/NNP 1
 혈조/NNG 1
@@ -41929,12 +42367,13 @@ Viewer/SL 1
 라스콜리니코프/NNP 2
 자상/NNG 2
 educates/SL 1
+자배기/NNG 1
 영도력/NNG 4
 회담장/NNG 2
 轉賣/SH 1
 인민군대/NNG 6
 용구/NNG 6
-매표/NNG 1
+EP/VCN 651
 後進國/SH 1
 전립선암/NNG 5
 북/NNP 653
@@ -41953,6 +42392,7 @@ NTSB/SL 2
 差別化/SH 1
 동향/NNG 81
 서식지/NNG 2
+EP/VCP 6729
 서명식/NNG 1
 산길/NNG 25
 학우회/NNG 2
@@ -42074,6 +42514,7 @@ Kiss/SL 1
 와해법/NNG 1
 약점/NNG 55
 교토/NNP 4
+共同運命體/SH 1
 적신호/NNG 3
 망각/NNG 28
 自主性/SH 2
@@ -42095,6 +42536,7 @@ Kiss/SL 1
 經濟組織/SH 1
 광휘/NNG 2
 권정달/NNP 2
+준의/NNG 1
 타이핑/NNG 4
 탕탕탕/MAG 1
 제과/NNG 2
@@ -42154,7 +42596,9 @@ policy/SL 1
 대우/NNG 78
 452/SN 3
 흥부/NNP 31
+송시열/NNP 1
 평창군/NNP 4
+SO/NR 112
 유복/XR 5
 열나무/NNG 1
 태종/NNP 12
@@ -42217,7 +42661,7 @@ anatomy/SL 1
 위스트/NNP 1
 他在位者不拜/SH 1
 친림석전/NNG 1
-박진심/NNP 1
+獨寡占體制/SH 1
 팔레트/NNG 4
 民社黨/SH 5
 기렇/VA 1
@@ -42226,7 +42670,7 @@ anatomy/SL 1
 대천여중/NNP 6
 누대/NNG 4
 長孫/SH 1
-서낭/NNG 1
+정신병/NNG 1
 근질근질/MAG 2
 하이델베르그/NNG 1
 frustrations/SL 1
@@ -42246,6 +42690,7 @@ Philosophical/SL 3
 애틀랜타/NNP 21
 공포심/NNG 7
 광명/NNG 5
+앨라니스/NNP 1
 정초/NNG 21
 박경완/NNP 32
 毛澤東思想/SH 1
@@ -42286,8 +42731,9 @@ Philosophical/SL 3
 1060/SN 2
 변양호/NNP 1
 디지털/NNG 46
+언/NNG 13
 constancy/SL 1
-獨寡占體制/SH 1
+SE/IC 91
 한국가스공사/NNP 1
 악창/NNG 2
 Kane/SL 1
@@ -42337,6 +42783,7 @@ can/SL 12
 전시하/NNP 1
 남아/NNG 15
 중거/NNG 1
+XSA/XR 22928
 억압감/NNG 1
 주옥같/VA 1
 국가경찰위/NNG 1
@@ -42436,7 +42883,7 @@ Seman/SL 1
 지앙판/NNG 1
 烏紗折角向上巾/SH 1
 亦可隨衆同進若喪事則聞喪卽時/SH 1
-累代獨子/SH 1
+VX/EC 16784
 텔프트/NNP 1
 돌기둥/NNG 2
 노랑말/NNG 1
@@ -42473,6 +42920,7 @@ Automated/SL 1
 간지럼/NNG 2
 유네스코/NNP 3
 우익/NNG 15
+天理人慾不容/SH 1
 아나/NNP 1
 若回文朗物/SH 1
 陽曲縣/SH 2
@@ -42489,7 +42937,7 @@ Automated/SL 1
 매지리/NNP 1
 염매/NNG 3
 봉래산/NNP 1
-의뢰/NNG 35
+EP/VA 4212
 최충/NNP 3
 개연/NNG 29
 선열/NNG 3
@@ -42498,12 +42946,13 @@ Automated/SL 1
 인기투표/NNG 4
 제록스/NNP 4
 사립문/NNG 5
-걸신들리/VV 1
+EP/VV 32161
 鄕風/SH 1
 黃菊/SH 1
 Jowett/SL 1
 Butterfield/SL 2
 貌思恭/SH 1
+EP/VX 13386
 놓여나/VV 6
 정병/NNG 2
 요수/NNG 2
@@ -42547,13 +42996,13 @@ schwesterseele/SL 1
 深靑粧花慮領沿治邊全/SH 1
 志望/SH 1
 보태/VV 49
-王后/SH 1
+JX/SH 1643
 광장국교/NNP 1
 영빈관/NNG 4
 습격/NNG 19
-어안/NNG 7
-hold/SL 1
-기념상/NNG 2
+JX/SL 309
+JX/SO 5
+JX/SN 54
 사역원/NNG 1
 制慾生活/SH 1
 빻/VV 10
@@ -42566,10 +43015,10 @@ Weiss/SL 2
 축내/VV 6
 악하/VA 14
 外製/SH 2
-Everything/SL 1
+JX/SS 2768
 첨가/NNG 25
 놓/VX 1295
-벽돌/NNG 36
+JX/SW 222
 불륜/NNG 14
 에르난데스/NNP 1
 배지기/NNG 5
@@ -42661,8 +43110,9 @@ POL/SL 1
 But/SL 1
 애그/IC 1
 徐/SH 5
-대한의료정보학회/NNP 1
+VCN 6410
 시나리오/NNG 34
+VCP 67262
 特別措置/SH 1
 악용/NNG 26
 강명구/NNP 3
@@ -42715,7 +43165,7 @@ Seeds/SL 1
 충남/NNP 51
 요육원/NNG 1
 포스트모더니즘/NNG 28
-영국병/NNG 1
+JKV/XR 1
 업화/NNG 1
 얹/VV 55
 면담실/NNG 2
@@ -42741,7 +43191,7 @@ Seeds/SL 1
 드란즈/NNP 1
 넘치/VV 102
 에라스무스/NNP 2
-박정희/NNP 22
+얇/VA 22
 Wittfogel/SL 1
 대면/NNG 27
 반대편/NNG 6
@@ -42883,7 +43333,7 @@ People/SL 1
 빠구리/NNG 5
 姜漢永/SH 1
 논갈이/NNG 4
-서호동헌/NNP 1
+XSV/NNP 9
 宋之問/SH 1
 샌드위치/NNG 2
 지렛대/NNG 7
@@ -42899,7 +43349,7 @@ People/SL 1
 외줄기/NNG 2
 연면히/MAG 2
 간조/NNG 5
-못날/NNG 2
+볼링장/NNG 1
 맥도널더글러스사/NNP 1
 315/SN 2
 해리/NNB 18
@@ -42955,6 +43405,7 @@ coss/SL 1
 261/SN 1
 신행담/NNG 1
 GY/SL 1
+SW/MM 5
 광작/NNG 1
 1714/SN 1
 送亦如之/SH 1
@@ -43012,6 +43463,7 @@ Laborat/SL 1
 멀리하/VV 1
 則同約會于一處/SH 1
 맬서스/NNP 1
+친면/NNG 1
 輸入誘發的/SH 1
 域外/SH 1
 빽새끼/NNG 2
@@ -43198,6 +43650,7 @@ Reaction/SL 1
 私益/SH 2
 김기춘/NNP 2
 어어/IC 1
+JKG/XR 6
 한비자/NNP 3
 四賢/SH 1
 출장길/NNG 1
@@ -43209,6 +43662,7 @@ Reaction/SL 1
 敎諭/SH 1
 대어/NNG 7
 야간비행/NNP 1
+백태/NNG 1
 淨化儀式/SH 1
 級干/SH 1
 유력자/NNG 1
@@ -43258,6 +43712,7 @@ Kuhn/SL 2
 포광/NNG 1
 幕/SH 2
 재종조모/NNG 1
+똑똑/MAG 1
 길쌈/NNG 20
 음주량/NNG 3
 안/ETM 1
@@ -43645,6 +44100,7 @@ Commercial/SL 4
 주조정실/NNG 2
 국밥/NNG 6
 작살내/VV 1
+대간/NNG 1
 손아랫사람/NNG 4
 윤동주/NNP 4
 prudential/SL 1
@@ -43666,6 +44122,7 @@ prudential/SL 1
 입발림/NNG 2
 지하층/NNG 1
 부용/NNG 1
+EF/NNP 1
 세멘트/NNG 1
 딕슨/NNP 1
 조직범죄/NNG 1
@@ -43834,7 +44291,7 @@ R/SL 28
 순탄/XR 14
 레이커스/NNP 2
 鄭在龍/SH 1
-김성호/NNP 1
+하동길/NNP 1
 1727/SN 2
 갈등/NNG 253
 허장성세/NNG 2
@@ -43863,6 +44320,7 @@ kinematics/SL 1
 순수익/NNG 2
 生活哲學/SH 1
 揖/SH 2
+明宗/SH 1
 稚氣/SH 1
 버지니아/NNP 3
 이항구/NNP 1
@@ -43909,6 +44367,7 @@ Illinois/SL 1
 백패/NNG 4
 부르좌/NNG 1
 기민당/NNP 3
+VA/MAG 22
 부장기/NNG 1
 타이탄/NNG 1
 정복근/NNP 2
@@ -43941,6 +44400,7 @@ Illinois/SL 1
 Americus/SL 1
 대하/VV 6180
 김수정/NNP 1
+IC/IC 1
 한니발/NNP 7
 로봇/NNG 6
 진흥기업/NNP 1
@@ -43949,18 +44409,20 @@ Americus/SL 1
 삼촌/NNG 35
 380/SN 6
 무우/NNG 14
-결단코/MAG 2
+JKO/SL 174
 531/SN 1
 구교/NNG 13
 엑셀/NNG 1
+JKO/SH 1718
 환송연/NNG 2
+배신행위/NNG 1
 하기사/MAG 1
 수류/NNG 1
-오합지졸/NNG 1
+JKO/SE 3
+JKO/SF 2
 정상천/NNP 1
 無或愆墮/SH 1
 해독성/NNG 2
-대업/NNG 3
 대여/NNG 21
 공화단/NNG 1
 돈오/NNG 1
@@ -43969,16 +44431,17 @@ Americus/SL 1
 抽象化/SH 1
 일가/NNG 30
 알뜰/XR 15
+JKO/SW 241
 용소골/NNP 6
 엘리베이터/NNG 6
-수류/NNP 1
+JKO/SS 3535
 개인택시/NNG 2
 포괄/NNG 107
 미주/NNG 9
 도력/NNG 1
-송인식/NNP 1
+JC/NR 24
 ttingen/SL 1
-앙부일귀/NNG 2
+JC/NP 193
 일언반구/NNG 6
 배두렁이/NNG 1
 正直/SH 2
@@ -43987,7 +44450,7 @@ ttingen/SL 1
 요기/NNG 6
 유학중/NNG 1
 운산지/NNP 1
-犯則品/SH 1
+EP/$ 1
 대광리/NNP 1
 가야대/NNP 1
 빈민굴/NNG 1
@@ -44023,6 +44486,7 @@ ING/SL 1
 길/VA 422
 나흘/NNG 14
 man/SL 4
+브라운관/NNG 2
 궁수/NNG 1
 벌금형/NNG 6
 장애/NNG 119
@@ -44037,6 +44501,7 @@ man/SL 4
 좌편/NNG 2
 성직자/NNG 60
 松竹/SH 2
+반복법/NNG 1
 되/NNB 15
 황황히/MAG 3
 포직령/NNG 1
@@ -44221,9 +44686,11 @@ collaberating/SL 1
 주술/NNG 54
 주택지/NNG 1
 귀빈/NNG 3
+介入/SH 1
 공부방/NNG 24
 受注/SH 1
 立於卓西東向/SH 1
+秋監記/SH 1
 잡숫/VV 8
 족산/NNG 1
 분데스타그/NNP 1
@@ -44254,7 +44721,7 @@ Zulu/SL 1
 시중호/NNP 1
 중앙시장/NNP 2
 건조기/NNG 1
-엮/VV 67
+실/NNG 68
 vdolive/SL 2
 탄압/NNG 69
 聲韻/SH 1
@@ -44290,6 +44757,7 @@ agent/SL 1
 기한/NNG 35
 서도/NNP 4
 굴리엘모/NNP 1
+정경숙/NNP 1
 총무부장/NNG 2
 두툼/XR 11
 스칼라/NNG 3
@@ -44384,6 +44852,7 @@ ARS/SL 10
 화랑세기/NNP 1
 빨강색/NNG 3
 브루흐/NNP 1
+JKG/$ 1
 羹食/SH 1
 작자/NNG 41
 주보/NNG 6
@@ -44595,6 +45064,7 @@ PSQ/SL 1
 시고/NNG 1
 쫓/VV 66
 공산/NNG 98
+걸신들리/VV 1
 음력설/NNG 2
 게송/NNG 1
 간화자/NNG 1
@@ -44667,7 +45137,7 @@ down/SL 2
 軍事革命委員會/SH 1
 指紋/SH 1
 절충점/NNG 2
-敎旨具官/SH 1
+낭패감/NNG 3
 투입량/NNG 2
 벽안/NNG 1
 외투/NNG 16
@@ -44853,6 +45323,7 @@ Kindleberger/SL 1
 편집국/NNG 2
 취유부벽정기/NNP 2
 불란서/NNP 2
+NP/SH 5
 박도식/NNP 1
 해외여행/NNG 43
 사모/NNG 18
@@ -44936,12 +45407,13 @@ bancassurance/SL 3
 려마/EF 2
 소여/NNP 10
 石油相會議/SH 1
-어요/EF 1159
+실비/NNG 5
 afraid/SL 1
 熱河/SH 1
 社會通念/SH 1
 개표/NNG 4
 보훈/NNG 4
+토사/NNG 1
 개발비/NNG 3
 뇌주/NNG 1
 하회동/NNP 1
@@ -44952,7 +45424,7 @@ afraid/SL 1
 지각상/NNG 1
 구례구/NNP 4
 일경신문/NNP 1
-학생/NNG 1280
+이자/NNG 165
 유문숙/NNP 1
 가두방송/NNG 1
 베텔쥬스/NNP 1
@@ -45133,7 +45605,7 @@ di/SL 1
 태묘/NNG 2
 하이젠베르그/NNP 1
 曲/SH 1
-부락민/NNG 1
+NP/NP 21
 송원갤러리/NNP 1
 배차장파/NNP 1
 가정보감/NNG 3
@@ -45165,6 +45637,7 @@ di/SL 1
 어둠/NNG 114
 온/MM 186
 多數/SH 1
+쉴라이허/NNP 1
 한수자/NNG 1
 與黨/SH 16
 불골/NNG 1
@@ -45296,7 +45769,7 @@ mortgage/SL 1
 선녀/NNG 6
 옹야/IC 1
 Versatile/SL 1
-농자천하지대본/NNG 2
+가디건/NNG 2
 영철/NNP 2
 셈하/VV 5
 도참서/NNG 1
@@ -45398,12 +45871,13 @@ Demand/SL 4
 스쿠터/NNG 1
 1203/SN 1
 하피스트/NNG 1
+NR/SE 3
 팔도방백/NNG 1
 집찰/NNG 1
 發行市場/SH 1
 창간/NNG 37
 대한민국/NNP 67
-Casting/SL 1
+곡성/NNG 6
 成案/SH 2
 韓英株/SH 1
 주의/NNG 290
@@ -45544,6 +46018,7 @@ Milford/SL 1
 플레이오네/NNP 1
 가슴/NNG 371
 figure/SL 1
+두메산골/NNG 1
 家神/SH 1
 Society/SL 3
 體統/SH 1
@@ -45681,9 +46156,11 @@ Team/SL 2
 인정국/NNP 1
 현직/NNG 42
 최광/NNP 2
+이춘하/NNP 1
 중앙선/NNG 4
 Assisted/SL 2
 선셋/NNG 2
+못날/NNG 2
 營業健全性/SH 1
 고용비/NNG 1
 장강재/NNP 2
@@ -45710,7 +46187,7 @@ Assisted/SL 2
 맴/NNG 1
 을지문덕/NNP 3
 증빙/NNG 4
-出將入相/SH 1
+영변/NNP 3
 당신/NNG 1
 멀티/NNG 5
 참배/NNG 34
@@ -45805,7 +46282,7 @@ Erkenen/SL 1
 지랄병/NNG 2
 &/SW 67
 Strahlenberg/SL 1
-거두/VV 248
+새삼/MAG 150
 선순위/NNG 2
 증손자/NNG 4
 暗雲/SH 1
@@ -45823,6 +46300,7 @@ Strahlenberg/SL 1
 enijax/SL 1
 세찬계/NNG 1
 시책/NNG 55
+이봐라/IC 2
 不偏/SH 1
 企業/SH 35
 經濟全體/SH 1
@@ -45965,7 +46443,7 @@ Are/SL 1
 代理人/SH 1
 崔弘埈/SH 1
 우등/NNG 12
-증표/NNG 1
+루드/NNP 2
 敎會建物/SH 1
 을유일/NNG 1
 古典/SH 2
@@ -46010,7 +46488,7 @@ for/SL 16
 李時雨/SH 1
 六卿/SH 1
 조용기/NNP 3
-司貨監收藏之以續用度/SH 1
+효자비/NNG 3
 식료/NNG 2
 매니지먼트/NNG 2
 技術上/SH 1
@@ -46058,6 +46536,7 @@ Ch/SL 1
 탄광/NNG 35
 얼마/NNG 443
 道德律/SH 1
+입약/NNG 1
 광대겁/NNG 1
 기웃/MAG 1
 배치/NNG 103
@@ -46143,6 +46622,7 @@ CDS/SL 2
 형초세시기/NNP 1
 샤먼/NNG 3
 債券去來額/SH 3
+SO/SP 5
 則直月告于約正論以犯約/SH 1
 향유물/NNG 1
 향찰/NNG 3
@@ -46169,6 +46649,7 @@ organizationism/SL 1
 박옥란/NNP 3
 忌/SH 2
 다네/EC 6
+SO/SH 2
 조지/VV 4
 건어물/NNG 1
 바우고개/NNG 1
@@ -46222,6 +46703,7 @@ magic/SL 5
 그랜드/NNG 6
 도일여관/NNP 1
 김병훈/NNP 1
+EF/VCP 23142
 토비/NNP 1
 액/NNG 11
 첼리/NNP 1
@@ -46241,6 +46723,7 @@ try/SL 1
 본고장/NNG 12
 천체/NNG 17
 소팔가자/NNP 2
+EF/VCN 1507
 수창이/NNP 77
 X/SW 1
 한족/NNP 4
@@ -46304,11 +46787,13 @@ insurance/SL 1
 유길준/NNP 2
 으라고/EF 2
 선생/NNG 1077
+JX/MAJ 297
 院內多數/SH 1
 쌍상투/NNG 1
 06/SN 107
 유력/NNG 1
 上以朱綠/SH 2
+JX/MAG 1615
 바람기/NNG 1
 흉하/VA 6
 군산/NNG 1
@@ -46361,7 +46846,7 @@ psychological/SL 1
 방방/MAG 2
 【/SS 133
 複雜/SH 1
-전력투구/NNG 11
+JC/NNP 1834
 신선도/NNG 2
 기탄없이/MAG 1
 사범학교/NNG 7
@@ -46371,11 +46856,12 @@ psychological/SL 1
 령요척두항골절/NNG 1
 지용/NNP 1
 몽창/MAG 1
-대보탕/NNG 1
+JC/NNB 470
 기일/NNG 27
 直領/SH 1
 겐세이/NNP 2
 잖나/EF 3
+JC/NNG 19796
 緣/SH 2
 試算/SH 3
 선바위/NNG 1
@@ -46481,7 +46967,6 @@ DMC/SL 1
 예명/NNG 1
 으슈/EF 3
 큰형/NNG 12
-서운관/NNG 1
 적화/NNG 5
 여파/NNG 28
 회개/NNG 10
@@ -46504,6 +46989,7 @@ DMC/SL 1
 인스턴트식/NNG 1
 법어/NNG 2
 모락모락/MAG 4
+EC/EC 2
 한하운/NNP 1
 속이/VV 57
 브라우론/NNP 2
@@ -46523,6 +47009,7 @@ DMC/SL 1
 박규채/NNP 1
 부전증/NNG 2
 오또오상와/NNG 1
+XPN/XPN 4
 세일즈/NNG 13
 김종국/NNP 1
 당량/NNG 1
@@ -46592,7 +47079,7 @@ Wiesbaden/SL 1
 國家信用等級/SH 1
 早期/SH 2
 치레/XSN 10
-밀로/NNP 1
+바라보이/VV 4
 　/SO 10
 매쿼리/NNP 2
 이자락/NNG 1
@@ -46612,7 +47099,7 @@ SK/SL 2
 경칩/NNG 3
 상견례/NNG 2
 문명국/NNG 1
-선문답/NNG 2
+SP/JKO 292
 보은군/NNP 1
 1887/SN 3
 방아동/NNP 1
@@ -46646,6 +47133,7 @@ hacker/SL 1
 窓/SH 3
 正祖/SH 1
 황은/NNG 1
+禮法/SH 1
 반대쪽/NNG 1
 Selzer/SL 1
 흉노/NNG 1
@@ -46663,11 +47151,11 @@ fingo/SL 1
 可視光/SH 1
 原廟/SH 1
 수입기/NNG 1
-白檀香/SH 1
+범랑/NNG 1
 적설기/NNG 1
 市場金利連動型/SH 1
 不渡/SH 2
-대방/NNP 1
+강우혁/NNP 3
 성우/NNG 5
 남부터미널/NNP 3
 유래/NNG 52
@@ -46715,7 +47203,7 @@ Information/SL 11
 급진전/NNG 4
 70/SN 306
 타개/NNG 31
-전대협/NNP 1
+XSV/$ 1
 犯行/SH 1
 양귀비/NNG 1
 빌더/NNG 1
@@ -46762,6 +47250,7 @@ ergo/SL 2
 호남성인/NNG 1
 발신/NNG 3
 고려사/NNP 9
+背德/SH 1
 大衣/SH 1
 吏讀/SH 1
 반월공단/NNP 2
@@ -46800,7 +47289,7 @@ Group/SL 6
 appetite/SL 1
 Pyrrhon/SL 1
 늦/VV 27
-허례허식/NNG 4
+지파/NNG 1
 백부/NNG 5
 번제/NNG 1
 문화원/NNG 10
@@ -46973,10 +47462,11 @@ skim/SL 1
 만년설/NNG 3
 폭풍우/NNG 5
 유화론자/NNG 1
-갱목/NNG 1
+醫師/SH 1
 봉두완/NNP 3
 종일/NNG 79
 8250/SN 1
+NP/SW 11
 용도/NNG 24
 자유방임/NNG 1
 역점/NNG 32
@@ -47033,6 +47523,7 @@ Kids/SL 2
 맞대결/NNG 13
 삼천리/NNG 3
 따로/MAG 186
+JX/JKB 19169
 日刊/SH 1
 쥐띠/NNG 4
 조자룡/NNP 4
@@ -47085,7 +47576,8 @@ pre/SL 1
 고/NA 1
 한가/XR 38
 헬스클럽/NNG 3
-週初/SH 1
+尊賢崇道/SH 1
+JX/JKO 14
 음모/NNG 27
 조르노/NNG 2
 표결/NNG 15
@@ -47159,7 +47651,7 @@ operational/SL 1
 매사추세츠주/NNP 1
 살로몬/NNP 1
 司馬光/SH 1
-타운/NNG 8
+기록물/NNG 1
 자유시대사/NNP 1
 응접실/NNG 9
 667/SN 1
@@ -47235,27 +47727,28 @@ and/SL 35
 용인시/NNP 1
 몬시뇰/NNP 5
 여름휴가/NNG 4
-1369/SN 1
+SF/EF 114042
 익스프레스/NNG 3
 주스페인/NNG 1
 檄文/SH 1
 경망/NNG 4
 염문/NNG 1
-VOOLive/SL 1
-과학보안국/NNG 1
+XPN/SH 10
+XPN/SN 6
 홑/NNG 1
 루/NNG 221
 윤형두/NNP 2
 연질/NNG 1
 야물/VA 1
 My/SL 3
+XPN/SE 1
 축/MAG 11
 一心之源/SH 1
-인색/NNG 27
-서독제/NNG 1
+XPN/SS 382
+XPN/SP 52
 권녕수/NNP 3
 유대교/NNG 2
-청미레/NNG 1
+XPN/SW 12
 앤터니/NNP 4
 棗/SH 3
 약효/NNG 11
@@ -47266,7 +47759,7 @@ Mods/SL 1
 몰려나오/VV 5
 단풍/NNG 8
 아침참/NNG 2
-Die/SL 1
+우울제/NNG 1
 日本/SH 84
 推定結果/SH 6
 산달래/NNG 1
@@ -47299,7 +47792,7 @@ CDU/SL 2
 방미/NNG 12
 985/SN 1
 이회창/NNP 43
-우필흥/NNP 1
+끄레띠양/NNP 1
 以/SH 1
 지증왕/NNP 4
 천보성/NNP 24
@@ -47427,8 +47920,10 @@ CDG/SL 1
 권토중래/NNG 1
 남아공/NNP 2
 게스트/NNG 2
+JKB/SW 796
 을해/NNG 3
 袂口外面亦貼繡圓翟/SH 1
+JKB/SS 4045
 責任/SH 7
 석명/NNP 1
 細分化/SH 1
@@ -47438,16 +47933,17 @@ CDG/SL 1
 임진강/NNP 14
 李珥/SH 1
 고초/NNG 4
+JKB/SE 2
 불허/NNG 18
 설득력/NNG 82
 을러대/VV 1
 학기/NNG 62
 큰댁/NNG 10
-대구부장적/NNG 1
+JKB/SN 308
 부랑/NNG 1
-콘센트/NNG 1
+JKB/SL 301
 실질/NNG 168
-전통문화/NNG 35
+JKB/SH 2093
 殖利補用/SH 1
 정신문화/NNG 5
 미수/NNG 9
@@ -47461,7 +47957,7 @@ Sigmund/SL 1
 선랑/NNP 1
 도라이바/NNG 1
 교묘/XR 31
-고용주/NNG 2
+JKC/EC 51
 더라면/EC 65
 언어관/NNG 9
 Cartesian/SL 1
@@ -47543,7 +48039,7 @@ AFM/SL 1
 광지/NNG 1
 최고봉/NNG 8
 특수석/NNG 1
-或作嘲詠文字及發揚人之私隱/SH 1
+이미경/NNP 2
 소개팅/NNG 2
 시말서/NNG 1
 힐/NNG 4
@@ -47633,6 +48129,7 @@ drawee/SL 1
 東歐/SH 7
 友/SH 1
 푸어스/NNP 1
+VA/NP 498
 복숭아/NNG 17
 유난/NNG 8
 추자도/NNP 4
@@ -47719,6 +48216,7 @@ illiquidity/SL 1
 배면/NNG 1
 말없이/MAG 29
 情報部/SH 1
+480/SN 2
 추격자/NNG 2
 자아/NNG 51
 학문/NNG 1101
@@ -47762,18 +48260,21 @@ DR/SL 1
 사용료/NNG 21
 수요액/NNG 5
 隊正/SH 2
+SS/JKG 25
 登載/SH 1
+SS/JKB 159
 몰매/NNG 7
 대차/VA 2
 토색질/NNG 1
 동지회장/NNG 1
+SS/JKO 42
 내각/NNG 127
 방귀/NNG 17
 紙位/SH 1
-임관정요/NNP 3
+SS/JKV 10
 소산동항/NNP 1
 남장/NNG 1
-섬찟/MAG 1
+SS/JKS 25
 機械類/SH 1
 동설령/NNP 1
 傳統的/SH 1
@@ -47852,12 +48353,13 @@ Turanian/SL 1
 비/NA 1
 단백질/NNG 16
 약속/NNG 292
+VA/NNG 538
 어라고/EC 5
 限界性/SH 2
 금잔디/NNP 1
 끌리/VV 25
 metaphor/SL 1
-크스토포/NNP 1
+VA/NNP 4
 알아내/VV 58
 강재언/NNP 1
 무용지용/NNG 1
@@ -47894,8 +48396,9 @@ Stent/SL 1
 私兵/SH 2
 창끝/NNG 1
 이하응/NNP 1
+NNB/ETM 980
 본리/NNG 1
-702/SN 2
+NNB/ETN 24
 이진형/NNP 2
 거울삼/VV 5
 侵苦村民及山寺之僧/SH 1
@@ -47952,6 +48455,7 @@ lebenlosen/SL 1
 외래어/NNG 25
 返還/SH 1
 南炎浮洲志/SH 1
+숙정/NNG 13
 적장/NNG 1
 양수겸장/NNG 4
 관련자/NNG 57
@@ -47965,6 +48469,7 @@ Ugric/SL 1
 스승/NNG 81
 부전공/NNG 10
 572/SN 1
+헤헤/MAG 2
 반동/NNG 13
 왈칵/MAG 7
 이상룡/NNP 1
@@ -47985,7 +48490,7 @@ Ugric/SL 1
 亞太/SH 2
 힘겨루기/NNG 9
 하과/NNG 1
-又讓登/SH 1
+고급문화/NNG 3
 허허/IC 14
 tartaglia/SL 1
 上下/SH 3
@@ -48045,7 +48550,7 @@ Software/SL 2
 김은중/NNP 1
 영생/NNG 3
 인신/NNG 7
-崔載九/SH 1
+음직/NNG 1
 선행/NNG 48
 난제/NNG 20
 금천구/NNP 1
@@ -48075,10 +48580,11 @@ mæn/SL 1
 떡쌀/NNG 1
 崔鍾一/SH 2
 윤택이/NNP 1
-實/SH 3
+XR/SW 8
 코냐크/NNP 2
 그레이스/NNP 1
-따땃/XR 1
+XR/SP 11
+XR/SS 322
 스무/MM 30
 能記/SH 5
 빼내/VV 24
@@ -48086,17 +48592,17 @@ mæn/SL 1
 가구주/NNG 12
 맞부비/VV 1
 투정/NNG 6
-둑/NNG 33
+XR/SE 10
 文章化/SH 2
 무소불능/NNG 2
-幸福/SH 2
+XR/SF 2
 주한/NNG 71
 조바심치/VV 1
 창백/XR 13
 生活信條/SH 1
 보행자/NNG 3
 不義/SH 1
-인민회의/NNG 2
+XR/SN 2
 外交部/SH 2
 섭섭이/NNG 1
 환경/NNG 644
@@ -48170,7 +48676,7 @@ Gauda/SL 1
 우굴우굴/MAG 2
 전/NNG 1543
 408/SN 2
-맷값/NNG 1
+財閥企業/SH 1
 범익겸/NNP 1
 Bridgesof/SL 1
 下限/SH 2
@@ -48199,6 +48705,7 @@ world/SL 7
 칸칸/NNG 1
 끌/VV 373
 묘적이/NNP 13
+인민회의/NNG 2
 불호령/NNG 4
 처남댁/NNG 1
 자연주의/NNG 8
@@ -48242,8 +48749,8 @@ Connecticut/SL 1
 dialectics/SL 1
 탐라요/NNP 1
 族黨制/SH 1
-뚱하/VA 1
-추종자/NNG 11
+VCP/NR 337
+VCP/NP 1883
 후비/NNG 1
 재위/NNG 18
 堤高/SH 1
@@ -48265,7 +48772,7 @@ dialectics/SL 1
 백전백승/NNG 1
 강원일/NNP 2
 버틀러/NNP 2
-kaist/SL 1
+계략/NNG 4
 이종남/NNP 1
 롯데호텔/NNP 3
 백수/NNG 4
@@ -48282,6 +48789,7 @@ kaist/SL 1
 婚/SH 1
 송언종/NNP 1
 資金側/SH 1
+中丁日/SH 1
 Mosca/SL 1
 가파롭/VA 1
 온스/NNG 1
@@ -48338,6 +48846,7 @@ Theorie/SL 1
 괴이/XR 4
 태평스레/MAG 1
 土風/SH 1
+JC/EC 8
 樂取於人以爲善/SH 1
 And/SL 3
 아폴론/NNP 12
@@ -48555,11 +49064,11 @@ James/SL 7
 Project/SL 2
 장골/NNG 1
 動機賦與型/SH 1
-金鉉奬/SH 1
+VCP/MAG 219
 善後策/SH 1
 역모/NNG 1
 안소니/NNP 1
-현옥/NNP 3
+VCP/MAJ 1
 1637/SN 2
 암거래/NNG 3
 교육장실/NNG 1
@@ -48575,6 +49084,7 @@ Project/SL 2
 헌주/NNG 6
 7525/SN 1
 demonic/SL 1
+김룡수/NNP 1
 울리/NP 6
 同/SH 4
 만세/IC 9
@@ -48597,7 +49107,7 @@ demonic/SL 1
 사라/NNP 1
 國民精神改革推進/SH 1
 하얏트호텔/NNP 3
-연합고사/NNG 2
+이단/NNG 11
 97/SN 179
 으면서요/EF 1
 토드/NNP 2
@@ -48636,6 +49146,7 @@ MCI/SL 2
 Competition/SL 1
 겸연쩍/VA 2
 박연호/NNP 1
+까발로/NNP 1
 정교/XR 26
 정신박약아/NNG 2
 실격/NNG 10
@@ -48679,7 +49190,7 @@ collar/SL 1
 進退拜/SH 1
 strenght/SL 1
 선암사/NNP 7
-울산시/NNP 1
+SW 8576
 友好親美/SH 1
 예닐곱/NR 7
 몰아주/VV 2
@@ -48705,14 +49216,15 @@ strenght/SL 1
 千差萬別/SH 1
 그래프/NNG 4
 同系/SH 1
+아시아유럽정상회의/NNP 1
 이영우/NNP 4
 順菴/SH 1
 지산동/NNP 1
-덜커덩거리/VV 1
+합동결혼식/NNG 3
 조이/NNG 1
 무심결/NNG 1
 어린애/NNG 30
-송시열/NNP 1
+公權力行使/SH 1
 숙사/NNG 2
 앞길/NNG 16
 광/NNG 25
@@ -48722,6 +49234,7 @@ strenght/SL 1
 수치심/NNG 9
 文字言語/SH 2
 널브러지/VV 3
+코카사스/NNP 1
 포드/NNP 19
 빠방/NNG 5
 安基永/SH 2
@@ -48739,6 +49252,7 @@ strenght/SL 1
 치적/NNG 7
 미중앙정보국/NNP 3
 들여보내/VV 10
+건축주/NNG 1
 IMD/SL 3
 민원서류/NNG 1
 頭腦/SH 1
@@ -48785,7 +49299,7 @@ reaction/SL 4
 식인/NNG 1
 탄차/NNG 2
 이보슈/IC 1
-국경/NNG 83
+외자/NNG 33
 왜관/NNP 1
 안골리성/NNP 1
 웃자라/VV 3
@@ -49038,8 +49552,9 @@ presidency/SL 1
 어저씨/NNG 1
 고깔/NNG 2
 관대히/MAG 1
-소아시아/NNP 1
+무호/NNP 1
 損財/SH 1
+대구부장적/NNG 1
 祈子木/SH 1
 消費財/SH 10
 實物側/SH 1
@@ -49199,6 +49714,7 @@ ja/SL 1
 抗日/SH 1
 종신/NNG 17
 且議喪禮及助具凡百經營之事/SH 1
+貨幣/SH 2
 강백천/NNP 1
 검토/NNG 358
 오리정/NNG 1
@@ -49322,6 +49838,7 @@ Henry/SL 2
 經濟風土/SH 1
 河麟斗/SH 1
 서신/NNG 19
+原油價/SH 4
 共感帶/SH 2
 잡초/NNG 57
 봄꽃/NNG 2
@@ -49334,7 +49851,7 @@ Henry/SL 2
 인왕산/NNP 2
 에어/NNP 2
 김정부/NNP 1
-하동길/NNP 1
+JC/XSN 903
 맥크라켄/NNP 1
 民心離反/SH 1
 덩더듕성/NNG 1
@@ -49395,9 +49912,11 @@ room/SL 8
 우러나/VV 7
 허재홍/NNP 2
 밴/NNG 2
+SF/ETM 6
 西左/SH 1
-不可/SH 1
+SF/ETN 39
 렵니다/EF 2
+EF/NP 1
 同宿/SH 1
 다복솔/NNG 2
 주인집/NNG 16
@@ -49454,6 +49973,7 @@ Methode/SL 1
 뉴욕타임스/NNP 16
 良心宣言/SH 2
 어선지/EC 1
+환지/NNG 1
 탐진댐/NNP 1
 마제/NNG 1
 申孝淳/SH 1
@@ -49589,7 +50109,7 @@ sphere/SL 1
 魅力/SH 1
 金融監督院/SH 6
 폐/NNG 17
-480/SN 2
+강부길/NNP 2
 홍현욱/NNP 7
 점수/NNG 84
 趙簡子/SH 1
@@ -49623,7 +50143,7 @@ ZONE/SL 1
 싸움터/NNG 9
 우동/NNG 5
 서점/NNG 43
-會食事件/SH 1
+에세이집/NNG 1
 日本思想史/SH 1
 都契長則不與鄕所通文字/SH 1
 밤청대/NNG 2
@@ -49661,6 +50181,7 @@ voxware/SL 1
 以告于約正而詰之/SH 1
 마지막/NNG 320
 누하동/NNP 1
+영주시/NNP 2
 출세간/NNG 1
 홍문공도/NNG 1
 다우존스사/NNP 1
@@ -49699,6 +50220,7 @@ Digital/SL 3
 새짝이/VV 1
 수도관/NNG 8
 결혼사진/NNG 2
+SH/MM 3
 잠옷/NNG 7
 흥얼흥얼/MAG 1
 오똑/MAG 5
@@ -49726,6 +50248,7 @@ thirst/SL 1
 道具/SH 2
 도구또미/NNP 1
 철없이/MAG 2
+XSN/IC 1
 야소/NNG 1
 서울대인/NNG 1
 過失相規過失謂犯義之過六/SH 1
@@ -49761,7 +50284,7 @@ Durkheim/SL 1
 Holding/SL 2
 문동환/NNP 3
 ㄹ/NNG 22
-바라보이/VV 4
+SL/SF 211
 신통/NNG 21
 무역고/NNG 2
 간고등어/NNG 2
@@ -49779,6 +50302,7 @@ Holding/SL 2
 明暗/SH 1
 장기풍/NNP 1
 번역어/NNG 5
+MM/MM 9
 이희수/NNP 4
 이자나기노/NNP 1
 머리끄덩이/NNG 1
@@ -49786,9 +50310,10 @@ Holding/SL 2
 077859/SN 1
 찬스/NNG 9
 언론사/NNG 48
-화산회/NNG 1
+구릉/NNG 10
 차/VV 280
 문가/NNG 1
+老後/SH 1
 自珩以下繫組五/SH 1
 시생/NNG 1
 제정구/NNP 3
@@ -49840,6 +50365,7 @@ Agence/SL 1
 스파/NNG 1
 모더니즘/NNG 14
 수굿이/MAG 1
+싸릿대/NNG 1
 용례/NNG 2
 군색/XR 1
 mechanism/SL 2
@@ -49881,7 +50407,7 @@ workstation/SL 1
 희끗/XR 1
 탈육/NNG 1
 크로키/NNG 4
-이봐라/IC 2
+금융청/NNG 1
 무력시위/NNG 4
 허/VV 7
 대사헌/NNG 1
@@ -50022,6 +50548,7 @@ Optical/SL 1
 까르륵/MAG 2
 廣大願雲恒不盡/SH 1
 빙어/NNG 13
+혈당/NNG 3
 operation/SL 1
 민주주의/NNG 104
 인생관/NNG 13
@@ -50049,6 +50576,7 @@ border/SL 1
 서한문/NNG 1
 Schleiermacher/SL 1
 능숙/XR 9
+1699/SN 1
 龍/SH 2
 둘러앉/VV 11
 都有司/SH 1
@@ -50065,6 +50593,7 @@ algebra/SL 1
 누적/NNG 42
 활시위/NNG 1
 혼란감/NNG 1
+물탱크/NNG 4
 면역학/NNG 1
 4322/SN 1
 호미걸이/NNG 2
@@ -50179,12 +50708,14 @@ give/SL 4
 포트볼테리예르다/NNP 1
 물가고/NNG 3
 학부령/NNG 1
+대보탕/NNG 1
 의롭/VA 9
 컬/NNG 1
 풍교/NNG 3
 李在奐/SH 1
 서곡/NNG 1
 향교/NNG 15
+SF/MM 1
 난점/NNG 7
 느이/NP 16
 자승/NNG 1
@@ -50415,16 +50946,18 @@ only/SL 2
 광진교/NNP 1
 오스카/NNP 2
 盧道陽/SH 1
-불국사/NNP 6
+VA/SE 15
 유신모/NNP 8
+VA/SN 1
 445/SN 1
-흰떡/NNG 1
+VA/SL 1
 金明河/SH 1
 流頭薦新/SH 1
-발병/NNG 16
+VA/SH 13
+VA/SW 13
 볼멘소리/NNG 3
 노력가/NNG 1
-건축주/NNG 1
+VA/SS 736
 율령/NNG 3
 철옹성/NNG 3
 폭풍설/NNG 1
@@ -50473,6 +51006,7 @@ California/SL 1
 중문학/NNG 1
 國民運動化/SH 1
 자신만만/XR 4
+대자보/NNG 1
 8331/SN 1
 collective/SL 1
 연푸르/VA 1
@@ -50507,9 +51041,9 @@ animal/SL 1
 不用錦/SH 1
 金英柱/SH 2
 학창/NNG 12
-운위/NNG 5
+SF/JKQ 8
 통성명/NNG 1
-꾸밈/NNG 3
+동공/NNG 6
 最終貸付者/SH 30
 사치/NNG 57
 명진기성/NNG 1
@@ -50521,7 +51055,7 @@ animal/SL 1
 박차/VV 12
 白首狂夫/SH 1
 옥룡기/NNP 1
-씨대궁이/NNG 1
+호되/VA 18
 江陵/SH 1
 人物/SH 1
 책상다리/NNG 1
@@ -50544,6 +51078,7 @@ numerology/SL 1
 Reincarnation/SL 1
 哀惻之情/SH 1
 꼼꼼/MAG 1
+기념일/NNG 17
 계약서/NNG 15
 직업인/NNG 9
 복구공사/NNG 2
@@ -50566,7 +51101,7 @@ Reincarnation/SL 1
 들국화/NNG 9
 眞福八端/SH 1
 꼼꼼히/MAG 9
-명당/NNG 14
+월선/NNG 2
 조사관/NNG 2
 다소곳/XR 1
 모퉁이/NNG 16
@@ -50582,7 +51117,7 @@ credit/SL 3
 삼성건설/NNP 1
 정음사/NNP 1
 犯法/SH 5
-止揚的/SH 1
+SF/JKG 1
 animism/SL 1
 양력/NNG 9
 호가자호/NNG 1
@@ -50599,6 +51134,7 @@ Corning/SL 1
 計定科目/SH 2
 노동부/NNG 14
 개요/NNG 3
+흰떡/NNG 1
 훈화/NNG 3
 창작과비평사/NNP 5
 만민/NNG 1
@@ -50644,11 +51180,12 @@ dt/SL 1
 등겨/NNG 2
 寒氣/SH 1
 날라리/NNG 1
-유볼트/NNP 1
+VA/SP 6
 북도/NNG 1
 시보/NNG 9
 이란/NNG 1
 도자전/NNG 1
+NNB/IC 1
 융성출판사/NNP 1
 급인/NNG 2
 훌훌히/MAG 1
@@ -50776,12 +51313,12 @@ CIO/SL 1
 次上/SH 1
 外從妹/SH 1
 확대일로/NNG 1
+파트타임/NNG 2
 雲師/SH 1
 울주군/NNP 2
 허봉학/NNP 1
 이주비/NNG 2
 靑衣/SH 1
-경복/NNG 2
 告利成/SH 1
 양심선언/NNG 6
 韓國條項/SH 1
@@ -50888,7 +51425,7 @@ Informatized/SL 1
 구석/NNG 71
 四端/SH 1
 排他的/SH 1
-식도염/NNG 1
+VV/NR 2
 샤쓰/NNG 3
 야욕/NNG 2
 심폐/NNG 3
@@ -50982,6 +51519,7 @@ Ph/SL 2
 여종/NNG 1
 동아수출공사/NNP 5
 정점/NNG 25
+1511/SN 1
 눈사태/NNG 1
 만사형통/NNG 1
 집결소/NNG 2
@@ -51053,6 +51591,7 @@ Threshold/SL 1
 갈기/VV 12
 시사회/NNG 2
 시장/NNG 1251
+성기현/NNP 1
 5200/SN 1
 조모/NNG 7
 일월/NNG 3
@@ -51157,7 +51696,6 @@ EU/SL 57
 於閒靜處/SH 1
 너구리/NNG 3
 舅/SH 1
-드르륵/MAG 1
 用役輸入/SH 2
 士氣/SH 3
 茅沙/SH 6
@@ -51167,7 +51705,7 @@ EU/SL 57
 그맘때/NNG 2
 경영대/NNG 1
 마중/NNG 25
-청운/NNG 2
+若賓不拜靈座前/SH 1
 치자나무/NNG 1
 李鴻永/SH 1
 춘련/NNG 1
@@ -51216,6 +51754,7 @@ social/SL 1
 석상동/NNG 1
 테레사/NNP 1
 Approach/SL 3
+경조비/NNG 3
 사인펜/NNG 1
 합판/NNG 2
 해방감/NNG 3
@@ -51292,7 +51831,7 @@ Streamworks/SL 1
 급냉/NNG 1
 民俗/SH 1
 황보/NNP 1
-석/MM 39
+절대율/NNG 1
 다르디/NNP 1
 오템버거/NNP 1
 수의사/NNG 1
@@ -51349,6 +51888,7 @@ trivium/SL 1
 現實狀況/SH 2
 同伴者/SH 6
 오락물/NNG 3
+대출원/NNG 1
 生苦/SH 1
 주색/NNG 2
 原材料/SH 3
@@ -51380,7 +51920,7 @@ CPI/SL 2
 난숙/NNG 3
 천/NR 1090
 분기초망/NNG 2
-함성호/NNP 5
+쥐/VV 153
 구상업/NNG 1
 평민당/NNP 15
 誤濫用/SH 1
@@ -51554,7 +52094,7 @@ IDE/SL 1
 윤손하/NNP 1
 David/SL 1
 주행/NNG 6
-톱/NNG 9
+사탑/NNG 1
 임관식/NNG 1
 추분/NNG 5
 규제/NNG 328
@@ -51577,7 +52117,7 @@ David/SL 1
 有服者/SH 1
 사령탑/NNG 12
 윗줄/NNG 1
-무적함대/NNG 1
+止揚的/SH 1
 낙후/NNG 38
 其末純紅而下垂/SH 1
 기관원/NNG 3
@@ -51589,6 +52129,7 @@ David/SL 1
 유끼오/NNP 1
 뒤돌/VV 1
 모신/NNG 2
+六朝/SH 1
 IQ/SL 9
 Brehm/SL 2
 분명이/MAG 2
@@ -51655,6 +52196,7 @@ Apathy/SL 1
 부국강병/NNG 2
 인천구장/NNP 26
 Universals/SL 1
+바라바/NNP 1
 고금도/NNP 1
 회고담/NNG 2
 外換/SH 4
@@ -51662,6 +52204,7 @@ Universals/SL 1
 영동본당/NNP 1
 Love/SL 2
 급감/NNG 8
+JKS/SN 37
 약초/NNG 6
 헐수할수없/VA 1
 공/NP 1
@@ -51736,7 +52279,7 @@ any/SL 1
 梨/SH 1
 賻儀錄/SH 1
 임종구/NNP 4
-적적/XR 1
+소아시아/NNP 1
 政/SH 6
 戰功/SH 1
 金尙賓/SH 1
@@ -51923,7 +52466,7 @@ Coulomb/SL 1
 미적분법/NNG 1
 밝/VA 173
 장비/NNG 149
-정수리/NNG 4
+에우로파/NNP 1
 소유주/NNG 1
 동서쪽/NNG 1
 下至士庶/SH 1
@@ -51931,6 +52474,7 @@ Coulomb/SL 1
 오기형/NNP 1
 당하/VV 358
 해득/NNG 3
+유볼트/NNP 1
 진남문화제/NNP 1
 자네티/NNP 1
 다기/NNG 4
@@ -51969,6 +52513,7 @@ Credit/SL 14
 징/NNG 11
 君長/SH 2
 풀밭/NNG 17
+NNG/JX 10
 정재철/NNP 2
 포/NNG 45
 外貨流出/SH 1
@@ -51986,7 +52531,7 @@ dad/SL 1
 삽도/NNG 1
 전국점/NNG 1
 공복/NNG 19
-포/NNP 1
+군부/NNG 86
 야마다/NNP 1
 로뎅/NNP 1
 倍率/SH 2
@@ -51997,7 +52542,7 @@ dad/SL 1
 흔연/NNG 1
 支配集團/SH 1
 viva/SL 2
-共同運命體/SH 1
+민주조선/NNP 1
 산골/NNG 47
 자단향/NNG 1
 680/SN 2
@@ -52034,6 +52579,7 @@ viva/SL 2
 이름값/NNG 2
 印歐語族/SH 1
 221/SN 1
+VA/XPN 1
 리버럴/NNG 4
 포리스트/NNG 1
 메카닉/NNG 1
@@ -52075,6 +52621,7 @@ bk/SL 8
 강첨/NNG 3
 원성군/NNP 1
 武裝動員/SH 1
+기오스크/NNG 1
 守令/SH 1
 준하/VV 14
 李揆姬/SH 1
@@ -52134,15 +52681,18 @@ DAC/SL 2
 삼육대/NNP 1
 Hooykaas/SL 3
 강력/XR 208
+ETM/SF 1
 빈치/NNP 1
 高危險資産/SH 1
 저저/XR 1
 성호/NNP 7
 비만/NNG 49
+ETM/SP 1
 폄시/NNG 1
+ETM/SS 437
 빨가벗/VV 1
 제공일/NNG 2
-聖域化/SH 1
+SP/MAG 519
 Salt/SL 3
 재색/NNG 2
 조밭/NNG 1
@@ -52170,9 +52720,11 @@ equant/SL 2
 투어/NNG 5
 전경대/NNG 4
 애캐호모교회/NNP 1
+NNG 881559
 주상트/NNG 1
 회향식/NNG 1
 조세형/NNP 2
+NNB 125326
 로드/NNP 3
 ㄹ래유/EF 1
 호황/NNG 22
@@ -52183,6 +52735,7 @@ equant/SL 2
 個年計劃/SH 1
 정재균/NNP 1
 신문사/NNG 45
+NNP 78837
 繡以藻/SH 1
 창립/NNG 64
 잔상/NNG 2
@@ -52239,6 +52792,7 @@ II/SL 8
 자료전/NNG 1
 솟구치/VV 21
 세련/XR 47
+SF/$ 168
 Kantonal/SL 1
 남평우/NNP 1
 물류비용/NNG 7
@@ -52331,7 +52885,7 @@ philosophy/SL 8
 나날/NNG 26
 싸이클/NNG 2
 아하스/NNP 250
-어이없/VA 27
+털어놓/VV 45
 중의사/NNG 2
 강화읍/NNP 1
 coach/SL 1
@@ -52402,7 +52956,7 @@ effectiveness/SL 1
 아제르바이잔/NNP 2
 붙어살/VV 2
 쟁그럽/VA 1
-방바닥/NNG 28
+플레이오프/NNG 61
 관곽/NNG 12
 八百板正/SH 2
 산골짜기/NNG 8
@@ -52551,9 +53105,10 @@ grunt/SL 1
 리니지/NNG 1
 관구실/NNG 1
 어획량/NNG 11
-구각/NNG 2
+VCP/NNP 703
 방상/NNG 2
 서/JKB 1416
+율/XSN 450
 영은사/NNP 1
 벌렁/MAG 6
 브리/NNG 1
@@ -52564,11 +53119,11 @@ grunt/SL 1
 냐는/ETM 79
 내달리/VV 3
 서/JKS 63
-감영/NNG 5
+VCP/NNB 18921
 行亞獻禮/SH 1
 고작/NNG 1
-갹출/NNG 3
-日本哲學思想史/SH 2
+VCP/NNG 30135
+암사슴/NNG 1
 상업은행/NNP 17
 지악/NNG 1
 탈옥수/NNG 1
@@ -52662,6 +53217,7 @@ informat/SL 1
 우리들이레/NA 1
 탈상/NNG 3
 투하/NNG 6
+으라네/EF 1
 이동희/NNP 3
 수준면/NNG 1
 서장/NNG 11
@@ -52684,6 +53240,7 @@ protestantische/SL 1
 위선자/NNG 1
 대웅전/NNG 6
 近代産業社會/SH 1
+安定對策/SH 1
 進炙/SH 1
 XXX/SL 1
 삼보컴퓨터/NNP 8
@@ -52744,6 +53301,7 @@ demand/SL 1
 鄕黨/SH 1
 질감/NNG 9
 기거/NNG 16
+Casting/SL 1
 고슴도치/NNG 1
 으련만/EC 8
 장려책/NNG 1
@@ -52774,6 +53332,7 @@ demand/SL 1
 초밥/NNG 2
 Ideology/SL 1
 해고/NNG 24
+키프로스/NNG 1
 972/SN 2
 정읍/NNP 6
 자욱/XR 9
@@ -52821,6 +53380,7 @@ UWCJK/SL 1
 출정식/NNG 1
 딴딴/XR 1
 시미기/NNG 1
+海外論調/SH 1
 수로/NNP 4
 숙직/NNG 4
 은허/NNP 1
@@ -52933,7 +53493,7 @@ multiverse/SL 1
 덕육/NNG 2
 총궐기/NNG 1
 기타/NNG 169
-影響/SH 2
+마이크로컴퓨터/NNG 1
 人當所得/SH 1
 사/NR 35
 民族/SH 6
@@ -53000,6 +53560,7 @@ but/SL 6
 政治道義/SH 1
 저력/NNG 14
 연수/NNG 85
+房/SH 1
 미테랑/NNP 12
 첨작/NNG 34
 답변/NNG 87
@@ -53080,7 +53641,7 @@ Schooling/SL 1
 李英作/SH 1
 선우은숙/NNP 1
 망일/NNG 3
-범청학련/NNP 2
+하나/NNG 21
 검지/NNG 4
 감람산/NNP 1
 교부금/NNG 1
@@ -53208,7 +53769,7 @@ videos/SL 1
 허허/XR 1
 謂及第生進入格及新筮仕及階堂上以上階資及冠子之類/SH 1
 헤일/NNG 2
-副省長/SH 2
+구미선망/NNG 1
 신농씨/NNP 2
 휠/NNG 2
 市民運動/SH 1
@@ -53231,6 +53792,7 @@ videos/SL 1
 브래지어/NNG 4
 朝上食/SH 2
 단위/NNG 229
+龍頭會/SH 1
 황대신궁/NNG 2
 던지요/EF 1
 구전/NNG 11
@@ -53285,7 +53847,7 @@ PSI/SL 2
 뽑/VV 215
 재난/NNG 22
 먼저번/NNG 2
-에우로파/NNP 1
+지어내/VV 22
 미시칼로프/NNP 1
 허정/NNP 3
 되찾/VV 83
@@ -53367,6 +53929,7 @@ is/SL 14
 한국통신기술연구소/NNP 1
 매초/MAG 1
 벨사살/NNP 1
+VV/MAG 858
 수상기/NNG 2
 미용법/NNG 4
 行衣/SH 1
@@ -53488,7 +54051,7 @@ Creation/SL 1
 외종질/NNG 1
 中央黨/SH 2
 出奴及牛耕耘/SH 1
-정신문명/NNG 3
+SW/XPN 6
 궂/VA 14
 배추김치/NNG 2
 神律/SH 1
@@ -53563,8 +54126,10 @@ this/SL 1
 방관자/NNG 5
 사기/NNG 128
 山口/SH 1
+MAJ/SW 7
+MAJ/SP 1
 종시숙/NNP 1
-일흔/NR 10
+MAJ/SS 415
 톰손스카자르/NNG 1
 위위윙/MAG 1
 앵앵/MAG 1
@@ -53572,21 +54137,22 @@ this/SL 1
 呱呱/SH 1
 1923/SN 7
 日帝/SH 7
-볏가리/NNG 2
+MAJ/SE 15
 일동장유가/NNP 1
 三日對飯/SH 1
 귀교/NNG 1
 벌주/NNG 1
 스카레트/NNP 1
 사기/NNP 5
-정회의/NNG 1
+MAJ/SL 2
 테이프/NNG 50
 망원경/NNG 26
 푸근/XR 7
+MAJ/SH 4
 간암/NNG 9
 복사지/NNG 1
 강궁/NNG 1
-立於卓東西向/SH 1
+우필흥/NNP 1
 社會間接資本施設/SH 3
 교대역/NNP 1
 077/SN 1
@@ -53641,7 +54207,7 @@ Schelskey/SL 1
 유월동/NNP 1
 李景勳/SH 1
 칭찬/NNG 73
-광한루/NNP 2
+運用/SH 7
 우시오머린/NNP 1
 강스/NNP 1
 元妃/SH 1
@@ -53746,7 +54312,7 @@ lingua/SL 1
 榮辱/SH 1
 창립자/NNG 2
 흘기/VV 5
-簡易/SH 1
+Atkinson/SL 1
 어느새/MAG 44
 김구/NNP 3
 양조장/NNG 3
@@ -53782,6 +54348,7 @@ inner/SL 1
 관시/NNG 1
 양변기/NNG 2
 茶/SH 1
+世界市民/SH 1
 신동파/NNP 1
 悲感/SH 1
 4323/SN 2
@@ -53792,7 +54359,7 @@ Jasper/SL 1
 구원자/NNG 5
 땜질/NNG 3
 품/NNB 27
-原油價/SH 4
+무지/NNG 29
 풍물굿/NNG 4
 답사기/NNG 1
 爭點/SH 1
@@ -53817,12 +54384,14 @@ Bolingbroke/SL 1
 記錄者/SH 1
 지식인/NNG 120
 코르셋/NNP 1
+JKB/XR 8
 혁래/NNP 3
 그린/NNG 46
 부도/NNG 184
 뛰어넘/VV 58
 나환우/NNG 2
 반복/NNG 116
+군자연/NNG 1
 문애령/NNP 1
 Microsystems/SL 1
 상소고/NNG 2
@@ -53899,7 +54468,7 @@ Naptalicus/SL 1
 백스윙/NNG 1
 무단히/MAG 1
 공병호/NNP 2
-우러나오/VV 14
+피자/NNG 7
 나물/NNG 21
 팔가/NNG 1
 靑綺殺/SH 2
@@ -53991,7 +54560,7 @@ College/SL 3
 응담동/NNP 1
 야속/NNG 5
 소비조합/NNG 1
-우/EC 5
+의인/NNG 7
 어촌계/NNG 1
 도니소나물/NNG 1
 最長房/SH 1
@@ -54057,7 +54626,6 @@ College/SL 3
 고려서적/NNP 1
 행사일/NNG 1
 內閣/SH 2
-절대율/NNG 1
 國際/SH 3
 제누리/NNG 2
 윤다이/NNP 1
@@ -54106,7 +54674,7 @@ Price/SL 1
 이강두/NNP 2
 한국기독교박물관/NNG 1
 수지/NNG 191
-흥망사/NNG 1
+NNG/$ 748550
 꾸부정/XR 3
 available/SL 3
 참변/NNG 5
@@ -54122,6 +54690,7 @@ Cincinnatus/SL 1
 재무제표/NNG 6
 수지/NNP 7
 도양읍/NNP 1
+갹출/NNG 3
 전국환경관리인연합회/NNP 1
 저액/NNG 1
 애절양/NNP 2
@@ -54179,7 +54748,7 @@ symbiotic/SL 1
 세련이/NNP 1
 싱할리족/NNP 2
 샤마니즘/NNG 1
-대원군/NNP 10
+김용희/NNP 5
 개발단/NNG 1
 가칭/NNG 11
 복위/NNG 5
@@ -54223,6 +54792,7 @@ conferencing/SL 1
 도학/NNG 3
 rodstvennyx/SL 1
 禮數/SH 1
+不恤餘事/SH 1
 目標/SH 9
 병우/NNP 1
 추격기/NNG 1
@@ -54315,18 +54885,21 @@ Cambridge/SL 1
 equivalent/SL 1
 기어가/VV 10
 고정관념/NNG 15
+JKV 401
 깜빡/MAG 6
-장법/NNG 7
+JKQ 1810
+JKS 91279
 신년사/NNG 28
-지법/NNG 2
+JKO 132557
+SO/MAG 1
 HW/SL 2
 써비스업/NNG 1
 부과일/NNG 1
-世界市民/SH 1
+JKG 88967
 이/NR 63
 꿈속/NNG 20
-이/NP 5677
-分類方法/SH 1
+JKB 162292
+JKC 8456
 입주일/NNG 1
 톰슨그룹/NNP 1
 朴鍾會/SH 1
@@ -54372,7 +54945,7 @@ Re/SL 1
 거렁뱅이/NNG 1
 多産性/SH 1
 씀/NNG 11
-經濟部門/SH 4
+JKG/NNP 8186
 메커니즘/NNG 11
 準頂上/SH 1
 백제인/NNG 1
@@ -54381,10 +54954,10 @@ GSR/SL 1
 기부/NNG 10
 찌그러지/VV 9
 강호자연가/NNG 1
-강연회/NNG 15
+JKG/NNB 5344
 Nickerson/SL 1
 仁慈/SH 1
-禮先聖先師畢/SH 1
+JKG/NNG 55331
 별안간/NNG 9
 빛무리/NNG 1
 基準/SH 8
@@ -54392,7 +54965,7 @@ Nickerson/SL 1
 집단생활/NNG 4
 한국정신대문제대책위원회/NNP 1
 무산/NNG 25
-등산복/NNG 2
+VCN/JX 1
 맞은편/NNG 19
 월매/NNP 9
 監督機能/SH 2
@@ -54450,6 +55023,7 @@ adoration/SL 1
 미태/NNG 2
 흥청거리/VV 3
 獻身/SH 1
+SO/IC 10
 성공작/NNG 5
 타액/NNG 3
 一神敎/SH 1
@@ -54574,6 +55148,7 @@ Garcia/SL 5
 일남이/NNP 1
 외손녀/NNG 10
 단연코/MAG 5
+NP/IC 4
 살해자/NNG 1
 村契/SH 4
 블랙앤화이트/NNG 1
@@ -54605,7 +55180,7 @@ Physica/SL 2
 만성/NNG 34
 충실/NNG 106
 골똘/XR 2
-수녀원/NNG 5
+출퇴근/NNG 17
 外貨受取/SH 1
 方針/SH 1
 아산/NNP 5
@@ -54668,6 +55243,7 @@ Needs/SL 2
 무변/NNG 1
 두산전자/NNP 1
 빈대/NNG 2
+볏가리/NNG 2
 헷갈리/VV 11
 Flashware/SL 1
 이시하라/NNP 1
@@ -54679,12 +55255,12 @@ Flashware/SL 1
 先物換市場/SH 1
 최재석/NNP 7
 못마땅히/MAG 4
-화젯거리/NNG 1
+삼가/MAG 10
 high/SL 2
 응모권/NNG 1
 유약/XR 2
-디오클레티아누스/NNP 1
-소안도/NNP 4
+EP/SS 3
+지루/NNG 3
 以禮之大小定幣之多少/SH 1
 장영철/NNP 2
 適用金利/SH 3
@@ -54734,6 +55310,7 @@ Salamander/SL 1
 violent/SL 3
 Atlantis/SL 2
 도구/NNG 143
+회오리치/VV 1
 요코하마/NNP 3
 허영환/NNP 2
 에드/NNG 1
@@ -54834,7 +55411,7 @@ Izevbaye/SL 1
 아크리스백화점/NNP 1
 統一戰線工作/SH 1
 취장/NNG 2
-후각/NNG 1
+JKQ/VCP 2
 카투사/NNG 2
 朝奠/SH 1
 內鮮一體/SH 1
@@ -54885,11 +55462,12 @@ Izevbaye/SL 1
 소설백/NNG 1
 보존/NNG 76
 승주인터체인지/NNP 1
-반복법/NNG 1
+JKG/SE 1
 움라우트/NNG 1
 盧泰愚/SH 13
 마룻바닥/NNG 4
 외치/VV 164
+JKG/SF 1
 하루살이/NNG 10
 五服/SH 3
 高祖考驢/SH 2
@@ -54915,7 +55493,7 @@ Izevbaye/SL 1
 가다학고/NNG 2
 남향/NNG 4
 접시/NNG 38
-휴렛패커드/NNP 1
+政府側/SH 2
 下邊/SH 1
 동침/NNG 4
 납품/NNG 15
@@ -54926,9 +55504,10 @@ consistent/SL 1
 노심자/NNG 1
 牧丹葉/SH 1
 한전/NNG 1
+JKG/SO 1
 측은지심/NNG 9
 김장우/NNP 1
-앨라니스/NNP 1
+축축이/MAG 2
 독설가/NNG 1
 수세식/NNG 4
 例示/SH 2
@@ -54986,12 +55565,13 @@ glue/SL 1
 現實的/SH 2
 서울국악예고/NNP 1
 經濟環/SH 1
+國家保衛委員會/SH 1
 나르/VV 48
 돌아가/VV 493
 방긋/MAG 2
 서울시정개발연구원/NNP 1
 평생/NNG 112
-회오리치/VV 1
+NR/NNP 1
 관보/NNG 4
 용장/NNG 1
 중죄인/NNG 1
@@ -55003,7 +55583,7 @@ glue/SL 1
 三從妹/SH 1
 성립/NNG 112
 박형규/NNP 1
-최질/NNG 1
+NR/NNG 10
 대통령기/NNG 2
 익선관/NNG 1
 작시법입문/NNP 2
@@ -55021,7 +55601,6 @@ Sprachwissenschaft/SL 1
 최양업/NNP 5
 태생/NNG 9
 賓答拜/SH 1
-상당/NNG 304
 從叔/SH 1
 하무라비법전/NNP 1
 태열/NNG 1
@@ -55087,7 +55666,7 @@ Toffler/SL 1
 비로소/MAG 188
 라는데/EF 2
 오르마즈드/NNP 8
-家計信用/SH 9
+SP/IC 986
 은인자중/NNG 1
 夾大衫/SH 1
 妻鄕/SH 1
@@ -55112,14 +55691,18 @@ Toffler/SL 1
 라는데/EC 28
 예비역/NNG 5
 상무/NNP 4
-내보내/VV 69
+SE/SF 27
+SE/SE 65
 1986/SN 12
 강의실/NNG 16
+SE/SH 1
 제각기/NNG 2
 기왓장/NNG 7
-SE/SL 1
-페소화/NNG 1
+SE/SL 7
+SE/SS 340
 대국/NNG 33
+SE/SP 3
+SE/SW 16
 마주치/VV 30
 고승덕/NNP 5
 공로상/NNG 2
@@ -55135,15 +55718,16 @@ SE/SL 1
 개설식/NNG 1
 서기장/NNG 20
 종발이/NNG 2
-크리스맨/NNP 1
+SE/NNP 48
 문학산/NNP 1
 구비구비/MAG 1
 안의현감/NNG 1
 만/NNG 10
 장경각/NNP 1
+SE/NNG 355
 敎育投資率/SH 1
 黑笠水精頂子/SH 1
-리치오네/NNP 1
+SE/NNB 60
 호해/NNP 1
 부둥키/VV 3
 취재/NNG 60
@@ -55172,6 +55756,7 @@ SE/SL 1
 뿜어내/VV 13
 똥거름/NNG 2
 담비/NNG 1
+전동성당/NNP 4
 軍産/SH 1
 현수/NNP 67
 水路/SH 1
@@ -55181,14 +55766,16 @@ SE/SL 1
 철교/NNG 2
 야자과/NNG 1
 子孫婦/SH 1
+SW/NNB 13
 종묘/NNP 1
+SW/NNG 144
 목적세/NNG 10
 호포주초매/NNG 1
 심포지엄/NNG 10
 Helmut/SL 1
 깍듯/XR 1
-뻑/MAG 2
-신참/NNG 8
+SE/XSN 33
+SW/NNP 63
 Business/SL 2
 가슴팍/NNG 5
 굴레/NNG 22
@@ -55232,7 +55819,7 @@ Business/SL 2
 再從弟嫂/SH 1
 도서전/NNG 1
 내독/NNP 1
-老後/SH 1
+피마주/NNG 3
 증손서/NNG 2
 일갈/NNG 2
 소비지/NNG 13
@@ -55250,7 +55837,7 @@ House/SL 2
 누에고치/NNG 3
 眞勇/SH 1
 전북대/NNP 7
-하나/NNG 21
+이미정/NNP 1
 아양/NNG 3
 고성현/NNP 1
 한목소리/NNG 1
@@ -55318,7 +55905,7 @@ Lower/SL 1
 춘추전국시대/NNP 1
 金惠淑/SH 1
 김수근문화재단/NNP 2
-순백/NNG 1
+타락상/NNG 3
 어른순/NNG 1
 이사장/NNG 42
 구석구석/NNG 29
@@ -55449,6 +56036,7 @@ wondering/SL 1
 진시황/NNP 4
 응수/NNG 9
 흙탕물/NNG 5
+이재식/NNP 1
 송충이/NNG 5
 협잡/NNG 3
 등산가/NNG 4
@@ -55526,7 +56114,7 @@ Yale/SL 1
 송곳니/NNG 7
 요한/NNP 39
 나토군/NNG 2
-企業倒産/SH 1
+JKG/JKB 2449
 지/NNG 158
 0391/SN 1
 지/NNB 309
@@ -55563,6 +56151,7 @@ franc/SL 1
 공해병/NNG 2
 되살/VV 2
 오용호/NNP 1
+견학/NNG 13
 船價/SH 1
 과학사가/NNG 2
 티/NNG 30
@@ -55575,6 +56164,7 @@ franc/SL 1
 장내/NNG 15
 NTU/SL 1
 손복순/NNP 1
+일백만/NR 1
 忠義禮讚/SH 1
 黑/SH 8
 짜악/MAG 1
@@ -55670,7 +56260,7 @@ OUN/SL 1
 者會談/SH 1
 農耕/SH 1
 Thorndike/SL 1
-개명/NNG 7
+앙부일귀/NNG 2
 마릴린/NNP 2
 시체/NNG 66
 도덕규범/NNG 1
@@ -55707,6 +56297,7 @@ Thorndike/SL 1
 맛없/VA 2
 그딴/MM 1
 送服/SH 1
+趨勢成長率/SH 1
 동중입의/NNG 2
 교보문고/NNP 3
 公訴維持/SH 1
@@ -55720,7 +56311,7 @@ Thorndike/SL 1
 찬반/NNG 8
 첫아기/NNG 1
 강계/NNP 2
-수색/NNG 23
+VCN/ETN 17
 한영애/NNP 1
 장표/NNG 9
 제기차기/NNG 2
@@ -55870,7 +56461,7 @@ TMA/SL 1
 쿠마리/NNP 3
 美大統領/SH 1
 울/VV 326
-地金/SH 1
+제향/NNG 5
 消費需要/SH 1
 숨기/VV 102
 시해/NNG 5
@@ -55901,7 +56492,7 @@ phenomenon/SL 1
 빚지/VV 2
 ㎦/SW 1
 투닥투닥/MAG 1
-李滉/SH 1
+姜醫術/SH 1
 천판/NNG 2
 수수/XR 7
 사북/NNG 1
@@ -55981,6 +56572,7 @@ PR/SL 2
 細部實踐計劃/SH 1
 생명수/NNG 3
 소흑산도/NNP 2
+經濟部門/SH 4
 사절단/NNG 2
 죽비/NNG 1
 우짖/VV 2
@@ -56012,13 +56604,14 @@ Carmille/SL 1
 체하/VV 1
 엣센스/NNG 1
 천만/NR 323
-極少量/SH 1
+따라/JX 15
 정진우/NNP 1
 반핵국/NNG 1
 에파미논다스/NNP 1
 UWK/SL 1
 확전/NNG 2
 수방/NNG 5
+飼育頭數/SH 1
 숙마/NNG 1
 工/SH 1
 가시덤불/NNG 5
@@ -56046,7 +56639,7 @@ CFC/SL 1
 俯伏哭盡哀/SH 1
 석탄공사/NNP 1
 부닥치/VV 16
-걸프전쟁/NNP 1
+NNG/XPN 5308
 事象/SH 2
 寒村/SH 1
 원우현/NNP 2
@@ -56061,6 +56654,7 @@ Pardon/SL 1
 3111/SN 1
 限/SH 2
 保守的/SH 1
+MM/JC 1
 흘끔거리/VV 2
 조배회/NNG 8
 與黨要職/SH 1
@@ -56074,7 +56668,7 @@ Pardon/SL 1
 접촉점/NNG 1
 추기경/NNG 32
 사회단체/NNG 24
-幼順/SH 1
+유채/NNG 6
 以奇而勝/SH 1
 법계도/NNP 11
 낙/NNG 6
@@ -56149,7 +56743,7 @@ banking/SL 2
 만복사저포기/NNP 3
 흰/NNG 2
 명세/NNG 3
-二元引上/SH 1
+JKO/NR 180
 열린책들/NNP 2
 살지/VA 1
 참가자/NNG 26
@@ -56159,7 +56753,7 @@ banking/SL 2
 조영신/NNP 1
 從媤叔/SH 1
 화촉/NNG 4
-녹취/NNG 1
+JKO/NA 1
 고목나무/NNG 1
 불교대학/NNP 1
 위작/NNG 1
@@ -56168,7 +56762,7 @@ banking/SL 2
 방망이/NNG 19
 교육서/NNG 1
 전문업/NNG 4
-재산설/NNG 1
+분주소/NNG 2
 미셜/NNP 1
 말싸움/NNG 2
 알/VV 2838
@@ -56186,6 +56780,7 @@ MDL/SL 1
 운운/NNG 43
 꽃향기/NNG 1
 兩司/SH 1
+암기/NNG 15
 바짝/MAG 23
 洞祭/SH 2
 롯데월드/NNP 3
@@ -56312,6 +56907,7 @@ n/SL 4
 여객선/NNG 2
 작열/NNG 2
 汎國民的/SH 3
+JX/XSN 6968
 히로부미/NNP 1
 달라붙/VV 19
 不正蓄財處理法/SH 3
@@ -56414,7 +57010,6 @@ Ponzo/SL 2
 귀절/NNG 8
 해탈/NNG 7
 두레/NNG 333
-이직/NNG 1
 도화지/NNG 3
 격분/NNG 4
 답디까/EF 1
@@ -56460,7 +57055,7 @@ Investment/SL 1
 帶用玉/SH 2
 뒷문/NNG 4
 생육신/NNG 1
-1209/SN 1
+감영/NNG 5
 박제가/NNP 1
 7960/SN 1
 밟히/VV 10
@@ -56511,7 +57106,9 @@ AA/SL 1
 論據/SH 1
 지심도/NNP 1
 스태미너/NNG 1
+JKC/NNG 6116
 천도교/NNG 5
+JKC/NNB 1382
 구성지/VA 3
 앙트레/NNG 6
 成年式/SH 1
@@ -56646,17 +57243,24 @@ ESPN/SL 2
 바우덕이/NNP 1
 빈민촌/NNG 1
 1935/SN 4
-아끼다/NNP 2
+NNP/SE 24
+NNP/SF 87
 고아시아족/NNP 1
-개재/NNG 5
+NNP/SH 50
 situation/SL 1
 天災地變/SH 1
+NNP/SL 9
 요일/NNG 4
+NNP/SN 83
+NNP/SO 53
+NNP/SP 1242
 미음/NNG 3
 아끼다/NNG 1
+NNP/SS 7023
 眞文章/SH 1
 單價/SH 1
 지레/MAG 11
+NNP/SW 274
 총액/NNG 34
 육부/NNG 3
 豪民論/SH 1
@@ -56752,6 +57356,7 @@ ufl/SL 1
 불가측/NNG 1
 좋아/IC 9
 수양/NNG 10
+편폭/NNG 1
 성령/NNG 24
 입산자/NNG 2
 醫山問答/SH 2
@@ -56781,7 +57386,7 @@ Hiper/SL 1
 수원짐/NNG 1
 식모살이/NNG 1
 바슴/NNG 1
-신상품/NNG 2
+門神/SH 1
 立後/SH 2
 건더기/NNG 1
 맹호장/NNP 1
@@ -56789,20 +57394,23 @@ Hiper/SL 1
 상추쌈/NNG 1
 진관사/NNG 1
 광덕재/NNP 1
-不恤餘事/SH 1
+IC/SS 1102
 政治資金化/SH 1
+IC/SP 10
 쿠아란타리아/NNP 3
-이영노/NNP 1
+MIG/SL 1
 멜로/NNP 1
 중앙아메리카/NNP 1
 각반/NNG 3
 단임/NNG 3
 삼년상/NNG 17
+IC/SE 18
 밀수품/NNG 5
 되튀어나오/VV 1
 코울릿지/NNP 1
-IC/SL 12
+IC/SL 13
 Called/SL 1
+IC/SH 3
 무불/NNG 3
 사찰/NNG 78
 인천전문대/NNP 1
@@ -56816,6 +57424,7 @@ Called/SL 1
 앵커리지/NNP 1
 의료/NNG 132
 정착촌/NNG 7
+노털/NNG 2
 플라밍고/NNG 1
 以崇信異端論一/SH 1
 육경/NNG 2
@@ -57103,7 +57712,7 @@ Introduction/SL 1
 변용/NNG 8
 탈락자/NNG 4
 萬人/SH 2
-電視/SH 1
+등기소/NNG 3
 遂拜/SH 1
 盡己而已/SH 1
 브란스타드/NNP 2
@@ -57129,7 +57738,7 @@ Introduction/SL 1
 천상/MAG 3
 718/SN 1
 사마주/NNG 1
-호호/IC 3
+NNB/SN 23556
 장명/NNG 1
 Singer/SL 2
 운전기사/NNG 15
@@ -57137,7 +57746,7 @@ Singer/SL 2
 組減法/SH 1
 雙女墳/SH 1
 문학진/NNP 2
-피스/NNP 1
+숙이/VV 54
 최고참/NNG 1
 출범식/NNG 1
 가부/NNG 1
@@ -57163,6 +57772,7 @@ Singer/SL 2
 Co/SL 1
 초생달/NNG 2
 길들이/VV 34
+月印千江之曲/SH 1
 內從兄/SH 1
 중앙당/NNG 56
 멈칫/MAG 1
@@ -57270,7 +57880,7 @@ Channel/SL 1
 시달/NNG 5
 모도/NNP 1
 중늙은이/NNG 2
-트리시스/NNG 1
+이정혜/NNP 1
 도표/NNG 7
 적임자/NNG 4
 공살이/NNP 1
@@ -57287,7 +57897,7 @@ Channel/SL 1
 양복바지/NNG 1
 官治金融/SH 2
 상담원/NNG 7
-Atkinson/SL 1
+XSN/XSV 3
 헝가리/NNP 35
 연모/NNG 2
 1869/SN 1
@@ -57345,7 +57955,7 @@ Juliet/SL 1
 필두/NNG 7
 판/NNP 3
 高敎敎育/SH 1
-極殖生布/SH 1
+SOG/SL 1
 47/SN 85
 Tiffin/SL 1
 방현석/NNP 1
@@ -57485,6 +58095,7 @@ exactly/SL 2
 Ellison/SL 1
 윤태용/NNP 1
 職場人/SH 1
+JKB/MAG 76
 難問/SH 1
 바이/NNG 2
 행수/NNG 2
@@ -57590,11 +58201,11 @@ Cabral/SL 1
 청구야담/NNG 4
 시오드마크/NNP 1
 경성/NNP 4
-끄레띠양/NNP 1
+마스터플랜/NNG 1
 湖南/SH 4
 부름/NNG 6
 치악산/NNP 1
-풍농/NNG 1
+Intimacy/SL 1
 來歷/SH 2
 鈒花金墜頭/SH 1
 傍系家族/SH 2
@@ -57612,7 +58223,7 @@ DJT/SL 1
 極左的/SH 1
 중랑천/NNP 3
 少陵長賤陵貴/SH 1
-삼녀/NNG 1
+고전학/NNG 2
 훈구/NNG 3
 老貪/SH 1
 병명/NNG 3
@@ -57655,6 +58266,7 @@ Standards/SL 1
 어거스틴/NNP 1
 분실/NNG 16
 金融面/SH 1
+걸프전쟁/NNP 1
 젓/VV 36
 논농사/NNG 12
 인드라/NNP 3
@@ -57665,7 +58277,7 @@ yes/SL 3
 同期/SH 2
 여사장/NNG 1
 밥그릇/NNG 21
-족쇄/NNG 10
+長尺二寸/SH 1
 인도유럽어족/NNP 1
 무용단/NNG 4
 단순/XR 258
@@ -57834,7 +58446,7 @@ VDO/SL 5
 성취/NNG 94
 335/SN 1
 안치/NNG 18
-가입/NNG 212
+드르륵/MAG 1
 체벌/NNG 20
 지급금/NNG 3
 이현재/NNP 1
@@ -57932,7 +58544,7 @@ Lucretius/SL 1
 死靈祭/SH 1
 타락/NNG 67
 역사가/NNG 1
-161/SN 3
+address/SL 4
 수레바퀴/NNG 7
 팡탈롱/NNG 5
 인어/NNG 6
@@ -57940,6 +58552,7 @@ Lucretius/SL 1
 잠들/VV 41
 모복/NNG 1
 받이/NNG 1
+서산군/NNP 5
 우글거리/VV 3
 저본/NNG 1
 절량농가/NNG 2
@@ -57996,6 +58609,7 @@ djhwang/SL 2
 배철호/NNP 1
 1759/SN 1
 북아프리카/NNP 1
+東仁/SH 2
 큰기침/NNG 1
 한참/NNG 139
 떨기/NNG 1
@@ -58016,6 +58630,7 @@ djhwang/SL 2
 에펠탑/NNP 2
 稱/SH 1
 빈곤/NNG 58
+하일대주/NNP 1
 生活化/SH 1
 할매/NNG 3
 조련/NNG 3
@@ -58307,7 +58922,7 @@ vigilance/SL 1
 배꼽/NNG 11
 쾌감/NNG 6
 스탈린/NNG 1
-관모/NNG 2
+VCP/$ 92
 아미타불/NNP 3
 탈출기/NNP 1
 변개/NNG 3
@@ -58343,7 +58958,7 @@ vigilance/SL 1
 교민/NNG 49
 무례/NNG 9
 130/SN 17
-차밍/NNG 1
+JKS/JC 1
 8021/SN 1
 948/SN 1
 슈트라우스/NNP 2
@@ -58360,8 +58975,9 @@ vigilance/SL 1
 진종일/NNG 3
 貧守廉介/SH 1
 사당채/NNG 1
+決算/SH 1
 유리관/NNG 1
-욕건/NNG 2
+JKS/JX 439
 2003/SN 2
 기쓰쇼지/NNP 1
 고고학자/NNG 5
@@ -58464,6 +59080,7 @@ ha/SW 4
 파랑새/NNP 1
 정당법/NNG 1
 반드시/MAG 380
+母國語/SH 1
 공수표/NNG 1
 산케이/NNP 2
 베오그라드/NNP 2
@@ -58487,7 +59104,7 @@ The/SL 28
 훼방/NNG 1
 척도/NNG 42
 Mohs/SL 1
-협잡물/NNG 1
+GVU/SL 1
 큰사람/NNG 1
 겐나디/NNP 2
 선교지/NNG 2
@@ -58658,9 +59275,9 @@ bluehouse/SL 1
 천주교회/NNG 3
 가설물/NNG 1
 동선/NNG 1
-물탱크/NNG 4
+게터/NNG 1
 이노끼/NNP 1
-낭패감/NNG 3
+이삿짐/NNG 11
 허풍/NNG 8
 GCSE/SL 1
 환급/NNG 3
@@ -58694,12 +59311,12 @@ NTV/SL 2
 안나/NNP 5
 비스트로/NNG 1
 다듬/VV 49
-爲/SH 1
+NNP/NNG 108
 캐리커쳐/NNG 1
 trie/SL 1
 연필/NNG 29
 메시지/NNG 36
-資金梗塞現象/SH 1
+속바지/NNG 1
 良心/SH 1
 말라붙/VV 4
 트로노플예/NNP 1
@@ -58724,11 +59341,13 @@ trie/SL 1
 서품/NNG 14
 귀띔/NNG 12
 영종도/NNP 4
+SO/$ 91
 日本式/SH 2
-諸正佐郞/SH 1
+SN/EC 6
 선서문/NNG 3
 배/NNG 621
 콩나물/NNG 9
+NA/NNP 2
 정미옥/NNP 1
 조관/NNG 2
 誣說/SH 1
@@ -58739,7 +59358,7 @@ communicating/SL 1
 강아지/NNG 24
 상보/NNP 11
 화민성속/NNG 1
-앵글로/NNP 1
+이직/NNG 1
 열강/NNG 4
 국토개발연/NNP 1
 명절날/NNG 8
@@ -58956,7 +59575,7 @@ freedom/SL 4
 發行募集/SH 1
 擧國/SH 1
 비리/NNG 299
-金融計定/SH 1
+풍양/NNP 1
 高踏的/SH 1
 대용품/NNG 2
 장공/NNG 1
@@ -58978,6 +59597,7 @@ Morgan/SL 3
 거나/XR 2
 戴禮/SH 1
 여산/NNP 2
+닥규빙/NNP 1
 케익/NNG 1
 可畏/SH 1
 성덕왕/NNP 2
@@ -58994,19 +59614,21 @@ Morgan/SL 3
 巨濟郡/SH 1
 亡國/SH 2
 실적주의/NNG 1
+매표/NNG 1
 업히/VV 7
 할머니/NNG 216
 도검/NNG 1
 고는/EC 77
 彭眞/SH 1
 小古衣/SH 1
+서독제/NNG 1
 허어/IC 4
 라틴어/NNP 22
 노동당원/NNG 1
 엄복선/NNP 1
 북돋우/VV 12
 권현망/NNG 1
-배신행위/NNG 1
+例/SH 3
 家風/SH 1
 덜하/VA 7
 신/NNG 534
@@ -59134,7 +59756,7 @@ Acient/SL 1
 一人統治/SH 1
 성월/NNG 2
 lowwage/SL 1
-북곽/NNP 5
+세빌리아/NNP 2
 저항감/NNG 7
 對北韓/SH 1
 재벌/NNG 253
@@ -59150,6 +59772,7 @@ possible/SL 1
 유곡나루/NNP 1
 좌향좌/NNG 1
 逸話/SH 1
+피스/NNP 1
 東西問題/SH 2
 구리야까와/NNP 1
 미즈/NNG 1
@@ -59203,6 +59826,7 @@ actualization/SL 1
 歸責/SH 1
 차마/NNG 1
 반락/NNG 1
+뾰족집/NNG 1
 利害/SH 6
 la/SL 6
 씨름판/NNG 7
@@ -59281,7 +59905,7 @@ mathematically/SL 1
 instrument/SL 1
 全義李氏/SH 1
 規範體系/SH 1
-政治體制/SH 1
+문제/NNG 3425
 산문/NNP 1
 요리/NNG 108
 영어학자/NNG 1
@@ -59289,6 +59913,7 @@ instrument/SL 1
 도독/NNG 1
 상당량/NNG 2
 인도/NNG 132
+餘滴/SH 1
 윤동천/NNP 1
 예상외/NNG 9
 중거리/NNG 6
@@ -59355,10 +59980,10 @@ parasitic/SL 1
 修身/SH 2
 홍경래/NNP 11
 노르끄레/XR 1
-선로/NNG 3
+불러들이/VV 17
 그/NNG 2
 직산리/NNP 1
-省黨/SH 2
+lending/SL 1
 오디/NNG 1
 정택춘/NNP 1
 점찍/VV 3
@@ -59378,7 +60003,7 @@ parasitic/SL 1
 최우수작/NNG 1
 터미널/NNG 10
 선천/NNG 12
-고전학/NNG 2
+支/SH 1
 업신여기/VV 7
 목욕물/NNG 1
 荒廢/SH 1
@@ -59404,13 +60029,14 @@ parasitic/SL 1
 배출구/NNG 5
 팬시/NNG 2
 획정/NNG 15
-民族統合/SH 1
+자명종/NNG 1
 주화/NNG 5
 金通委/SH 4
 事物/SH 3
 목탁/NNG 4
 강폭/NNG 1
 꼬방/NNP 12
+SF/NA 13
 서완수/NNP 2
 송도영/NNP 1
 시미즈/NNG 2
@@ -59419,7 +60045,9 @@ parasitic/SL 1
 d'Alembert/SL 1
 덮/VV 145
 헌신도/NNG 1
+SF/NP 44
 이병/NNG 4
+SF/NR 17
 찬성론자/NNG 1
 병어/NNG 1
 선반공/NNG 1
@@ -59485,19 +60113,21 @@ Y/SL 21
 描金自珩而下繫組五/SH 1
 임광업/NNP 1
 과전법/NNG 1
+MM/SE 24
 주나이지리아/NNG 1
-타워호텔/NNP 1
+MM/SF 2
 兄良弟弟/SH 1
 實測表/SH 1
 犧牲轉嫁/SH 1
 야습전/NNG 1
-코칭스태프/NNG 26
-커머스지/NNP 1
+MM/SN 4
+MM/SH 11
 김예경/NNP 1
 계시/VX 56
-한국전통문화고/NNP 1
+MM/SW 15
 떨기나무/NNG 1
-알피니즘/NNG 1
+MM/SP 17
+MM/SS 850
 이츠하크/NNP 3
 경쟁사/NNG 2
 무심코/MAG 15
@@ -59505,7 +60135,7 @@ Y/SL 21
 술상/NNG 15
 진단/NNG 146
 서유기/NNP 1
-세계연맹/NNP 1
+VCP/XSV 2
 縱酒喧競/SH 1
 啓殯/SH 1
 베네딕도/NNP 4
@@ -59523,7 +60153,7 @@ Y/SL 21
 세목/NNG 3
 멀/VV 11
 꿀리/VV 7
-우울제/NNG 1
+정수리/NNG 4
 생수/NNG 25
 조율고/NNG 1
 113/SN 8
@@ -59663,6 +60293,7 @@ AB/SL 2
 수척/XR 4
 若及第則贈物聃布五疋/SH 1
 백둔리/NNP 1
+염장무/NNG 1
 자멸/NNG 6
 이관/NNG 18
 본사/NNG 47
@@ -59767,7 +60398,7 @@ AP/SL 9
 1544/SN 1
 방위/NNG 72
 몸집/NNG 8
-대출원/NNG 1
+5211/SN 1
 尹有一/SH 1
 則辭謝而還坐/SH 1
 外方別科/SH 2
@@ -59816,7 +60447,7 @@ refer/SL 1
 金萬福/SH 1
 폐열/NNG 1
 貸借對照表構造/SH 1
-순번/NNG 10
+단독/NNG 79
 확보전/NNG 1
 근남면/NNP 1
 후불/NNG 1
@@ -59890,6 +60521,7 @@ CTR/SL 1
 독립국/NNG 3
 바우/NNG 3
 Times/SL 1
+대리석/NNG 8
 후방/NNG 10
 쇠갈고리/NNG 1
 결빙/NNG 4
@@ -59930,12 +60562,12 @@ Times/SL 1
 수확량/NNG 11
 한심/XR 76
 地球/SH 3
-모찌/NNG 2
+양티나무/NNG 1
 설하/VV 3
 조세희/NNP 1
 感知/SH 1
 근덕면/NNP 1
-군부/NNG 86
+포/NNP 1
 병따개/NNG 2
 주간/NNG 44
 사냥개/NNG 6
@@ -60022,7 +60654,7 @@ Schema/SL 1
 확대책/NNG 1
 브랜디/NNG 1
 微細性/SH 1
-내공/NNG 1
+젊음/NNG 23
 비법/NNG 8
 무도/XR 1
 요/NNP 7
@@ -60037,7 +60669,7 @@ Schema/SL 1
 전자오락/NNG 1
 클리포드/NNP 1
 정일순/NNP 2
-正道/SH 6
+XSV/XSN 1636
 임진왜란/NNP 18
 경당/NNG 2
 總勞動人員/SH 1
@@ -60047,6 +60679,7 @@ Schema/SL 1
 제맥전/NNG 1
 副總裁/SH 2
 미곡/NNG 4
+SO/NA 3
 삼순/NNG 1
 녹조/NNG 3
 진회색/NNG 1
@@ -60070,6 +60703,7 @@ ownership/SL 1
 Simulation/SL 1
 추락/NNG 35
 預置義務/SH 1
+그리스군/NNG 1
 윗사람/NNG 13
 생물자원/NNG 1
 자폐증/NNG 1
@@ -60096,11 +60730,12 @@ VDT/SL 1
 老妻/SH 1
 王仁/SH 2
 ..../SE 2
-퍼먹/VV 4
+541/SN 1
 사천/NNG 1
 RP/SL 25
 삽입/NNG 15
 하층민/NNG 9
+최질/NNG 1
 媤叔母/SH 1
 一夫從事/SH 1
 린네/NNP 1
@@ -60259,6 +60894,7 @@ Acts/SL 1
 進甲/SH 1
 electronic/SL 2
 편기/NNG 1
+JKB/MM 2
 도박판/NNG 12
 眞實/SH 3
 왜적/NNG 1
@@ -60291,7 +60927,7 @@ Leopold/SL 1
 브로마이드/NNG 1
 이동한/NNP 1
 게스/NNP 3
-門神/SH 1
+XSV/XR 1531
 골탕/NNG 12
 갈비/NNG 17
 미술담/NNG 1
@@ -60328,6 +60964,7 @@ Leopold/SL 1
 아쉬워하/VV 13
 防衛費/SH 1
 나돌/VV 58
+方學世/SH 1
 칠정산내외편/NNP 1
 運營原則/SH 2
 簿價分離/SH 1
@@ -60402,9 +61039,11 @@ RRC/SL 9
 산파역/NNG 3
 팩시밀리/NNG 12
 통신회의/NNG 2
+VCP/SW 126
 Solothurn/SL 1
 탈출구/NNG 4
-삼인칭/NNG 1
+VCP/SP 11
+VCP/SS 4009
 truncation/SL 1
 북지/NNG 2
 일본명/NNG 1
@@ -60413,13 +61052,15 @@ truncation/SL 1
 反帝國主義/SH 1
 政黨非理/SH 1
 다자/NNG 4
+VCP/SF 9
 정사박해/NNP 1
 백발/NNG 10
 대성통곡/NNG 3
 直月亦持告文棺于其左讀之/SH 1
 政事/SH 1
-마승/NNG 2
-image/SL 3
+VCP/SL 54
+VCP/SO 1
+VCP/SN 67
 장춘/NNP 2
 초경/NNG 5
 양재동/NNP 5
@@ -60477,7 +61118,7 @@ image/SL 3
 신현국/NNP 1
 조순형/NNP 1
 건설업법/NNG 1
-謝恩肅拜/SH 1
+XSV/EC 4
 軍民/SH 1
 영/NNG 47
 파별/NNG 1
@@ -60513,7 +61154,7 @@ image/SL 3
 메뉴/NNG 33
 學制/SH 1
 야반/NNG 1
-現/SH 3
+고문실/NNG 2
 海娘/SH 1
 生能捨死死能生/SH 1
 불러오/VV 36
@@ -60572,7 +61213,7 @@ William/SL 6
 署/SH 6
 비르트샤프트보헤/NNP 1
 특약/NNG 4
-5211/SN 1
+繒五章/SH 1
 용대리/NNP 2
 편하/VA 116
 以呈爲領/SH 2
@@ -60604,6 +61245,7 @@ PJB/SL 1
 신탁자/NNG 6
 프라우엔키르헤/NNP 4
 포즈/NNG 9
+VX/XR 3
 응원/NNG 39
 아른아른거리/VV 1
 수립가/NNG 1
@@ -60645,7 +61287,8 @@ PJB/SL 1
 가정과/NNG 1
 主軸/SH 2
 政治部門/SH 11
-볼셰비키/NNP 1
+SS/ETM 272
+SS/ETN 434
 예문/NNG 5
 知育/SH 1
 복용/NNG 48
@@ -60699,6 +61342,7 @@ ICC/SL 2
 피서/NNG 6
 입건/NNG 16
 대우건설/NNP 1
+EC/$ 11
 문도/NNG 1
 말수/NNG 10
 통고추/NNG 1
@@ -60731,7 +61375,8 @@ dates/SL 1
 국장/NNG 49
 정반대/NNG 32
 풀무원/NNP 2
-크루소/NNP 2
+JX/NR 647
+JX/NP 12122
 具熙千/SH 1
 里中各出方耕耘以助一/SH 1
 무생이/NNP 2
@@ -60888,14 +61533,14 @@ est/SL 1
 民間化/SH 1
 깃/NNG 20
 傘/SH 1
-흐물거리/VV 1
+허자/NNP 1
 가와사키병/NNG 1
 호사가/NNG 2
 top/SL 3
 挾妓宴飮/SH 1
 민속어/NNG 1
 능력껏/MAG 2
-設備投資推計/SH 1
+聖域化/SH 1
 천이궤도/NNG 6
 約中輪回爲直月司貨/SH 1
 고스란히/MAG 29
@@ -60911,7 +61556,7 @@ top/SL 3
 高次的/SH 1
 생활성서사/NNP 1
 쿠당탕/MAG 1
-성호/NNG 3
+SP/MAJ 221
 이중창/NNG 1
 말트/NNP 1
 끔찍히/MAG 1
@@ -60946,6 +61591,7 @@ center/SL 2
 고립주의자/NNG 1
 字中/SH 1
 속보/NNG 12
+박희태/NNP 2
 자타/NNG 11
 법속/NNG 1
 김수현/NNP 1
@@ -61042,6 +61688,7 @@ Tool/SL 2
 까네/NNG 14
 쑤욱/MAG 2
 조막/NNG 1
+식도염/NNG 1
 싯사/NNP 4
 중반/NNG 74
 차이우수/NNG 1
@@ -61065,7 +61712,7 @@ Tool/SL 2
 나운규/NNP 1
 우직/XR 6
 長惠/SH 1
-논농정소/NNP 1
+VV/JX 158
 이해관계/NNG 52
 카디건/NNG 2
 CI/SL 3
@@ -61088,6 +61735,7 @@ Pyrrhonism/SL 1
 풋내/NNG 1
 난나슈엔/NNP 1
 상응/NNG 43
+SL/JX 2
 후보작/NNG 2
 陰葉/SH 1
 병용/NNG 3
@@ -61324,7 +61972,7 @@ Daguerre/SL 1
 차범석/NNP 1
 권농관/NNG 1
 제때/NNG 21
-統制/SH 1
+보컬/NNG 6
 설상가상/NNG 4
 寂寞/SH 1
 갑상선/NNG 9
@@ -61467,7 +62115,7 @@ dernier/SL 1
 이사/JX 1
 샤프트/NNG 1
 정송/NNP 1
-장독/NNG 1
+SL/XSN 4
 쿠/NNG 1
 노진환/NNP 1
 블랙잭/NNG 1
@@ -61675,10 +62323,11 @@ Ideational/SL 1
 박노준/NNP 3
 박순복/NNP 1
 청량리역/NNP 2
-겠/EP 3933
+퍼먹/VV 4
 유고/NNG 16
 從孫婦/SH 2
 송계/NNG 2
+SW/MAG 1
 박성배/NNP 1
 흉악/NNG 2
 유고/NNP 48
@@ -61773,6 +62422,7 @@ mm/SW 7
 정해통/NNP 1
 하귀리/NNP 1
 좀체로/MAG 3
+EC/SS 429
 雖對幼少亦再拜/SH 1
 동갑계/NNG 1
 슬금슬금/MAG 8
@@ -61844,6 +62494,7 @@ Scientific/SL 1
 눈발/NNG 12
 정년/NNG 17
 김규섭/NNP 1
+석삼년/NNG 1
 MBN/SL 1
 범용/NNG 2
 정중히/MAG 7
@@ -62028,6 +62679,7 @@ MEL/SL 1
 기념식/NNG 11
 선어/NNG 7
 건설과장/NNG 5
+長齊裳端/SH 1
 頭廣足銳/SH 1
 이동재/NNP 1
 반백/NNG 3
@@ -62044,6 +62696,7 @@ MEL/SL 1
 傳示諸位若明知託故/SH 1
 상수도관/NNG 1
 청록회/NNP 1
+동토/NNG 3
 수숫대/NNG 2
 공천/NNG 204
 안정감/NNG 18
@@ -62054,7 +62707,7 @@ Sea/SL 1
 등/NNG 104
 담시/NNG 1
 소화/NNG 57
-의구/NNG 2
+含蓄/SH 1
 담키나/NNP 1
 등/NNB 8385
 在印/SH 1
@@ -62099,7 +62752,7 @@ pass/SL 1
 mie/SL 1
 장길산/NNP 2
 1896/SN 4
-內閣一括辭表/SH 1
+MAG/SW 11
 肅宗/SH 1
 박인수/NNP 1
 皆口銜珠滴翠雲四十片/SH 1
@@ -62131,6 +62784,7 @@ subsystem/SL 1
 경기백사정반안/NNG 1
 원효불기/NNP 1
 침산/NNP 5
+장애우/NNG 1
 정승화/NNP 3
 룬타/NNP 1
 月落空庭正許長/SH 1
@@ -62141,6 +62795,7 @@ subsystem/SL 1
 경색/NNG 51
 해갈/NNG 2
 率性/SH 1
+최태복/NNP 2
 적적상승/NNG 2
 기름지/VA 16
 태응/NNP 1
@@ -62152,10 +62807,10 @@ subsystem/SL 1
 스잔/NNP 17
 번갯불/NNG 1
 더란다/EF 11
-패륜/NNG 3
+JC/SW 15
 행방자/NNG 1
 고암정사/NNP 1
-從姨母/SH 1
+JC/SS 1012
 무심/NNG 15
 와이드웹/NNG 1
 縱絞/SH 1
@@ -62169,11 +62824,11 @@ subsystem/SL 1
 하/VX 14331
 과물/NNG 1
 未熟性/SH 1
-JC/SL 6
+JC/SL 109
 출판인/NNG 3
-두메산골/NNG 1
+JC/SN 30
 하/VV 23570
-이현세/NNP 1
+JC/SH 545
 광역시/NNG 3
 버리/VV 407
 봉덕동/NNP 1
@@ -62194,7 +62849,7 @@ ribonucleic/SL 1
 끔뻑거리/VV 1
 母神/SH 1
 발끝/NNG 6
-양곤/NNP 1
+ETM/SL 1
 천문가/NNG 1
 용처/NNG 3
 餘震/SH 1
@@ -62400,7 +63055,7 @@ It/SL 7
 미원기술정보/NNP 1
 飯蔬食飮水/SH 1
 진휼/NNG 1
-젖줄/NNG 4
+규찰대/NNG 3
 아래층/NNG 14
 theinstitute/SL 1
 VTR/SL 9
@@ -62466,7 +63121,7 @@ Newton/SL 5
 외인/NNG 5
 아야/IC 1
 사만/NR 2
-플레이오프/NNG 61
+방바닥/NNG 28
 시혜/NNG 2
 國/SH 6
 요서/NNP 1
@@ -62500,6 +63155,8 @@ Young/SL 3
 원폭/NNG 15
 亡事/SH 1
 間諜/SH 1
+崔載九/SH 1
+hercsr/SL 1
 울음보/NNG 1
 지마/NNG 1
 자며/EC 2
@@ -62550,7 +63207,7 @@ COD/SL 1
 양정학교/NNP 1
 스트래트포드/NNP 1
 맏상주/NNG 1
-인부/NNG 26
+유분수/NNG 1
 試兒/SH 2
 판타롱/NNG 1
 論萬物之二元/SH 1
@@ -62617,7 +63274,7 @@ Walter/SL 1
 풍치/NNG 13
 쾌유/NNG 1
 幷貫簪/SH 1
-2303/SN 1
+JKO/ETN 2344
 去來/SH 5
 投機再燃/SH 1
 안내인/NNG 7
@@ -62687,7 +63344,7 @@ Walter/SL 1
 외간/NNG 3
 뒤집어씌우/VV 2
 梶山靜六/SH 1
-철모/NNG 4
+온당/XR 35
 鋤芸/SH 1
 편식/NNG 2
 코스터/NNG 1
@@ -62800,7 +63457,7 @@ Zurich/SL 2
 혈압/NNG 27
 뼈가죽/NNG 1
 節約/SH 1
-왕과시/NNP 1
+kaist/SL 1
 모슬포/NNP 3
 大宗小宗之法/SH 1
 外從姉/SH 1
@@ -62854,24 +63511,26 @@ Forschung/SL 1
 고춧가루/NNG 4
 經典/SH 1
 한국소설가협회/NNP 1
-장로회신대/NNP 1
+SF/SH 69
 팽그르르/MAG 1
-어이하/VV 1
-휴화산/NNG 2
-SF/SL 4
+SF/SN 6906
+SF/SO 10
+SF/SL 508
 ℃/SW 5
 김원석/NNP 1
-자명종/NNG 1
+SF/SF 23
 소회/NNG 1
+SF/SE 777
+워어리/IC 2
 증좌/NNG 4
 분장/NNG 10
 마들렌/NNP 1
 文民政權/SH 1
 양병현/NNP 1
-김희자/NNP 2
+SF/SS 499
 바나나/NNG 18
 鄭氏/SH 1
-가디건/NNG 2
+SF/SW 69
 物/SH 6
 沙川津里/SH 1
 ㄴ다더라/EF 2
@@ -62962,9 +63621,10 @@ SNA/SL 2
 부활/NNG 78
 아메리커스/NNP 1
 不安心理/SH 1
-CAPS/SL 1
+NA/SO 3
 시편/NNP 1
 팔라듐/NNG 1
+NA/SH 1
 이규동/NNP 1
 flow/SL 1
 퇴임/NNG 24
@@ -62980,7 +63640,7 @@ staff/SL 1
 두/NNB 2
 有處女過期/SH 1
 支準預置義務/SH 2
-의인/NNG 7
+NA/SS 11
 이승삼/NNP 7
 公立/SH 2
 自己卑下/SH 1
@@ -63050,9 +63710,11 @@ operrative/SL 1
 후궁/NNG 4
 創造主/SH 1
 잡범/NNG 2
+XSV/NNG 94599
 인터내셔널/NNG 7
 총반격/NNG 1
 한일/NNP 15
+XSV/NNB 176
 들척이/VV 1
 Kluckhohn/SL 1
 계정혜/NNG 1
@@ -63100,7 +63762,6 @@ Mckinsey/SL 1
 무겁/VA 167
 주전자/NNG 41
 몸뚱이/NNG 9
-극락전/NNP 1
 몽타쥬/NNG 1
 고유어/NNG 7
 玄表朱裏/SH 2
@@ -63179,7 +63840,7 @@ Frances/SL 1
 受信競爭力/SH 4
 시/XSN 206
 무심히/MAG 5
-李/SH 5
+여하/NNG 30
 회의실/NNG 16
 Monday/SL 1
 醴/SH 1
@@ -63240,6 +63901,7 @@ Urbanus/SL 1
 사목위원/NNG 4
 유별시리/MAG 1
 여직/MAG 2
+JKB/EC 349
 發券力/SH 5
 甚則親往/SH 1
 한가락/NNG 1
@@ -63337,6 +63999,7 @@ Apple/SL 3
 ㄹ런지/EC 3
 연탄불/NNG 2
 도/EC 5
+統主/SH 1
 telet/SL 1
 公安事犯判例集/SH 1
 전세권/NNP 2
@@ -63383,7 +64046,7 @@ Gilbert/SL 1
 生活次元/SH 1
 색채/NNG 43
 魂氣/SH 1
-공석/NNG 22
+성명/NNG 105
 난독/NNG 1
 장기오/NNP 1
 형문/NNG 1
@@ -63395,6 +64058,7 @@ Gilbert/SL 1
 체인지업/NNG 28
 요충지/NNG 4
 관제소/NNG 8
+휴화산/NNG 2
 동대부중/NNP 1
 습기/NNG 17
 부진/NNG 228
@@ -63475,6 +64139,7 @@ Lester/SL 1
 像/SH 6
 thought/SL 1
 불거/NNG 1
+프랑크푸르터/NNP 1
 몬세라트/NNP 1
 고립무원/NNG 1
 공명당/NNP 1
@@ -63656,7 +64321,7 @@ Nebraska/SL 1
 이모작/NNG 6
 表裏俱靑紅相半/SH 2
 自我喪失/SH 1
-무선/NNG 39
+서운관/NNG 1
 틈바귀/NNG 2
 유니버시타스/NNG 1
 ㄹ/NA 1
@@ -63674,17 +64339,20 @@ Nebraska/SL 1
 서울자유사회운동/NNP 1
 쿠션/NNG 3
 빡빡머리/NNG 2
+SP/JKV 213
+SP/JKQ 5
 인천북항/NNP 1
+SP/JKS 322
 국왕/NNG 47
 명덕온천/NNP 1
 Quintius/SL 1
 思想犯/SH 1
 Cromwell/SL 1
-禮法/SH 1
+SP/JKG 24
 comes/SL 1
 倂呑/SH 1
 羊頭狗肉/SH 2
-범랑/NNG 1
+SP/JKB 1260
 琢穀文/SH 2
 各自省察/SH 1
 시청률/NNG 1
@@ -63732,6 +64400,7 @@ Master/SL 1
 남극/NNG 1
 방관/NNG 10
 우골/NNG 1
+법체처/NNG 1
 닥스/NNP 2
 무마비/NNG 1
 사미시바이/NNG 1
@@ -63946,6 +64615,7 @@ Yei/SL 4
 헤바트/NNP 1
 은관/NNG 1
 발파/NNG 3
+홍모/NNG 1
 소사/EC 1
 회자/NNG 2
 이천규/NNP 2
@@ -64040,7 +64710,6 @@ paradigm/SL 1
 애병/NNG 2
 딱히/MAG 5
 廚庫/SH 1
-barometer/SL 1
 柳在乾/SH 1
 작동법/NNG 1
 수출액/NNG 16
@@ -64057,7 +64726,7 @@ barometer/SL 1
 벤다족/NNP 1
 腐敗剔抉手段/SH 1
 정설/NNG 7
-萌芽的/SH 1
+빼빼/NNG 2
 익스플로러/NNG 5
 버찌/NNG 3
 사액/NNG 4
@@ -64207,12 +64876,13 @@ Shareware/SL 1
 폴짝폴짝/MAG 1
 김선주/NNP 1
 허망/NNG 2
+週初/SH 1
 운정비결/NNG 1
 前後各十二縫/SH 1
 1873/SN 3
 자동화/NNG 5
 연패/NNG 19
-탁탁/MAG 5
+경험담/NNG 6
 弟嫂/SH 1
 경향/NNG 277
 현판/NNG 1
@@ -64229,14 +64899,16 @@ Shareware/SL 1
 체류기/NNG 1
 試驗/SH 1
 집어먹/VV 5
+Charter/SL 1
 생산량/NNG 29
-곡성/NNG 6
-先行模範/SH 1
+EF/VX 14114
+分類方法/SH 1
 노령/NNP 1
 通過儀禮/SH 1
 우뚝우뚝/MAG 3
 인건비/NNG 29
 남가주대/NNP 1
+EF/VV 18104
 엘리트/NNG 47
 최현수/NNP 1
 완도군/NNP 2
@@ -64246,7 +64918,7 @@ Shareware/SL 1
 풍락토성/NNP 1
 하계/NNG 7
 혁명기/NNG 29
-훈련법/NNG 1
+EF/VA 6621
 홍보처/NNG 9
 문방구점/NNG 3
 수관고사례/NNG 3
@@ -64334,14 +65006,15 @@ ethnic/SL 1
 리허설/NNG 2
 불경기/NNG 2
 헤테/NNP 1
+ETM/VV 75210
 則副正糾之/SH 1
 企業結合/SH 1
 말로/NNG 4
-동공/NNG 6
+ETM/VX 23278
 손사랫짓/NNG 1
 제국주의/NNG 30
 소백산맥/NNP 1
-기념일/NNG 17
+ETM/VA 25090
 메일/NNG 3
 貿易收支/SH 9
 기침/NNG 53
@@ -64415,20 +65088,21 @@ purchases/SL 1
 칠팔/NR 6
 느슨/XR 20
 토플러/NNP 2
-기차/VA 1
+육지/NNG 31
 산재/NNG 27
 李順今/SH 1
 내려서/VV 11
 굽/NNG 6
 撤炙器/SH 1
 다획/NNG 1
+SS/JC 9
 교수법/NNG 2
 벽돌공/NNG 6
 신부상/NNG 1
 민속학/NNG 6
 야담집/NNG 1
 추측지리/NNG 2
-성기현/NNP 1
+SS/JX 104
 상냥/XR 10
 점/NNG 311
 군데/NNB 41
@@ -64463,6 +65137,7 @@ self/SL 3
 粉面/SH 5
 향풍/NNG 2
 추기/NNG 4
+爲/SH 1
 謝/SH 1
 경무과/NNG 1
 안내자/NNG 5
@@ -64524,7 +65199,8 @@ face/SL 2
 세로토닌/NNG 4
 성철/NNP 7
 중구/NNG 3
-六朝/SH 1
+SP/NR 378
+SP/NP 81
 끄떡없/VA 1
 Martin/SL 4
 비눗기/NNG 1
@@ -64533,6 +65209,7 @@ Martin/SL 4
 喪/SH 6
 최석정/NNP 1
 Sagredo/SL 1
+SP/NA 9
 胎敎新記/SH 1
 난랑비서/NNP 1
 박흥/NNP 1
@@ -64621,7 +65298,7 @@ ISDN/SL 22
 athena/SL 1
 용산로/NNP 1
 남프랑스/NNP 1
-커내버럴기지/NNP 1
+進熟水/SH 2
 연속/NNG 113
 마사시/NNP 1
 도조/NNG 1
@@ -64736,6 +65413,7 @@ Federigo/SL 1
 드가/NNP 1
 국난/NNG 3
 쭉쭉/MAG 2
+大阿飡/SH 1
 모멘트/NNG 2
 신풍/NNP 2
 情實/SH 2
@@ -64768,6 +65446,7 @@ LAD/SL 1
 주구/NNG 1
 에이티앤티/NNP 1
 달윗세계/NNG 3
+한국휴렛패커드/NNP 2
 주군/NNG 4
 합두/IC 1
 재해/NNG 29
@@ -64856,6 +65535,7 @@ hwp/SL 3
 장원/NNG 18
 드리트리/NNP 1
 금언/NNG 5
+MM/NR 72
 이민호/NNP 1
 장수자/NNG 2
 몸차림/NNG 1
@@ -64882,6 +65562,7 @@ hwp/SL 3
 묘광/NNG 3
 반포동/NNP 1
 曾祖驢位/SH 1
+極殖生布/SH 1
 DAMA/SL 1
 수청면/NNP 1
 羨望/SH 1
@@ -64891,7 +65572,6 @@ DAMA/SL 1
 좀생이별/NNG 1
 민주신당/NNP 1
 볼록/MAG 2
-㎖/SW 3
 姑從姉/SH 1
 부어맨/NNP 4
 백운동/NNP 2
@@ -64961,6 +65641,7 @@ razor/SL 1
 이백/NR 18
 說囊/SH 1
 왕위/NNG 36
+頂上/SH 2
 퍼뜨리/VV 22
 全體的/SH 1
 發券機能/SH 1
@@ -64988,7 +65669,7 @@ PKO/SL 1
 PDI/SL 1
 중주단/NNG 3
 일제/NNG 195
-reservation/SL 14
+부여조/NNG 1
 온당히/MAG 1
 다르크/NNP 2
 당수/NNG 24
@@ -65315,6 +65996,7 @@ MFN/SL 2
 을지연습/NNG 1
 으려니/EC 12
 경쟁/NNG 575
+연청/NNG 4
 도적놈/NNG 1
 Institute/SL 1
 現世/SH 2
@@ -65335,7 +66017,7 @@ MCT/SL 19
 국민학교장/NNG 1
 태안/NNP 2
 이노/NNP 1
-으려는지/EC 1
+보안사/NNP 1
 방한/NNG 42
 늙수그레/XR 2
 朞年/SH 1
@@ -65384,7 +66066,7 @@ labor/SL 2
 신체/NNG 126
 양병호/NNP 3
 깜쪽같이/MAG 1
-陳東/SH 1
+JKO/NNP 2356
 단종/NNP 4
 부교감/NNG 2
 Leonard/SL 1
@@ -65472,8 +66154,9 @@ Puritanism/SL 1
 복사본/NNG 3
 國禪道/SH 1
 삼성서울병원/NNP 1
-특허청/NNG 2
+버르장머리/NNG 2
 충혜왕/NNP 1
+XPN/NR 1
 反骨/SH 1
 홍대용/NNP 25
 김생/NNP 3
@@ -65551,7 +66234,7 @@ Intelligence/SL 1
 佐藤/SH 1
 물걸레/NNG 1
 청구야담/NNP 2
-193/SN 3
+NNB/JKB 3
 개발지/NNG 2
 시라크/NNP 7
 굽신거리/VV 1
@@ -65577,6 +66260,7 @@ VRE/SL 2
 성장점/NNG 1
 몸동작/NNG 1
 漢人/SH 1
+삼사/NR 1
 코발른/NNP 1
 혼상사/NNG 1
 選手團/SH 1
@@ -65646,7 +66330,6 @@ Fund/SL 9
 緊縮財政/SH 1
 철거민/NNG 14
 三段論法/SH 1
-親臨酌獻/SH 1
 김준형/NNP 1
 受胎告知/SH 1
 地/SH 1
@@ -65723,6 +66406,7 @@ classical/SL 3
 대회장/NNG 2
 패트/NNP 22
 Schater/SL 1
+EC/MAJ 1
 선입관념/NNG 1
 아웅/NNP 1
 돈독/NNG 3
@@ -65737,15 +66421,17 @@ Humboldt/SL 1
 막도장/NNG 1
 머흔/NA 1
 族下生/SH 1
+XPN/NNB 2
 지엽/NNG 11
 연료비/NNG 4
 효모/NNG 2
 고관절/NNG 2
-쑥뜸/NNG 2
+XPN/NNG 79
 안개비/NNG 2
 공감/NNG 61
 칠석/NNG 5
 꽁다리/NNG 1
+XPN/NNP 24
 집계/NNG 53
 사치세/NNG 1
 武裝共匪南派/SH 2
@@ -65754,6 +66440,7 @@ Humboldt/SL 1
 槪要/SH 2
 아내/NNG 302
 民間凡有爭訟者/SH 1
+책보/NNG 1
 愛國/SH 1
 따오/VV 9
 김백겸/NNP 3
@@ -65764,7 +66451,7 @@ Humboldt/SL 1
 덕소/NNP 3
 693/SN 1
 여권/NNG 223
-가꾸/VV 81
+산드로/NNP 1
 아랫나루터/NNG 1
 편이/NNG 1
 진주만/NNP 2
@@ -65998,6 +66685,7 @@ SCM/SL 4
 豫斷/SH 1
 ㄴ가라고/EC 1
 창광원/NNP 2
+씨어터/NNG 1
 라이브러리/NNG 2
 공명/XR 3
 行狀/SH 1
@@ -66021,7 +66709,7 @@ Harvard/SL 2
 발화/NNG 6
 전성철/NNP 16
 수가사/NNG 1
-불빛/NNG 56
+現/SH 3
 폐풍/NNG 4
 임노동/NNG 3
 앞장서/VV 121
@@ -66055,7 +66743,7 @@ KEDO/SL 27
 빵점/NNG 1
 통증/NNG 59
 레크리에이션/NNG 5
-석삼년/NNG 1
+initiative/SL 1
 남용/NNG 52
 이위흑산귀굴/NNG 1
 군대식/NNG 4
@@ -66065,7 +66753,7 @@ KEDO/SL 27
 媒介變數/SH 1
 계집년/NNG 2
 이그/IC 1
-패인/NNG 5
+VX/SS 7
 아랑곳없이/MAG 9
 따님/NNG 3
 오버/NNG 1
@@ -66104,6 +66792,7 @@ KEDO/SL 27
 쿠마라퉁가/NNP 2
 굴절/NNG 22
 hybrid/SL 1
+약강재유조이불문/NNG 1
 도요타자동차/NNP 1
 전자계산기/NNG 5
 루이비통/NNP 5
@@ -66122,7 +66811,7 @@ tunnel/SL 1
 비공/NNG 1
 黃漢雄/SH 1
 빤질빤질/MAG 2
-원자재/NNG 63
+교착/NNG 11
 네슬레/NNP 2
 서부터/JKB 33
 가맹점/NNG 18
@@ -66195,6 +66884,7 @@ Watson/SL 1
 作爲性/SH 1
 Korean/SL 3
 不動産價格/SH 4
+잇대/VV 1
 一元論/SH 1
 대리/NNP 1
 구강/NNG 12
@@ -66289,6 +66979,7 @@ That/SL 1
 민족인/NNG 1
 천자춘추/NNG 2
 EFF/SL 1
+安息年制/SH 1
 황금/NNG 39
 Archimedes/SL 1
 풍자만화/NNG 1
@@ -66420,7 +67111,7 @@ Batavia/SL 1
 중수/NNG 6
 內務委/SH 4
 同質意識/SH 1
-급살/NNG 1
+움찔/XR 1
 개벽/NNG 2
 병자/NNG 10
 개뿔/NNG 1
@@ -66440,6 +67131,7 @@ Batavia/SL 1
 애돌애돌/XR 1
 마두라이/NNP 1
 유전학자/NNG 1
+SF/XPN 1
 必須制/SH 1
 모란봉/NNP 3
 SchoolNet/SL 1
@@ -66503,7 +67195,7 @@ Brahma/SL 1
 히아신드/NNG 1
 숫제/MAG 9
 Music/SL 3
-싸릿대/NNG 1
+범청학련/NNP 2
 藍/SH 1
 神聖婚/SH 1
 더군다나/MAG 20
@@ -66522,13 +67214,15 @@ pheromone/SL 1
 中品/SH 1
 ㄹ수록/EC 358
 한결/MAG 27
+NP/NNP 23
 김정국/NNP 2
 선발/NNG 216
 보스턴대학/NNP 1
 稅金/SH 2
 한양대/NNP 13
 율/NNG 5
-群馬縣/SH 1
+XPN/SL 1
+NP/NNG 15
 溶解/SH 1
 independence/SL 1
 국공채/NNG 18
@@ -66542,7 +67236,6 @@ independence/SL 1
 대안/NNG 113
 모노그램/NNG 5
 남우/NNG 4
-온당/XR 35
 과대망상증/NNG 1
 외발/NNG 2
 테크노피아/NNG 1
@@ -66666,7 +67359,7 @@ sys/SL 1
 야세/NNG 1
 훈증/NNG 1
 反證/SH 2
-득표전/NNG 3
+손때/NNG 11
 Sapiens/SL 1
 구급방/NNG 1
 蝨犬說/SH 1
@@ -66691,6 +67384,8 @@ Sapiens/SL 1
 和諧/SH 1
 千/SH 3
 그라나다/NNP 1
+畵面化/SH 1
+JX/EP 1
 아침/NNG 505
 독산동/NNP 1
 BBCC/SL 1
@@ -66703,7 +67398,7 @@ Chevrier/SL 1
 시신경/NNG 1
 음력/NNG 23
 質明/SH 1
-進熟水/SH 2
+커내버럴기지/NNP 1
 非人間化/SH 1
 득실/NNG 2
 금주/NNG 7
@@ -66794,6 +67489,7 @@ Chevrier/SL 1
 계청/NNG 2
 확보/NNG 369
 Arlington/SL 1
+시안/NNP 1
 율명/NNG 1
 모화사상/NNG 1
 이승윤/NNP 3
@@ -66819,13 +67515,13 @@ Neal/SL 2
 사마법/NNP 1
 대아/NNG 5
 직면/NNG 76
-飼育頭數/SH 1
+오락장/NNG 1
 수더분/XR 1
 플라시도/NNP 1
-연청/NNG 4
+JKO/NNB 6526
 전세방/NNG 6
 낙인/NNG 8
-보안사/NNP 1
+JKO/NNG 105044
 명진터미널/NNP 1
 침통/XR 7
 法衣/SH 1
@@ -66839,7 +67535,7 @@ Schwabe/SL 1
 남한/NNG 1
 다니엘서/NNP 1
 티자/NNG 4
-워어리/IC 2
+철도원/NNG 3
 가르치/VV 308
 馬山里/SH 1
 할미꽃/NNP 1
@@ -67019,7 +67715,7 @@ touch/SL 1
 석촌/NNP 1
 개벽/NNP 1
 남수/NNG 18
-볼링장/NNG 1
+XSV/MAG 2411
 관대/NNG 7
 일심회/NNG 1
 八分/SH 1
@@ -67166,7 +67862,7 @@ Input/SL 1
 간통/NNG 2
 was/SL 2
 요도염/NNG 2
-慶禮/SH 1
+ETM/ETN 1
 교역량/NNG 6
 政語/SH 1
 SVD/SL 1
@@ -67194,7 +67890,7 @@ SVD/SL 1
 혼합/NNG 19
 윤활유/NNG 8
 四末/SH 1
-무풍지대/NNG 3
+광한루/NNP 2
 깜깜/XR 11
 화수회/NNG 2
 群雄/SH 1
@@ -67212,7 +67908,7 @@ syllabus/SL 1
 멜/NNP 3
 관학파/NNG 1
 輸入誘發係數/SH 3
-玉/SH 1
+副省長/SH 2
 喪服制/SH 1
 미시족/NNG 3
 密集部隊/SH 1
@@ -67292,7 +67988,8 @@ PC/SL 180
 電算處理/SH 1
 Bopp/SL 1
 則只一拜/SH 1
-관작/NNG 4
+NNG/ETM 340
+NNG/ETN 28
 꽃피/VV 13
 좋아하/VV 341
 수증기/NNG 1
@@ -67311,6 +68008,7 @@ Bopp/SL 1
 감상주의/NNG 1
 공리공론/NNG 9
 장희진/NNP 1
+흑연/NNG 1
 잡아내/VV 13
 장미자/NNP 1
 北京大/SH 1
@@ -67463,7 +68161,7 @@ National/SL 11
 왼집/NNG 1
 奇岩巨石/SH 1
 녹색연합/NNP 1
-統主/SH 1
+NNB/XR 2
 리보/NNG 4
 心醉/SH 1
 金銀花/SH 1
@@ -67536,6 +68234,7 @@ oecd/SL 3
 열병/NNG 7
 내림세/NNG 12
 某也爲之而少低/SH 1
+JKC/XSN 131
 호랑이/NNG 55
 별반/MAG 8
 媤姑母夫/SH 1
@@ -67592,6 +68291,7 @@ Sonic/SL 2
 싸쥐/VV 2
 얼치기/NNG 1
 花期/SH 1
+무풍지대/NNG 3
 全斗煥/SH 22
 맏/XPN 13
 강수/NNP 3
@@ -67741,7 +68441,7 @@ citena/SL 1
 전인대/NNP 1
 김장곤/NNP 2
 턴/NNG 3
-거치/VV 439
+華/SH 131
 이기/NP 2
 애틀랜타올림픽/NNP 9
 맞부딪/VV 1
@@ -67937,7 +68637,7 @@ exhausted/SL 1
 핵물리학자/NNG 1
 미루/VV 142
 사마시/NNG 1
-cole/SL 1
+이산화질소/NNG 1
 결핍증/NNG 4
 내달/NNG 39
 국외/NNG 8
@@ -68133,6 +68833,7 @@ Taylor/SL 3
 는군요/EF 9
 皆如冕服內制/SH 1
 개념/NNG 374
+관작/NNG 4
 퇴색/NNG 25
 격자/NNG 1
 사건/NNG 1246
@@ -68152,6 +68853,7 @@ Taylor/SL 3
 소니아/NNP 1
 地域集團/SH 1
 355/SN 1
+급행열차/NNG 1
 기폭/NNG 2
 羽/SH 2
 밀영/NNG 2
@@ -68173,7 +68875,9 @@ Taylor/SL 3
 金脈/SH 1
 책머리/NNG 2
 정성산/NNP 1
+정회의/NNG 1
 Colors/SL 1
+subjectivity/SL 1
 실습/NNG 42
 눈티/NNG 1
 1000/SN 15
@@ -68181,7 +68885,7 @@ Colors/SL 1
 올림픽기/NNG 1
 흐트러지/VV 15
 성암잡지도서관장/NNG 1
-동궁/NNG 1
+칠판/NNG 18
 억/IC 1
 사업단/NNG 8
 번연히/MAG 2
@@ -68244,10 +68948,11 @@ tool/SL 1
 불상용/NNG 1
 달맞이/NNG 4
 入鄕循俗/SH 1
+MAG 80298
 원피스/NNG 31
 방사/NNG 10
 東京外國語大/SH 1
-해행당/NNP 1
+MAJ 22734
 VAN/SL 1
 일회용품/NNG 1
 성리학자/NNG 7
@@ -68264,6 +68969,7 @@ VAN/SL 1
 칼림노스섬/NNP 1
 쌍쌍/NNG 1
 座右銘/SH 1
+강녕/NNG 1
 깨물/VV 16
 古來/SH 1
 박헌기/NNP 2
@@ -68333,6 +69039,7 @@ IT/SL 2
 죽림/NNP 2
 파운드/NNB 8
 후줄근/XR 5
+자치기/NNG 2
 전채/NNG 2
 삼성리/NNP 1
 후행조/NNG 1
@@ -68357,7 +69064,7 @@ IT/SL 2
 嚴妃/SH 1
 두용직/NNG 1
 추총/NNG 1
-기록물/NNG 1
+장년기/NNG 1
 강대/NNG 1
 training/SL 1
 위리/NNG 1
@@ -68385,7 +69092,7 @@ Franklin/SL 1
 則直月襄于約中尊者五員參詳定議/SH 1
 거주자/NNG 21
 대추씨/NNG 1
-고시/NNP 1
+MM/$ 42735
 순풍/NNG 1
 화목/NNG 18
 詰難/SH 1
@@ -68445,6 +69152,7 @@ IIE/SL 1
 生産誘發依存度/SH 1
 평민/NNP 1
 지친/NNG 1
+NNP/$ 68922
 참석자/NNG 28
 브루넬레스키/NNP 1
 某封/SH 1
@@ -68493,6 +69201,7 @@ Schr/SL 1
 잔칫상/NNG 3
 마카베오/NNP 1
 가마니/NNG 14
+群馬縣/SH 1
 서해안고속도로/NNP 2
 구로공단/NNP 2
 1724/SN 1
@@ -68500,7 +69209,7 @@ Schr/SL 1
 자기학/NNG 1
 역리/NNG 2
 꼬락서니/NNG 2
-越線/SH 2
+JC/XR 12
 밀가루/NNG 16
 고대/NNP 8
 미끌미끌/MAG 2
@@ -68525,6 +69234,7 @@ MB/SL 2
 영옥이/NNP 17
 이큅먼트/NNG 1
 크리닉/NNG 2
+SE/VX 1
 합리주의자/NNG 1
 396/SN 4
 高次元/SH 1
@@ -68550,6 +69260,8 @@ MB/SL 2
 오피콤/NNP 1
 중학동/NNP 2
 문익환/NNP 1
+出將入相/SH 1
+MAG/IC 1
 숙제/NNP 3
 박춘재/NNP 2
 동아시아사상사/NNP 1
@@ -68561,7 +69273,7 @@ Grant/SL 1
 어쩌구저쩌구/MAG 1
 곳간/NNG 2
 直月/SH 2
-고이치/NNP 1
+JKO/EC 785
 완충/NNG 11
 염기/NNG 2
 石油政治/SH 1
@@ -68581,6 +69293,7 @@ Grant/SL 1
 낚싯밥/NNG 2
 勞動者/SH 1
 則直月司貨須與副正進約正家議定/SH 1
+XPN/JKG 1
 진성/NNG 1
 호모/NNG 3
 이곳/NP 287
@@ -68616,6 +69329,7 @@ Grant/SL 1
 김충한/NNP 1
 법원/NNG 172
 NIEW/SL 2
+NNB/JX 1
 선병질/NNG 1
 감량/NNG 13
 실낱같/VA 1
@@ -68667,6 +69381,7 @@ Rhodesia/SL 1
 훈풍/NNG 4
 싼값/NNG 14
 조이/VV 15
+直月先署名後/SH 1
 에니악/NNG 6
 涓吉單子/SH 1
 갱내/NNG 1
@@ -68676,7 +69391,7 @@ Rhodesia/SL 1
 白紙/SH 2
 소양/NNG 9
 친정어머니/NNG 2
-非道營求者右件過失/SH 1
+NNG/NR 250
 강물/NNG 42
 띠띠/MAG 2
 권옥주/NNP 1
@@ -69016,7 +69731,7 @@ hidden/SL 1
 운세/NNG 10
 主眼/SH 1
 공지/NNG 7
-單位/SH 2
+ETN 21215
 노예근성/NNG 1
 종증손/NNG 2
 몽뚱그리/VV 1
@@ -69039,7 +69754,7 @@ hidden/SL 1
 糊塗/SH 2
 식객/NNG 2
 楚歌/SH 1
-53/SN 55
+원화/NNG 87
 일러바치/VV 4
 초단파/NNG 1
 새사람/NNG 4
@@ -69093,8 +69808,8 @@ philosophe/SL 3
 은가고/EC 1
 우현이/NNP 13
 편적/NNG 1
-간첩/NNG 54
-몰아대/VV 3
+모방/NNG 58
+희뿌옇/VA 1
 형준이/NNP 8
 正義/SH 12
 한몫/NNG 19
@@ -69166,10 +69881,9 @@ NBA/SL 2
 즉각/NNG 16
 測定方法/SH 1
 황혼/NNP 1
-金昌實/SH 1
+순이익/NNG 7
 통신망/NNG 102
 케이스/NNG 25
-541/SN 1
 비스콘티/NNP 1
 합작품/NNG 4
 기획사/NNG 6
@@ -69205,6 +69919,7 @@ Operation/SL 1
 법인세/NNG 5
 애기새꽃/NNG 1
 매켄리호/NNP 1
+MM/NNG 31
 권녕해/NNP 2
 조상/NNG 376
 전주최씨고령택상여/NNP 1
@@ -69252,6 +69967,7 @@ Asarco/SL 1
 베니/NNP 1
 건수/NNG 70
 어째서/MAG 51
+공한/NNG 2
 사내놈/NNG 1
 則同約協力/SH 1
 原初的/SH 1
@@ -69368,6 +70084,7 @@ tachistoscope/SL 1
 用紫組二屬於兩旁/SH 1
 생존자/NNG 9
 구체/NNG 543
+일흔/NR 10
 항몽/NNG 1
 對外秘/SH 1
 엇비슷/XR 9
@@ -69412,10 +70129,11 @@ leader/SL 1
 전관/NNG 4
 배급소/NNG 3
 橙同冕服制/SH 1
+VV/VV 1
 선불/NNG 8
 제사/NNG 514
 미라신코리아/NNP 1
-圓柱形足/SH 1
+MAJ/SF 1
 McCracken/SL 1
 俟尊者遠過乃行/SH 1
 홀골/NNG 1
@@ -69444,7 +70162,7 @@ Altai/SL 2
 오진/NNG 4
 북간도/NNP 2
 삼성화재/NNP 2
-캠퍼스/NNG 20
+MAJ/SN 13
 우편배달/NNG 1
 심지어/MAG 149
 계서야담/NNP 3
@@ -69467,7 +70185,6 @@ HIV/SL 3
 금줄/NNG 24
 但不織章數/SH 2
 부세대/NNG 1
-에세이집/NNG 1
 위안부/NNG 12
 접신/NNG 1
 광디스크/NNG 1
@@ -69528,6 +70245,7 @@ Alexander/SL 4
 ㅂ시오/EC 17
 마그나/NNG 1
 6870/SN 1
+트리시스/NNG 1
 ㅂ시오/EF 72
 are/SL 5
 국제민간항공기구/NNP 3
@@ -69543,6 +70261,7 @@ are/SL 5
 族下/SH 1
 멀리곰/MAG 1
 당나귀/NNG 6
+MAJ/NNP 2
 란답/NNP 1
 Rotionalization/SL 1
 吊詩/SH 1
@@ -69590,7 +70309,7 @@ Encyclop/SL 3
 교통지옥/NNG 3
 청년기/NNG 9
 치사봉조하/NNG 1
-뾰족집/NNG 1
+JKB/JX 362
 안심중학/NNP 1
 분파/NNG 13
 기언/NNP 1
@@ -69694,7 +70413,7 @@ Multilateral/SL 1
 라뇨/EF 1
 잔혹/NNG 16
 마진/NNG 23
-Keper/SL 1
+연합고사/NNG 2
 엊저녁/NNG 1
 경리증/NNG 1
 느리/VA 48
@@ -69742,7 +70461,7 @@ Monod/SL 1
 괜스리/MAG 1
 치맛자락/NNG 1
 wissenschaftlichen/SL 1
-라스칼라좌/NNP 1
+訓民敎化/SH 2
 引火/SH 1
 위암/NNG 17
 뎃끼/IC 2
@@ -69795,11 +70514,12 @@ median/SL 1
 國有玄妙之道曰風流/SH 1
 初立約時/SH 3
 는디요/EF 1
+酉年/SH 1
 수치감/NNG 1
 수산업/NNG 5
 풍류/NNG 22
 조루/NNG 2
-전동성당/NNP 4
+신참/NNG 8
 시라/EC 1
 공염불/NNG 3
 TOYSTORY/SL 1
@@ -69840,6 +70560,7 @@ Pneuma/SL 1
 담양읍/NNP 1
 치의예/NNG 3
 참치/NNG 3
+交通事故/SH 1
 배낭족/NNG 4
 쫒기/VV 1
 짱박/VV 1
@@ -69922,6 +70643,7 @@ vision/SL 1
 재분배/NNG 1
 始末/SH 1
 굴곡지/VA 1
+SP/MM 6
 후토모/NNP 1
 두어/MM 53
 걸왕/NNP 1
@@ -69954,7 +70676,7 @@ vision/SL 1
 사단장/NNG 5
 713/SN 1
 表/SH 13
-지루/NNG 3
+SL/NR 8
 현양/NNG 16
 常委/SH 2
 데스크탑/NNG 1
@@ -69993,6 +70715,7 @@ price/SL 1
 그림엽서/NNG 4
 忠愍公/SH 3
 구애곡/NNG 1
+차밍/NNG 1
 월명사/NNP 4
 추키/VV 7
 곧/VA 13
@@ -70040,7 +70763,7 @@ Foundation/SL 1
 농장원/NNG 2
 勵行/SH 1
 조어도/NNP 7
-勉學/SH 1
+SN/SF 6017
 標集/SH 1
 목적의식/NNG 4
 손자병법/NNP 1
@@ -70062,7 +70785,7 @@ just/SL 1
 Servant/SL 1
 1825/SN 1
 서울시장/NNG 1
-자치기/NNG 2
+파인애플/NNG 1
 宗主國/SH 2
 金大問/SH 1
 흘겨보/VV 1
@@ -70089,6 +70812,7 @@ Servant/SL 1
 能和紐里/SH 1
 脣齒之勢/SH 1
 2100/SN 3
+comparative/SL 1
 의견/NNG 286
 폭파범/NNG 2
 뒷골/NNG 2
@@ -70100,6 +70824,7 @@ Servant/SL 1
 진영읍/NNP 4
 대하소설/NNG 5
 취급자/NNG 1
+當不憚其勞也其二曰有凶事則弔之謂死喪水火之類災之小者則同約以書弔之/SH 1
 여전/XR 46
 싱그럽/VA 13
 은숙이/NNP 2
@@ -70140,6 +70865,7 @@ Space/SL 2
 夫婦無別/SH 1
 나바위/NNP 12
 Dirac/SL 1
+生員會試/SH 1
 타이거/NNP 1
 사오정/NNP 3
 조오현/NNP 1
@@ -70299,7 +71025,7 @@ NBC/SL 9
 주재/NNG 102
 실험실/NNG 32
 번복/NNG 10
-집체/NNG 6
+造詣/SH 1
 天津/SH 1
 호전/NNG 31
 지급/NNG 246
@@ -70392,6 +71118,7 @@ mathematical/SL 1
 活貧黨/SH 1
 야리끼리/NNG 5
 情報/SH 12
+VV/IC 3
 市場狀況/SH 1
 박용이/NNP 1
 판도라/NNG 2
@@ -70496,6 +71223,7 @@ Gross/SL 1
 얼음낚시/NNG 8
 도화락지/NNG 2
 손윗사람/NNG 7
+흐물거리/VV 1
 송도비치호텔/NNP 1
 대진공/NNG 1
 세브란스병원/NNP 5
@@ -70507,6 +71235,7 @@ Spearman/SL 2
 폭/MAG 4
 雇傭構造/SH 1
 異見/SH 3
+簡易/SH 1
 交叉/SH 1
 조정수/NNG 1
 상포계/NNG 1
@@ -70549,6 +71278,7 @@ organization/SL 1
 밤낮/NNG 10
 支給不能狀態/SH 2
 시나위/NNG 4
+비제바노/NNP 1
 법시사/NNP 1
 기럽/VA 2
 百世不遷/SH 1
@@ -70649,6 +71379,7 @@ Hobbes/SL 1
 대책/NNG 500
 다다요시/NNP 1
 市場不安心理/SH 1
+헌팅턴/NNP 2
 나뭇가쟁이/NNG 1
 목표물/NNG 1
 땜시/MAG 1
@@ -70744,6 +71475,7 @@ Xhosa/SL 1
 합의금/NNG 2
 벤저민/NNP 2
 고려회화/NNP 1
+하고하/VA 1
 cannot/SL 1
 사조/NNG 41
 구세대비/NNG 1
@@ -70834,6 +71566,7 @@ understanding/SL 1
 두렁이/NNG 1
 於會日衆中告之/SH 1
 비관주의/NNG 2
+JKG/JX 403
 청구/NNG 88
 草衣/SH 1
 Life/SL 3
@@ -70926,6 +71659,7 @@ bond/SL 1
 Newtonian/SL 2
 새내기/NNG 2
 길라잡이/NNG 3
+SL/XPN 8
 藝專/SH 1
 외삼촌/NNG 14
 외도/NNG 10
@@ -70962,6 +71696,7 @@ NAFTA/SL 11
 가운뎃자리/NNG 2
 쳐들어오/VV 14
 세밀/XR 16
+明陵/SH 1
 忠誠/SH 1
 무진장/NNG 1
 만주말/NNG 1
@@ -71031,6 +71766,7 @@ NSF/SL 1
 패배/NNG 64
 패전/NNG 22
 [/SS 8625
+VV/SN 1
 羹左飯右/SH 1
 낭인/NNG 5
 청원/NNG 18
@@ -71039,7 +71775,7 @@ NSF/SL 1
 순조/NNG 25
 아이러니컬/XR 2
 自覺/SH 2
-山林/SH 5
+응급조치/NNG 5
 코바/NNP 1
 오끼나와/NNP 1
 서울은행/NNP 17
@@ -71159,7 +71895,7 @@ Almond/SL 1
 아나운서/NNG 16
 곽윤선/NNP 1
 公器/SH 3
-도문/NNP 6
+커뮤니티/NNG 2
 처치법/NNG 1
 중개업/NNG 5
 또박/MAG 1
@@ -71196,6 +71932,7 @@ Almond/SL 1
 색원/NNG 2
 영선계/NNP 7
 정욕/NNG 4
+성좌/NNG 1
 밑그림/NNG 4
 아가씨/NNG 97
 을게요/EF 3
@@ -71270,10 +72007,12 @@ NET/SL 1
 시설/NNG 378
 덕수/NNP 1
 단편집/NNG 5
+魚叔權/SH 2
 죄명/NNG 4
 민물고기/NNG 8
 辨事/SH 2
 마산상업학교/NNP 1
+EC/NP 1
 페와탈/NNP 1
 작업량/NNG 1
 보게또/NNG 1
@@ -71444,13 +72183,13 @@ VOU/SL 1
 심층/NNG 22
 負債比率/SH 2
 마나/NNP 1
-정경숙/NNP 1
+ETM/VCN 957
 지물포/NNG 1
 다던데/EF 4
 개그맨/NNG 6
 회/NNB 546
 한국노동교육원/NNP 1
-환경학/NNG 1
+ETM/VCP 16928
 회/NNG 23
 대성위/NNG 1
 전체주의/NNG 2
@@ -71514,7 +72253,7 @@ YTN/SL 2
 일생일대/NNG 1
 숙모/NNG 38
 九雲夢/SH 1
-지시/NNG 227
+시구/NNG 28
 싹트/VV 23
 無許可/SH 1
 광고사/NNG 1
@@ -71522,6 +72261,7 @@ YTN/SL 2
 엑스란/NNG 1
 성악/NNG 8
 엑스터시/NNG 1
+환경학/NNG 1
 입신/NNG 14
 골목대장/NNG 3
 저급/NNG 6
@@ -71551,7 +72291,7 @@ YTN/SL 2
 七祀/SH 1
 천호동문화센터/NNP 1
 배갈/NNG 10
-중창/NNG 12
+XPN/$ 6830
 책벌레/NNG 2
 서명/NNG 68
 서석재/NNP 1
@@ -71575,7 +72315,7 @@ YTN/SL 2
 良月/SH 1
 454/SN 1
 살며시/MAG 8
-찬장/NNG 7
+라인/NNG 41
 독립파/NNG 1
 亞賚/SH 1
 客主制度/SH 1
@@ -71637,7 +72377,7 @@ Virtuosi/SL 1
 韓國住宅銀行法/SH 1
 비장감/NNG 1
 방택/NNG 1
-직업병/NNG 3
+SF/NNP 244
 描金上有金鉤/SH 1
 포어그라운드/NNG 1
 잘근잘근/MAG 1
@@ -71651,6 +72391,7 @@ Virtuosi/SL 1
 고려전/NNP 3
 강변/NNG 44
 공가/NNG 1
+SF/NNB 524
 울화통/NNG 3
 착잡/XR 28
 크르트/NNP 1
@@ -71688,6 +72429,7 @@ Kintsch/SL 1
 영업시간/NNG 8
 박태준/NNP 3
 하나/NR 2020
+VA/SO 1
 두광족예/NNG 1
 반죽/NNG 8
 1682/SN 1
@@ -71745,7 +72487,7 @@ Affairs/SL 1
 투석전/NNG 2
 四川/SH 1
 협찬금/NNG 5
-강우혁/NNP 3
+교사진/NNG 1
 새침/NNG 4
 안태옥/NNP 1
 세자르/NNP 1
@@ -71760,6 +72502,7 @@ Affairs/SL 1
 봉숭아/NNG 1
 殺草劑/SH 1
 예장지/NNG 1
+애잔/XR 2
 노총/NNP 3
 든동/EC 1
 옥수수기름/NNG 1
@@ -71887,7 +72630,7 @@ employment/SL 1
 귀금속/NNG 7
 거금/NNG 5
 이로간성/NNG 1
-1511/SN 1
+VV/JKS 7
 토지개발공사/NNP 1
 창비사/NNP 1
 잇/NNG 3
@@ -71896,14 +72639,15 @@ employment/SL 1
 허위/NNG 46
 싸리문/NNG 1
 임균/NNG 3
-秋監記/SH 1
+VV/JKB 29
+VV/JKC 3
 나가사키/NNP 1
 저작물/NNG 2
 엔터/NNG 1
 교통/NNG 193
 한국잡지학회/NNP 2
 대동문/NNG 1
-민물/NNG 7
+VV/JKO 19
 한군데/NNG 7
 序/SH 1
 悔改/SH 1
@@ -71930,7 +72674,7 @@ City/SL 1
 빈지/NNG 1
 화류/NNG 4
 統治行爲/SH 1
-환지/NNG 1
+우/EC 5
 헌혈/NNG 8
 시커멓/VA 18
 金聖佑/SH 1
@@ -71968,6 +72712,7 @@ limousines/SL 1
 목석/NNG 1
 好勝癖/SH 1
 기성회/NNG 10
+NNB/XSN 608
 려니/EF 1
 포석/NNG 22
 不信/SH 7
@@ -71989,6 +72734,7 @@ etical/SL 1
 아등바등/MAG 2
 상청/NNG 2
 江淸/SH 1
+JFK/SL 1
 모라나/VV 1
 金融關係法律/SH 3
 로되/EC 1
@@ -72017,7 +72763,7 @@ Volks/SL 1
 義氣之所發謂大勇/SH 1
 細部/SH 1
 섹서폰/NNG 1
-或主人有倦色/SH 1
+JKO/XR 13
 창업자/NNG 10
 아웅산/NNP 4
 강좌/NNG 46
@@ -72052,6 +72798,7 @@ PUT/SL 1
 동렬/NNG 2
 이것저것/NNG 30
 Aquinas/SL 2
+JKS/MAG 5
 留意/SH 2
 Eibesfeldt/SL 1
 則主人棺而半拜以答之退則主人送于階下/SH 1
@@ -72243,6 +72990,7 @@ OCA/SL 4
 남녀유별/NNG 4
 머튼/NNP 16
 산들거리/VV 1
+569/SN 1
 싹싹/MAG 3
 餉而請留/SH 1
 박찬우/NNP 2
@@ -72634,7 +73382,7 @@ inappro/SL 1
 프리젠테이션/NNG 1
 雙花店/SH 1
 긴급히/MAG 1
-介入/SH 1
+춘풍/NNG 3
 ㄹ래나/EC 1
 PBC/SL 11
 宣聖殿/SH 1
@@ -72658,6 +73406,7 @@ SimCity/SL 1
 主文/SH 1
 동남/NNG 4
 防止協定/SH 1
+권태감/NNG 1
 코닥/NNP 1
 종합대/NNG 2
 채이/VV 8
@@ -72692,8 +73441,8 @@ Orthodox/SL 1
 滿殿春別詞/SH 1
 동덕여대/NNP 3
 仲介/SH 1
+흥망사/NNG 1
 1820/SN 1
-이봉동/NNP 2
 푸르/VA 99
 얕잡/VV 1
 영수일/NNG 1
@@ -72707,7 +73456,7 @@ Orthodox/SL 1
 보형물/NNG 9
 왈가왈부/NNG 9
 앙가주망/NNG 1
-方學世/SH 1
+주어/NNG 3
 최대어/NNG 1
 개혁특위/NNG 1
 집문당/NNP 2
@@ -72717,7 +73466,7 @@ Orthodox/SL 1
 전남대/NNP 3
 감청/NNG 48
 김보록/NNP 1
-中丁日/SH 1
+음주례/NNG 1
 僧/SH 2
 떼/VV 161
 공직/NNG 70
@@ -72725,7 +73474,7 @@ Orthodox/SL 1
 으련다/EF 1
 곰팡이/NNG 7
 劉少奇/SH 6
-비동기/NNG 1
+커머스지/NNP 1
 증병/NNG 1
 枝棄/SH 2
 선전장/NNG 1
@@ -72865,7 +73614,7 @@ Player/SL 1
 人本/SH 1
 악습/NNG 5
 풍류황권/NNP 1
-빼빼/NNG 2
+SL/SO 8
 기독교/NNG 113
 빈틈없이/MAG 4
 人生論/SH 1
@@ -72938,7 +73687,7 @@ System/SL 12
 自動車販賣/SH 4
 優先順位/SH 1
 本色綠/SH 3
-안정제/NNG 1
+SW/ETN 4
 행정가/NNG 18
 하닥하닥/MAG 1
 된서리/NNG 5
@@ -72964,7 +73713,7 @@ System/SL 12
 에스트릴론/NNP 1
 친밀히/MAG 1
 성구/NNG 1
-알타이족/NNP 1
+SL/SW 103
 배신/NNG 17
 분재기/NNG 3
 선교부/NNG 1
@@ -73058,7 +73807,7 @@ absolute/SL 2
 더미/NNG 12
 아꼬/NNG 2
 시삼촌/NNG 3
-대자보/NNG 1
+과분/XR 5
 연착륙/NNG 12
 원활/NNG 41
 祥/SH 1
@@ -73070,8 +73819,10 @@ absolute/SL 2
 三抄飯/SH 1
 선성/NNG 1
 伯夷/SH 1
+SE/ETM 33
+XSV/NR 2
 崔致遠/SH 2
-그레/NNG 1
+XSV/NP 2
 64/SN 49
 아마존강/NNP 1
 슬라브/NNP 11
@@ -73119,7 +73870,7 @@ texas/SL 1
 원풍어적일성장/NNG 1
 으나/EF 1
 울주/NNP 1
-안면/NNG 21
+40/SN 426
 매일/NNG 31
 인터뷰/NNG 41
 황명걸/NNP 2
@@ -73132,6 +73883,7 @@ texas/SL 1
 Soo/SL 1
 Kid/SL 1
 官澤喜一/SH 1
+JX/ETN 3914
 투신자살/NNG 2
 主人許則立而受之/SH 1
 간기/NNG 1
@@ -73194,7 +73946,7 @@ langue/SL 1
 양성자/NNG 5
 은병정사학규/NNP 1
 조명등/NNG 5
-낙상/NNG 1
+JX/IC 1
 獨立國家聯合/SH 2
 허바드/NNP 2
 蘭/SH 2
@@ -73349,7 +74101,7 @@ CAI/SL 1
 最終消費支出/SH 3
 被保險者/SH 1
 라더라/EC 1
-벗나무/NNG 1
+ETM/NR 1
 향소연/NNG 1
 서늘/XR 23
 빡빡/MAG 2
@@ -73617,7 +74369,7 @@ loathing/SL 1
 영조척/NNG 1
 태양유이/NNP 1
 七章/SH 1
-거늘/EF 1
+꺼내/VV 163
 대피/NNG 13
 머리핀/NNG 5
 풍수계/NNG 1
@@ -73637,6 +74389,7 @@ loathing/SL 1
 금역/NNG 1
 조항/NNG 75
 자화자찬/NNG 3
+SN/JX 9
 소나타/NNG 4
 시방/MAG 3
 213/SN 4
@@ -73644,6 +74397,7 @@ loathing/SL 1
 만시지탄/NNG 3
 날카롭/VA 68
 여장/NNG 3
+ETM/XSV 37570
 美協/SH 5
 두/JX 279
 설겆이/NNG 7
@@ -73655,8 +74409,10 @@ loathing/SL 1
 기사도/NNG 1
 亞獻/SH 4
 UNEXSO/SL 1
+SN/JC 1
 및/MAG 1
 장숙란/NNP 1
+ETM/XSA 19137
 관심사/NNG 69
 謂少於己二十歲以下者年雖幼少而若是有德位可尊之人/SH 1
 對野/SH 2
@@ -73676,6 +74432,7 @@ UNEXSO/SL 1
 從犯/SH 1
 諸惡莫作/SH 1
 반곡/NNG 1
+풍농/NNG 1
 직선/NNG 53
 길보아산/NNP 1
 권농/NNG 1
@@ -73694,6 +74451,7 @@ FAX/SL 2
 판정/NNG 72
 누가/NNG 3
 장의사/NNG 2
+非道營求者右件過失/SH 1
 이만저만/MAG 7
 노사정위/NNG 13
 書役/SH 1
@@ -73717,6 +74475,7 @@ FAX/SL 2
 폐회/NNG 7
 체형/NNG 7
 세익스피어/NNP 3
+VV/ETN 11
 인정서/NNG 1
 保守勢力內部/SH 1
 Athens/SL 1
@@ -73779,7 +74538,7 @@ Athens/SL 1
 툭/MAG 25
 광장동/NNP 1
 내아/NNG 1
-蔚山/SH 2
+카모나/NNP 1
 李翼俊/SH 1
 비닐론/NNG 1
 普遍性/SH 2
@@ -73853,16 +74612,17 @@ Issac/SL 1
 젖/NNG 35
 요넥스/NNP 1
 不祿/SH 1
+SP/SH 1167
 오랏줄/NNG 1
-능선/NNG 33
+SP/SL 588
 는가요/EF 6
-鐵槌/SH 1
+SP/SN 3176
 영릉/NNG 1
 사행/NNG 3
 名聲/SH 1
 임지훈/NNP 1
 김용균/NNP 1
-다비식/NNG 2
+SP/SE 29
 뒷수작/NNG 1
 포니테일/NNG 1
 영릉/NNP 1
@@ -73871,11 +74631,11 @@ Transparency/SL 1
 도덕관/NNG 2
 아야지라든가/EC 1
 그림일기/NNG 1
-신해박해/NNP 3
+SP/SP 71
 terribly/SL 1
-농대/NNG 2
+SP/SS 1791
 분판/NNG 1
-자중지란/NNG 2
+SP/SW 339
 往來/SH 1
 정해주/NNP 1
 아찔/XR 14
@@ -73904,6 +74664,7 @@ KT/SL 1
 표기법/NNG 8
 종결짓/VV 1
 白凡/SH 1
+VCP/JC 1
 조장래/NNP 1
 월드컵/NNG 35
 브레이브하트/NNP 1
@@ -73915,13 +74676,12 @@ KT/SL 1
 경비/NNG 121
 07/SN 143
 차리/VV 232
-장남/NNG 111
 수반/NNG 58
 Comte/SL 1
 지아말브라/NNP 1
 喪家具香火布席/SH 1
-勞使/SH 1
-靑丘永言/SH 1
+해행당/NNP 1
+SS/EC 4805
 정신사조/NNG 1
 싼토리/NNG 1
 차비/NNG 9
@@ -73943,6 +74703,7 @@ SPAN/SL 1
 시연/NNG 2
 始以俗禮/SH 1
 화란/NNP 6
+EC/VV 127802
 2311/SN 1
 서울과학고교/NNP 1
 문종/NNP 1
@@ -74014,7 +74775,7 @@ WWW/SL 9
 217/SN 2
 圖譜/SH 1
 훙/NNG 1
-이진우/NNP 1
+이/NP 5677
 성큼/MAG 12
 수주액/NNG 3
 부착/NNG 19
@@ -74042,11 +74803,12 @@ WWW/SL 9
 豫淚制/SH 1
 부르/VV 908
 졸라매/VV 12
+男左女右/SH 1
 병렬/NNG 2
 박석태/NNP 1
 타이중/NNP 1
 겉모양/NNG 4
-한국휴렛패커드/NNP 2
+이진우/NNP 1
 올라앉/VV 2
 분출/NNG 20
 헐겁/VA 2
@@ -74107,10 +74869,12 @@ Kofi/SL 1
 편충/NNG 1
 중환자실/NNG 1
 중개인/NNG 3
+의구/NNG 2
 姜太公/SH 1
 인플레이션/NNG 110
 살인/NNG 55
 가지야간/NNG 2
+NP/MM 4
 방생/NNG 3
 시원찮/VA 10
 경희의료원/NNP 4
@@ -74134,6 +74898,7 @@ massimi/SL 1
 콩쥐/NNP 1
 길이/NNG 58
 네비게이터/NNG 2
+농자천하지대본/NNG 2
 뮤니히/NNP 1
 민간기/NNG 4
 대입/NNG 21
@@ -74224,7 +74989,6 @@ boy/SL 1
 상표/NNG 24
 1886/SN 3
 종다래끼/NNG 1
-마/EF 3
 기상곡/NNG 1
 권위자/NNG 5
 門長/SH 2
@@ -74250,7 +75014,7 @@ Pappus/SL 1
 局/SH 2
 입산/NNG 8
 항응고제/NNG 3
-쌍끌이/NNG 5
+EC/VA 19974
 수억/NR 12
 지까마쓰/NNP 1
 孟夏/SH 1
@@ -74266,6 +75030,7 @@ Pappus/SL 1
 적자국/NNG 2
 그토록/MAG 63
 처고모/NNG 1
+EC/VX 21648
 singapore/SL 1
 아물/VV 9
 技術/SH 3
@@ -74277,6 +75042,7 @@ singapore/SL 1
 수임비/NNG 1
 건네/VV 53
 전북환경운동연합/NNP 1
+타입/NNG 12
 냉풍기/NNG 1
 완공/NNG 41
 착상/NNG 21
@@ -74289,6 +75055,7 @@ reserve/SL 1
 1917/SN 6
 서귀포시/NNP 2
 키틴질/NNG 1
+잎자루/NNG 1
 재편성/NNG 1
 종시동생/NNG 2
 진도/NNG 10
@@ -74311,7 +75078,7 @@ achieved/SL 1
 유다야/NNP 1
 녹아도/NNP 1
 現代人/SH 2
-정확히/MAG 79
+내/VV 1063
 야단법석/NNG 9
 서불과차/NNG 1
 국제통화기금/NNP 18
@@ -74347,6 +75114,7 @@ thinking/SL 4
 부서지/VV 23
 솟아오르/VV 12
 면역성/NNG 1
+SS/XSN 908
 구태의연/XR 11
 충정왕/NNP 2
 달음질치/VV 3
@@ -74357,6 +75125,7 @@ thinking/SL 4
 同行/SH 2
 젠장/IC 2
 惡用/SH 1
+강연회/NNG 15
 Sozialwissenschaft/SL 1
 國運次元/SH 1
 고조선/NNP 12
@@ -74380,6 +75149,7 @@ Sozialwissenschaft/SL 1
 제품력/NNG 1
 청구시초/NNP 1
 비숍/NNP 1
+禮先聖先師畢/SH 1
 主人親執酒注/SH 1
 色掌別檢勿論良賤擇勤幹向善者爲之/SH 1
 괴색/NNG 1
@@ -74447,7 +75217,7 @@ homeostasis/SL 1
 그래슬리/NNP 2
 齊衰三年/SH 1
 원지점/NNG 7
-항차/NNG 1
+제일초/NNP 1
 冠上/SH 1
 노래말/NNG 1
 mail/SL 1
@@ -74567,6 +75337,7 @@ CBS/SL 12
 스펙터/NNP 1
 역사박물관/NNG 1
 부산지법/NNP 1
+慶禮/SH 1
 자막/NNG 9
 교정보/VV 1
 소멸/NNG 60
@@ -74698,7 +75469,7 @@ Wolf/SL 1
 통틀/VV 17
 금압/NNG 1
 색감/NNG 2
-祝焚祝/SH 1
+지성소/NNG 2
 수송량/NNG 1
 김명윤/NNP 3
 義臺/SH 1
@@ -74844,6 +75615,7 @@ demiurge/SL 1
 강인/NNG 1
 도발자/NNG 1
 남방초목상/NNP 1
+1209/SN 1
 김동강/NNP 1
 고단/XR 19
 부얼부얼/MAG 2
@@ -74864,6 +75636,7 @@ fit/SL 1
 熱病/SH 1
 으니까요/EF 14
 아쉐라/NNP 2
+XSN/XR 1718
 항성/NNG 10
 수정사/NNP 1
 송훈석/NNP 1
@@ -74876,6 +75649,8 @@ fit/SL 1
 유남기/NNP 2
 기자수첩/NNP 1
 그자/NP 5
+밀거래/NNG 2
+적적/XR 1
 땅바닥/NNG 18
 펜타곤/NNP 1
 增加/SH 4
@@ -74899,6 +75674,7 @@ Shockwave/SL 1
 이사야/NNP 3
 자각자/NNG 1
 金剛三昧經論/SH 2
+王后/SH 1
 經濟統計室/SH 1
 避亂時節/SH 1
 Awoonor/SL 1
@@ -74948,6 +75724,7 @@ EEZ/SL 10
 들들/MAG 1
 미국제/NNG 1
 까먹/VV 3
+SL/ETM 3
 수줍어하/VV 2
 다는군/EF 1
 尹吉重/SH 1
@@ -75088,6 +75865,7 @@ bride/SL 1
 책과벗/NNP 1
 iTV/SL 1
 기성인/NNG 1
+幼順/SH 1
 筐鑒/SH 2
 法體系上/SH 1
 市場規律/SH 2
@@ -75131,7 +75909,7 @@ effect/SL 2
 外部/SH 3
 正服/SH 1
 서장동/NNP 1
-사인물/NNG 1
+驚天動地/SH 1
 venedetti/SL 1
 火/SH 11
 본말/NNG 9
@@ -75261,7 +76039,7 @@ convergence/SL 1
 외야/NNG 3
 양육비/NNG 6
 수원인민학교/NNP 1
-체/NNG 32
+命運/SH 4
 Services/SL 1
 현진건/NNP 1
 박물지/NNP 1
@@ -75358,6 +76136,7 @@ lost/SL 1
 모권/NNG 1
 제로/NNG 17
 협곡/NNG 3
+멤바/NNG 8
 둥굴/VA 1
 임하부인/NNP 1
 진속/NNG 8
@@ -75390,6 +76169,7 @@ comprehensive/SL 1
 調査/SH 1
 각종/NNG 459
 연날리기/NNG 2
+越線/SH 2
 얼씨구나/IC 6
 掛書/SH 1
 通方外/SH 1
@@ -75411,6 +76191,7 @@ Swiss/SL 4
 不遷位/SH 1
 은지고/EF 1
 박봉/NNG 5
+벗나무/NNG 1
 여야/NNG 284
 성하/NNG 1
 낌새/NNG 8
@@ -75424,13 +76205,14 @@ reinen/SL 2
 재종조부/NNG 1
 실소/NNG 2
 동주갤러리/NNP 1
-節名/SH 1
+JKG/ETN 81
 檢察史/SH 1
 중견/NNG 40
 同一律/SH 1
 스포트라이트/NNG 3
 팝송/NNG 7
 내내/NNG 2
+비동기/NNG 1
 합성수지/NNG 2
 자강도/NNP 1
 企業間/SH 2
@@ -75516,7 +76298,7 @@ I/SL 132
 중위/NNG 4
 뒷골목/NNG 20
 集村/SH 1
-전국부장/NNG 1
+EF/NNB 3
 기병대/NNG 1
 감록파/NNP 1
 천주교회사/NNG 2
@@ -75660,10 +76442,11 @@ Real/SL 5
 全季祚/SH 1
 취학/NNG 6
 친빈/NNG 1
+검사소장/NNG 1
 적나라/XR 16
 위장병/NNG 1
 預金支給準備金/SH 1
-둔치/NNG 1
+SS/$ 29196
 범수/NNP 18
 엊그제/NNG 35
 모래알/NNG 3
@@ -75711,6 +76494,7 @@ GM/SL 4
 강요받/VV 3
 황동규/NNP 1
 上限線/SH 1
+수녀원/NNG 5
 債權國/SH 2
 조류/NNG 33
 더니만/EF 1
@@ -76102,7 +76886,7 @@ nothing/SL 1
 액씨/NNG 1
 유입/NNG 96
 차도르/NNG 1
-李昌馥/SH 2
+이발관/NNG 8
 厚紙/SH 1
 샌프란시스코만/NNP 1
 수사본부/NNG 23
@@ -76118,6 +76902,7 @@ nothing/SL 1
 원시/NNG 52
 classificatory/SL 1
 끈적거리/VV 2
+SPF/SL 1
 웅변술/NNG 1
 죽여주/VV 1
 채규철/NNP 1
@@ -76219,6 +77004,7 @@ Tic/SL 1
 휘메나이토스/NNP 3
 民主化時代/SH 1
 삼척/NNG 1
+Ticknor/SL 1
 꾸벅꾸벅/MAG 1
 한림학교/NNP 1
 高度計/SH 1
@@ -76244,7 +77030,7 @@ January/SL 3
 만공/NNP 2
 금하/NNG 1
 그럼/MAG 1
-패닉/NNP 1
+화젯거리/NNG 1
 그럼/MAJ 209
 거액/NNG 62
 刷子/SH 2
@@ -76312,7 +77098,9 @@ Gebilde/SL 1
 단짝/NNG 7
 김민석/NNP 1
 원단/NNG 8
+SE/NP 16
 집권자/NNG 4
+SE/NR 5
 견마기/NNG 1
 무이부조/NNG 1
 新人材論/SH 1
@@ -76343,7 +77131,7 @@ del/SL 3
 首奴/SH 1
 매끈/XR 8
 人體/SH 1
-연희동/NNP 7
+겸전/NNG 1
 현지인/NNG 3
 공공선/NNG 1
 右接物之要/SH 1
@@ -76455,7 +77243,7 @@ shortage/SL 1
 최석균/NNP 2
 청주충북체육관/NNP 1
 미오/NNP 6
-齊整然後/SH 1
+XSV/ETN 8
 原作/SH 1
 다오/EF 1
 reinforcement/SL 1
@@ -76467,9 +77255,9 @@ guests/SL 1
 각양/NNG 1
 꺼멓/VA 2
 애지중지/MAG 7
-公選/SH 1
+EF 114064
 척화비/NNG 1
-事前承認/SH 1
+EC 259721
 古墓而不墳/SH 1
 1997/SN 176
 중환자/NNG 8
@@ -76478,6 +77266,7 @@ guests/SL 1
 늘이/VV 10
 探究/SH 1
 大長征/SH 1
+EP 73694
 석이/VV 1
 기기업/NNG 3
 外孫女/SH 3
@@ -76518,7 +77307,7 @@ patronage/SL 1
 테프/NNP 1
 알츠하이머병/NNG 1
 달불음/NNG 1
-異論/SH 1
+視聽者/SH 2
 잠재우/VV 23
 콘/NNG 1
 다아/MAG 1
@@ -76649,7 +77438,7 @@ cause/SL 1
 관립/NNG 1
 목줄기/NNG 1
 칼질/NNG 1
-試券/SH 4
+謝則惟所服凡尊者長者或往少者幼者之家/SH 1
 탄자니아/NNP 1
 장상태/NNP 1
 엄격히/MAG 43
@@ -76659,7 +77448,7 @@ cause/SL 1
 불경/NNP 1
 念起卽覺/SH 1
 휘모리/NNG 2
-야마노우찌/NNP 2
+EF/SE 1
 Digitalized/SL 1
 Read/SL 3
 金東河/SH 1
@@ -76734,6 +77523,7 @@ Etzioni/SL 1
 어렴풋이/MAG 15
 경남고/NNP 1
 현저히/MAG 25
+EC/VCP 18778
 김영랑/NNP 2
 AFL/SL 1
 以約文鸚示同志/SH 1
@@ -76746,6 +77536,7 @@ AFL/SL 1
 class/SL 1
 재임명/NNG 1
 생물종/NNG 1
+EC/VCN 3217
 爲幅七/SH 1
 相與推擧其能者/SH 1
 右/SH 2
@@ -76773,7 +77564,7 @@ class/SL 1
 아로새기/VV 3
 안덕면/NNP 1
 옥상/NNG 17
-洞契收租錄/SH 1
+마쿠하리/NNP 1
 선술집/NNG 3
 챔피언/NNG 8
 대번에/MAG 5
@@ -76799,7 +77590,7 @@ Pankove/SL 1
 주전부리/NNG 1
 省察/SH 4
 가시리/NNP 4
-임산부/NNG 8
+MAG/JKB 9
 척신/NNG 1
 참석/NNG 232
 문종비/NNP 1
@@ -76814,6 +77605,7 @@ Pankove/SL 1
 이야깃거리/NNG 4
 炳/SH 1
 돼지기름/NNG 2
+MAG/JKS 1
 선거인단/NNG 9
 귀래리/NNP 1
 화맥/NNG 2
@@ -76826,9 +77618,10 @@ Pankove/SL 1
 유비/NNG 2
 과/XPN 36
 엘지/NNP 1
+NNP/JC 1
 협정문/NNG 1
 原資材上昇/SH 1
-중상류/NNG 4
+SS/MM 10
 인지상정/NNG 3
 iworld/SL 1
 협살/NNG 5
@@ -77421,10 +78214,12 @@ vote/SL 1
 날치기/NNG 18
 견고/XR 4
 死守/SH 1
-제설/NNG 2
+어이없/VA 27
 깐수/NNP 2
 武經七書/SH 1
 이조수리사연구/NNP 1
+씨대궁이/NNG 1
+行政便宜/SH 1
 고희/NNG 6
 장보기/NNG 1
 그란테/NNP 4
@@ -77656,7 +78451,7 @@ dpi/SL 2
 자느니/EC 2
 능력급/NNG 1
 약리학/NNG 1
-투르/NNP 1
+EC/EP 18220
 産業/SH 5
 pa/SL 4
 漆竹絲爲圓匡/SH 2
@@ -77709,7 +78504,7 @@ UV/SL 1
 엔지니어/NNG 5
 令人氣急不安/SH 1
 상오/NNG 18
-安息年制/SH 1
+53/SN 55
 척학/NNG 1
 들어오/VV 586
 할증/NNG 6
@@ -77749,10 +78544,10 @@ CMI/SL 3
 인텔사/NNP 7
 이양희/NNP 1
 요철/NNG 1
-내세우/VV 250
+㎖/SW 3
 實定法/SH 2
 절름거리/VV 1
-쓸데없/VA 18
+誌石/SH 5
 운동가/NNG 20
 굉음/NNG 7
 루마니아/NNP 22
@@ -77821,6 +78616,7 @@ Clinton/SL 3
 한국전/NNP 15
 혈우병/NNG 1
 신짝/NNG 1
+NNP/NR 5
 서만교/NNP 1
 청송죽/NNG 1
 축구/NNG 54
@@ -77828,6 +78624,7 @@ Clinton/SL 3
 中小型株/SH 1
 엄/NNP 1
 관료/NNG 243
+弔慰錄/SH 1
 Musashino/SL 1
 합격자/NNG 17
 전쟁놀음/NNG 1
@@ -77873,7 +78670,7 @@ Hero/SL 1
 어야지요/EC 1
 일파만파/NNG 3
 義賊/SH 1
-적당/NNG 2
+VX/NNB 42
 서기관/NNG 14
 심부/NNG 1
 코비/NNP 3
@@ -77900,6 +78697,7 @@ Hero/SL 1
 약조/NNG 1
 體質/SH 6
 양육자/NNG 1
+without/SL 1
 金東英/SH 1
 엽기/NNG 2
 국립중앙과학관/NNP 2
@@ -77957,8 +78755,9 @@ canton/SL 1
 못난이/NNG 3
 이의익/NNP 2
 底意思存諸胸中/SH 1
+325/SN 4
 SALT/SL 3
-달걀/NNG 25
+원운동/NNG 46
 광명성/NNG 2
 주년/NNB 142
 日本列島改造論/SH 1
@@ -78030,6 +78829,7 @@ Kstovo/SL 1
 총리부/NNG 1
 김일/NNP 1
 상금/NNG 20
+엔터테이너/NNG 2
 有茉施于縫中/SH 2
 언놈/NNG 1
 大和/SH 1
@@ -78045,6 +78845,7 @@ Kstovo/SL 1
 전송망/NNG 5
 이죽거리/VV 2
 누각/NNG 5
+二元引上/SH 1
 金子中/SH 1
 자각/NNG 87
 부녀회/NNG 2
@@ -78193,7 +78994,7 @@ PDA/SL 1
 희박/XR 22
 환락/NNG 2
 176/SN 2
-금융청/NNG 1
+몰아내/VV 33
 남천강변/NNP 1
 여천지무궁/NNG 1
 탑재/NNG 9
@@ -78398,7 +79199,7 @@ MSN/SL 1
 하편/NNG 2
 스노/NNG 1
 벼랑/NNG 37
-움찔/XR 1
+單位/SH 2
 皆以專請者爲上客/SH 1
 쿠마르비/NNP 3
 제스/NNP 1
@@ -78411,6 +79212,7 @@ MSN/SL 1
 先代/SH 1
 국제경영개발연구소/NNP 1
 브라마/NNP 1
+ETM 208169
 지회/NNG 3
 覺之卽失/SH 1
 암파국어사전/NNP 1
@@ -78485,6 +79287,7 @@ Anyway/SL 1
 문준호/NNP 1
 아서요라고/EC 1
 브리태니커/NNP 4
+청운/NNG 2
 Paradigm/SL 1
 수프/NNG 12
 어지간히/MAG 16
@@ -78516,7 +79319,7 @@ Paradigm/SL 1
 FMS/SL 1
 대립/NNG 148
 갈보/NNG 3
-기성회비/NNG 20
+진용/NNG 10
 롱쇼트/NNG 1
 볼룸/NNG 2
 786/SN 2
@@ -78525,7 +79328,7 @@ FMS/SL 1
 미용인/NNG 3
 보라매공원/NNP 1
 ego/SL 2
-원화/NNG 87
+대원군/NNP 10
 백일/NNG 36
 對開途國/SH 10
 齋/SH 3
@@ -78565,6 +79368,7 @@ ventromedial/SL 1
 總投資金額/SH 1
 으젓히/MAG 1
 신장/NNG 63
+블라우/NNP 2
 미닫이/NNG 2
 공립학교/NNG 4
 check/SL 4
@@ -78644,7 +79448,7 @@ Exformation/SL 1
 아나/IC 1
 보드가야/NNP 3
 울뜨레야/NNP 2
-으라네/EF 1
+VCP/SE 2
 균열/NNG 20
 두자릿수/NNG 2
 뺀뺀이/NNP 5
@@ -78694,6 +79498,7 @@ III/SL 2
 챙/NNG 2
 상하/VV 57
 모제/NNG 2
+SH/XPN 1
 시오/NR 1
 흑송/NNG 1
 대동신협/NNG 1
@@ -78714,7 +79519,7 @@ III/SL 2
 선점/NNG 11
 딱/MAG 67
 애송이/NNG 1
-816/SN 1
+家計信用/SH 9
 라마/NNP 18
 亦軍派/SH 1
 깸술/NNG 1
@@ -78769,6 +79574,7 @@ centripetal/SL 1
 송희석/NNP 7
 판매원/NNG 8
 어물거리/VV 1
+여승무원/NNG 1
 요다음/NNG 3
 上場株式/SH 1
 직녀/NNP 1
@@ -78792,12 +79598,14 @@ Neo/SL 2
 훨씬/MAG 352
 자락/NNG 13
 박복/NNG 1
-흑산도/NNP 4
+立於卓東西向/SH 1
 운동체/NNG 1
-모방/NNG 58
+간첩/NNG 54
 딱하/VA 42
 성리/NNG 1
-병창/NNG 3
+진인/NNG 18
+몰아대/VV 3
+역불급/NNG 1
 이종민/NNP 2
 운전대/NNG 4
 SRRS/SL 3
@@ -78881,7 +79689,7 @@ SRRS/SL 3
 상프렝/NNP 1
 추진비/NNG 1
 retrieval/SL 1
-年前/SH 1
+내보내/VV 69
 고서점/NNG 2
 부녀/NNG 19
 토양/NNG 16
@@ -78892,7 +79700,7 @@ retrieval/SL 1
 早期開放計劃/SH 1
 有感/SH 1
 종로구청/NNP 4
-신두희/NNP 1
+VCP/SH 607
 정치국원/NNG 10
 한국유흥업중앙회/NNP 1
 새만금항/NNP 1
@@ -78908,7 +79716,7 @@ retrieval/SL 1
 사잣밥/NNG 4
 實物部門/SH 1
 덜컥/MAG 15
-忍冬草/SH 1
+SE/SN 11
 김부식이/NNP 1
 祖室/SH 1
 진정/NNG 94
@@ -78921,12 +79729,13 @@ needs/SL 1
 생일잔치/NNG 8
 이생규장전/NNP 4
 콩밭/NNG 4
+페소화/NNG 1
 렌트/NNG 1
 故人/SH 2
 당관/NNG 1
 중소기업자/NNG 4
 짝숭이/NNG 4
-論農政疏/SH 1
+193/SN 3
 찡/MAG 13
 이용물/NNG 1
 산법소녀/NNP 1
@@ -78998,7 +79807,7 @@ exhaustion/SL 1
 촌촌이/MAG 1
 초판/NNG 4
 이우재/NNP 3
-財貨總價額/SH 1
+EC/XsV 1
 명경/NNG 4
 무용사/NNG 1
 떠벌이/VV 7
@@ -79175,6 +79984,7 @@ Short/SL 1
 반야심경/NNP 3
 관리비/NNG 2
 이부카이/NNP 2
+不可/SH 1
 조선사사전/NNP 1
 기아그룹/NNP 1
 엔티유/NNP 2
@@ -79192,11 +80002,11 @@ abcd/SL 1
 저승/NNG 17
 긋/VV 50
 변호사법/NNG 3
-姜醫術/SH 1
+EC/NNB 1
 전환점/NNG 15
 1517/SN 3
 Romanticism/SL 1
-크샤바루나/NNP 1
+金昌實/SH 1
 자린고비/NNG 1
 원삼/NNG 8
 이강철/NNP 1
@@ -79236,21 +80046,24 @@ Revolutionibus/SL 5
 보문못/NNP 1
 181/SN 5
 양키/NNG 10
-하일대주/NNP 1
+NR/SS 110
 화조/NNG 2
-분주소/NNG 2
+NR/SP 3
 指標植物/SH 1
 멜가방/NNG 1
 마호메트/NNP 3
 酒宴/SH 1
 外再從弟/SH 1
+NR/SF 1
 흑/NNG 11
 Fuji/SL 1
 1568/SN 1
-장원두/NNP 1
+NR/SO 3
+NR/SN 5833
 곽태원/NNP 1
 줄루족/NNP 1
 그악스럽/VA 1
+NR/SH 1
 벼루/NNG 5
 벽신문/NNG 1
 백설/NNG 2
@@ -79283,6 +80096,7 @@ Fuji/SL 1
 미대사관/NNG 1
 안감/NNG 1
 Pearlman/SL 1
+IC/SF 1
 원액/NNG 1
 奉祀條/SH 1
 멋적/VA 4
@@ -79405,7 +80219,7 @@ companionship/SL 1
 광고지/NNG 3
 삼존불/NNG 1
 실패/NNG 196
-이정혜/NNP 1
+뻑/MAG 2
 사회사업체/NNG 1
 臨時國會/SH 1
 부과장/NNG 8
@@ -79448,6 +80262,7 @@ tonight/SL 1
 創玄/SH 2
 낭비/NNG 115
 로큰롤/NNG 1
+MM/NNB 1
 從妹/SH 1
 밑바탕/NNG 13
 승가대/NNG 7
@@ -79483,7 +80298,7 @@ GUI/SL 1
 레미제라블/NNP 2
 부하/VV 2
 運航經費/SH 1
-長尺二寸/SH 1
+족쇄/NNG 10
 自己資本/SH 3
 가시줄/NNG 3
 디/NNP 1
@@ -79496,7 +80311,7 @@ GUI/SL 1
 거드름/NNG 4
 송림/NNG 4
 주문공가례/NNG 1
-민주조선/NNP 1
+NNG/XR 452
 원산역/NNP 1
 劉玄德/SH 1
 輸忠定難靖國功臣/SH 1
@@ -79508,6 +80323,7 @@ GUI/SL 1
 사후혼/NNG 7
 장세/NNG 9
 성석제/NNP 2
+MM/NNP 145
 구경꺼리/NNG 1
 높이/NNG 80
 환갑/NNG 11
@@ -79581,7 +80397,7 @@ ergon/SL 2
 開途/SH 1
 워크숍/NNG 5
 1792/SN 1
-구둣발/NNG 9
+리모컨/NNG 3
 애소/NNG 1
 해태제과/NNP 1
 장삿길/NNG 1
@@ -79606,7 +80422,7 @@ simmons/SL 1
 칼럼니스트/NNG 4
 理念問題/SH 1
 受荷/SH 1
-決算/SH 1
+ETM/EP 9555
 원망/NNG 55
 황상/NNG 2
 사쿠라은행/NNP 4
@@ -79617,6 +80433,7 @@ simmons/SL 1
 둔하/VA 10
 톡톡/MAG 5
 니다/EF 2
+ETM/EF 1
 건달패/NNG 1
 복합/NNG 101
 상벌/NNG 2
@@ -79625,7 +80442,7 @@ simmons/SL 1
 Herbert/SL 1
 수송기기/NNG 1
 생광/NNG 1
-GVU/SL 1
+改革運動/SH 2
 옥경이/NNP 1
 Academie/SL 1
 뒤틀리/VV 12
@@ -79725,8 +80542,8 @@ Hastings/SL 1
 內裏紅紬八幅單頭一件/SH 1
 충성/NNG 62
 대학생/NNG 12
-만기채/NNG 1
-비호/NNG 17
+MAG/NR 5
+JKO/JKB 42
 유들/XR 2
 卉/SH 1
 베로니카/NNP 2
@@ -79787,7 +80604,7 @@ back/SL 3
 1501/SN 4
 工産品價格/SH 3
 金/SH 105
-이미정/NNP 1
+앵글로/NNP 1
 奠祀/SH 1
 는가란/ETM 1
 則只一酌/SH 1
@@ -79808,6 +80625,7 @@ back/SL 3
 양미기/NNG 1
 실속/NNG 18
 감독자/NNG 2
+JKB/XSN 9705
 觀光開發/SH 1
 撰譯/SH 1
 三從姉/SH 1
@@ -79906,7 +80724,7 @@ Performancetest/SL 1
 대대손손/NNG 2
 대충대충/MAG 6
 하회동계/NNP 2
-SOG/SL 1
+모찌/NNG 2
 개막식/NNG 9
 외딴섬/NNG 1
 遣奠禮/SH 1
@@ -79969,6 +80787,7 @@ help/SL 2
 앨런/NNP 8
 이름자/NNG 1
 自供/SH 1
+스왑/NNG 7
 일천/NR 1
 스텐실/NNP 1
 함북/NNP 5
@@ -80120,6 +80939,7 @@ Aggression/SL 1
 다면서요/EF 4
 Fluency/SL 2
 는단다/EF 2
+SH/XSN 1
 修心訣/SH 1
 강속구/NNG 2
 흥보가/NNP 1
@@ -80144,6 +80964,7 @@ Okigbo/SL 1
 망문/NNG 1
 外叔母/SH 1
 小學/SH 4
+VCP/JKS 1
 색시/NNG 10
 폐악행선/NNG 1
 유격대원/NNG 1
@@ -80157,7 +80978,7 @@ Okigbo/SL 1
 밉순이/NNG 1
 根本/SH 1
 항공관제/NNG 1
-도첩/NNG 1
+순백/NNG 1
 이상/NNP 2
 家廟制/SH 1
 토리노/NNP 1
@@ -80167,6 +80988,7 @@ Okigbo/SL 1
 저명인사/NNG 6
 角黍/SH 1
 理論的/SH 7
+SS/XR 43
 주민세/NNG 3
 샤시/NNG 1
 諸善奉行/SH 1
@@ -80178,6 +81000,7 @@ Okigbo/SL 1
 코치/NNG 133
 뜻글자/NNG 1
 600/SN 41
+메를로/NNP 1
 호남성혁명위/NNP 1
 다락/NNG 5
 실학파/NNG 4
@@ -80189,15 +81012,17 @@ Okigbo/SL 1
 향사의/NNG 1
 多則聃布五疋米十斗/SH 1
 어형/NNG 1
+SP/XR 103
 江戶時代/SH 1
 박화숙/NNP 2
 忠烈/SH 1
-298/SN 1
+MAG/SN 2
 천호동/NNP 5
 강패/NNP 1
 정도/NNG 1652
 약탈/NNG 10
-동토/NNG 3
+MAG/SH 5
+MAG/SE 29
 털모자/NNG 3
 갑민가/NNP 1
 UCLA/SL 1
@@ -80211,9 +81036,10 @@ UCLA/SL 1
 公共/SH 3
 이국/NNG 30
 費用函數/SH 1
+MAG/SS 1209
 波珍飡/SH 1
 西北佛/SH 1
-장애우/NNG 1
+MAG/SP 3
 지청/NNG 2
 광주시/NNP 6
 영재/NNP 11
@@ -80299,7 +81125,7 @@ There/SL 2
 東學革命/SH 1
 틀어지/VV 3
 몰려다니/VV 6
-밀거래/NNG 2
+구석지/VA 2
 判斷/SH 3
 행보/NNG 5
 프레스티지/NNP 1
@@ -80353,8 +81179,9 @@ cicena/SL 1
 조무래기/NNG 2
 열녀비/NNG 1
 東洋/SH 10
-구미선망/NNG 1
+VCN/NNB 4
 경북고녀/NNP 1
+VCN/NNG 15
 남로당/NNP 4
 에디슨/NNP 1
 지새우/VV 5
@@ -80525,6 +81352,7 @@ practical/SL 1
 심장병/NNG 13
 372/SN 1
 dm/SL 1
+Somewhere/SL 1
 선험/NNG 3
 紅/SH 2
 하나은행/NNP 6
@@ -80532,7 +81360,7 @@ dm/SL 1
 시각/NNG 280
 보조/NNG 76
 조선현/NNP 1
-交通事故/SH 1
+특질/NNG 41
 향사/NNG 6
 구기자/NNG 2
 制同殿下冠/SH 1
@@ -80581,6 +81409,7 @@ dj/SL 1
 억척/NNG 5
 퍼센트/NNB 7
 김해/NNP 8
+ETN/EP 1650
 604/SN 1
 김병국/NNP 1
 고창/NNP 6
@@ -80706,6 +81535,7 @@ homo/SL 4
 용의자/NNG 6
 고보/NNG 2
 핏자국/NNG 7
+북곽/NNP 5
 macromedia/SL 2
 깎아내리/VV 3
 유심히/MAG 11
@@ -80821,7 +81651,6 @@ Opiticks/SL 1
 정신없/VA 7
 통상산업부/NNG 16
 長者爲稍長/SH 1
-김용희/NNP 5
 社會變動/SH 1
 私/SH 7
 綴以玉珠二/SH 1
@@ -80867,13 +81696,15 @@ Opiticks/SL 1
 各契/SH 3
 아랫단/NNG 4
 은근/XR 11
-규찰대/NNG 3
+캠퍼스/NNG 20
 미혼자/NNG 1
+或作嘲詠文字及發揚人之私隱/SH 1
 국조오례의/NNP 2
 기술상/NNG 3
 장항선/NNG 1
 金振興/SH 1
 농림수산품/NNG 2
+나레이션/NNG 1
 Manhattan/SL 1
 남상민/NNP 7
 と/SL 1
@@ -80891,6 +81722,7 @@ Manhattan/SL 1
 트럭/NNG 39
 좆같/VA 2
 통과/NNG 181
+IC 2224
 崔桂勳/SH 1
 급속이/MAG 1
 내신서/NNG 1
@@ -80959,6 +81791,7 @@ Frequency/SL 1
 홍이/NNP 1
 천백억화/NNG 1
 사르르/MAG 3
+자가당착/NNG 1
 山役/SH 1
 수호자/NNG 5
 갈겨니/NNG 1
@@ -80971,6 +81804,7 @@ Frequency/SL 1
 새끼손가락/NNG 2
 땡글땡글/MAG 1
 호암아트홀/NNP 4
+문중섭/NNP 2
 오르간/NNG 1
 食人/SH 2
 다니요/EF 6
@@ -80978,6 +81812,7 @@ Frequency/SL 1
 개심/NNG 2
 링/NNG 6
 슬라브족/NNP 2
+구각/NNG 2
 비추이/VV 1
 ₂/SW 2
 종자법/NNG 1
@@ -80988,6 +81823,7 @@ Frequency/SL 1
 떠맡/VV 19
 동해/NNG 2
 겨우/MAG 212
+JC/ETN 138
 샛밥/NNG 4
 대주주/NNG 2
 엘조그/NNP 1
@@ -81160,7 +81996,7 @@ VIS/SL 5
 연산면/NNP 3
 창구멍/NNG 1
 진달래꽃/NNG 12
-華/SH 131
+거치/VV 439
 유지노/NNP 1
 목적지/NNG 12
 Coleridge/SL 1
@@ -81256,6 +82092,7 @@ Arnold/SL 2
 현충사/NNP 1
 展示/SH 1
 주로/MAG 384
+先行模範/SH 1
 추켜세우/VV 6
 최청림/NNP 2
 지리/VV 1
@@ -81285,10 +82122,10 @@ Lee/SL 12
 王座/SH 1
 鄧/SH 8
 민/NNG 39
-임자/NNG 18
+XSA/NNB 1022
 장성원/NNP 1
 IMF/SL 106
-김창순/NNP 1
+XSA/NNG 9039
 雇役價/SH 1
 負擔率/SH 1
 한은/NNP 23
@@ -81296,7 +82133,7 @@ IMF/SL 106
 知者/SH 1
 herc/SL 1
 주생활/NNG 4
-四禮式/SH 1
+XSA/NNP 6
 力道中興/SH 1
 결단/NNG 85
 國是/SH 1
@@ -81334,7 +82171,7 @@ EXE/SL 2
 영장/NNG 66
 난삼/NNG 5
 정보통신위/NNG 1
-준의/NNG 1
+企業倒産/SH 1
 끓/VV 29
 대교컴퓨터/NNP 1
 신한국당/NNP 384
@@ -81396,7 +82233,7 @@ EPA/SL 1
 훠콜라레/NNP 5
 い/SL 2
 영웅시대/NNG 2
-Intimacy/SL 1
+JKC/JX 165
 양경순/NNP 1
 약소주/NNG 1
 조소/NNG 7
@@ -81486,14 +82323,15 @@ Meltzer/SL 2
 사마온/NNP 2
 랜슬러트/NNP 1
 이리/MAG 31
-진양면/NNP 1
+SF/MAG 105
 종택/NNP 1
 모임체/NNG 1
 노턴/NNP 1
 지리멸렬/NNG 2
 겨를/NNB 24
+아무쪼록/MAG 1
 製造業平均稼動率/SH 4
-주어/NNG 3
+SF/MAJ 9
 先着順/SH 1
 대기/NNG 83
 容河/SH 15
@@ -81514,7 +82352,7 @@ Meltzer/SL 2
 담헌/NNP 1
 성악가/NNG 1
 제남/NNP 1
-貨幣/SH 2
+불요불급/NNG 3
 개혁/NNG 971
 부평구/NNP 1
 損益構造/SH 1
@@ -81535,7 +82373,7 @@ www/SL 34
 평화상/NNG 5
 各村契/SH 1
 결말/NNG 22
-수학/NNG 276
+기/ETN 15762
 극심/XR 42
 사타구니/NNG 3
 황옥자/NNP 1
@@ -81598,7 +82436,7 @@ interactivity/SL 1
 심하/VA 304
 회원전/NNG 4
 費目別/SH 2
-환풍기/NNG 3
+MAJ/NNG 4
 넝마/NNG 2
 아전인수/NNG 1
 환난/NNG 1
@@ -81631,7 +82469,7 @@ Esperanto/SL 1
 을라고/EF 1
 판결/NNG 101
 쏘주/NNG 1
-박종철/NNP 3
+극락전/NNP 1
 나즉/NNG 1
 손목시계/NNG 4
 히말라야시다/NNG 1
@@ -81646,6 +82484,7 @@ elite/SL 1
 아우트/NNG 1
 신현대/NNP 1
 책꽂이/NNG 7
+NR/$ 5846
 거스러미/NNG 2
 어이/NNG 21
 변수/NNG 65
@@ -81654,6 +82493,7 @@ elite/SL 1
 재간껏/MAG 2
 펴/VV 250
 p/SL 5
+舊株取得/SH 4
 민음사/NNP 10
 call/SL 1
 Brave/SL 1
@@ -81745,7 +82585,7 @@ Edammer/SL 1
 아란불/NNG 1
 위약금/NNG 1
 덩어리/NNG 35
-커뮤니티/NNG 2
+도문/NNP 6
 운/NNG 39
 엽서/NNG 15
 밀서/NNG 2
@@ -81759,6 +82599,7 @@ Edammer/SL 1
 질그릇/NNG 4
 중앙방송/NNP 2
 단시간/NNG 2
+으려는지/EC 1
 玄衣/SH 1
 壞色棨衣/SH 1
 짤짤/MAG 1
@@ -81844,7 +82685,7 @@ principles/SL 1
 부산물/NNG 10
 세로/NNG 50
 간뗑이/NNG 1
-교사진/NNG 1
+한국군/NNG 10
 다이어트/NNG 28
 목조각/NNG 1
 頭樣大珠/SH 1
@@ -81901,6 +82742,7 @@ before/SL 3
 방위비/NNG 10
 Jenson/SL 2
 정력/NNG 13
+JX 140416
 i/SL 20
 세원/NNP 2
 두부조림/NNG 1
@@ -81914,12 +82756,13 @@ i/SL 20
 인프라/NNG 15
 이야기꽃/NNG 1
 운암동/NNP 1
-明宗/SH 1
+JKG/MAG 44
 數學/SH 3
 Technology/SL 2
+JC 25137
 후주줄/NNG 1
 韓美通商修好條約/SH 1
-端宗/SH 2
+時局觀/SH 1
 최혜국/NNG 3
 배관공/NNG 1
 프리미엄/NNG 8
@@ -81932,6 +82775,8 @@ Technology/SL 2
 오노다/NNP 1
 방책/NNG 15
 장면/NNP 6
+적당/NNG 2
+대방/NNP 1
 국무총리/NNG 36
 私喪/SH 1
 한자말/NNG 3
@@ -81961,7 +82806,7 @@ Technology/SL 2
 정도영/NNP 2
 김중진/NNP 1
 Romeo/SL 1
-男左女右/SH 1
+발병/NNG 16
 숙암/NNP 1
 짓이기/VV 3
 엇비슥/XR 1
@@ -82026,9 +82871,11 @@ Thesis/SL 2
 끄덕이/VV 56
 혜업/NNP 1
 예화/NNG 1
+SL/SL 9
 現代中國硏究中心/SH 1
-언/NNG 13
+SL/SN 101
 몰주체/NNG 1
+SL/SH 17
 테크놀로지사/NNP 1
 사과문/NNG 1
 연합회/NNG 21
@@ -82045,6 +82892,8 @@ Thesis/SL 2
 史蹟文化/SH 1
 실겅이/NNG 1
 맥박/NNG 17
+SL/SP 167
+SL/SS 2889
 미러링/NNG 1
 國民和合/SH 2
 등록세/NNG 7
@@ -82058,7 +82907,7 @@ Galaxy/SL 1
 Churches/SL 1
 時俗/SH 1
 고갈/NNG 20
-과분/XR 5
+SE/ETN 6
 연임/NNG 17
 페로/NNP 1
 큐/NNG 5
@@ -82189,6 +83038,7 @@ dong/SL 1
 ×/SW 38
 투자국/NNG 3
 237/SN 6
+손왕재/NNP 1
 Bernard/SL 1
 금외/NNG 1
 퍼지/NNG 1
@@ -82216,7 +83066,7 @@ Bernard/SL 1
 전자파/NNG 7
 T/SW 15
 겨울나/VV 2
-이종배/NNP 1
+章含元/SH 1
 분규/NNG 19
 폭약/NNG 2
 T/SL 35
@@ -82254,7 +83104,7 @@ grade/SL 1
 즐거워하/VV 10
 튜란어족/NNP 1
 諱/SH 1
-對應/SH 3
+개명/NNG 7
 不正腐敗/SH 189
 投資機關/SH 2
 움집/NNG 2
@@ -82290,13 +83140,13 @@ feeling/SL 3
 개괄/NNG 2
 책무/NNG 27
 가만히/MAG 108
-生員會試/SH 1
+압소바/NNP 1
 사마리아/NNP 2
 覽寢宴/SH 1
 政治道德/SH 1
 확실히/MAG 62
 토토리/NNP 2
-로잔/NNP 1
+鑛産品/SH 2
 景氣局面/SH 1
 서기전/NNG 1
 若賀謝/SH 1
@@ -82327,10 +83177,11 @@ core/SL 3
 이향견문록/NNP 1
 판막증/NNG 1
 수뢰/NNG 11
-박상호/NNP 1
+SS/NNG 24926
 自然/SH 3
 溪谷地方/SH 1
 산딸기/NNG 1
+SS/NNB 2349
 뾰족/MAG 16
 奸巧/SH 1
 보사부/NNG 4
@@ -82339,6 +83190,7 @@ core/SL 3
 兩角折上/SH 1
 저울/NNG 10
 상아탑/NNG 6
+SS/NNP 6631
 사유림/NNG 1
 변동/NNG 181
 漢陽/SH 2
@@ -82382,6 +83234,7 @@ netnanny/SL 2
 내처/MAG 4
 무용원/NNG 6
 이수성/NNP 11
+대한의료정보학회/NNP 1
 나쉬돔/NNP 1
 저축/NNG 141
 行刑/SH 1
@@ -82403,7 +83256,7 @@ York/SL 1
 월트/NNP 1
 특매/NNG 1
 賓旣出/SH 1
-驚天動地/SH 1
+VX/$ 57618
 늘푸른소나무/NNP 6
 溫節/SH 1
 소방차/NNG 4
@@ -82543,7 +83396,7 @@ Coleman/SL 1
 동메달/NNG 3
 기껏해야/MAG 19
 디니/NNP 2
-사글셋방/NNG 1
+수색/NNG 23
 내부/NNG 289
 슈메르의/NNP 1
 體系的/SH 1
@@ -82559,10 +83412,10 @@ Coleman/SL 1
 1392/SN 1
 을지언정/EC 10
 태백화랑/NNP 1
-이발관/NNG 8
+NR/MAJ 13
 언행/NNG 15
 펜티엄/NNG 22
-魚叔權/SH 2
+NR/MAG 1
 少避他處/SH 1
 享/SH 1
 若其他慶弔之會則臨時定日一/SH 1
@@ -82604,6 +83457,7 @@ MITS/SL 1
 부의부청/NNG 1
 마개/NNG 4
 남존여비/NNG 5
+民族統合/SH 1
 호화/NNG 44
 희배/NNP 1
 무생물/NNG 1
@@ -82639,6 +83493,7 @@ MITS/SL 1
 洪大容/SH 5
 맥도널드/NNP 1
 대롱/NNG 1
+816/SN 1
 데이비드/NNP 11
 마익셀/NNP 1
 고만/MAG 4
@@ -82698,9 +83553,11 @@ MITS/SL 1
 마르티니크/NNP 1
 김정숙/NNP 10
 신생아/NNG 13
+SE/EC 1282
 오장/NNG 3
 消費者信用制度/SH 1
 타이틀/NNG 30
+SE/EF 13
 국방색/NNG 1
 형언/NNG 4
 대질/NNG 1
@@ -82849,6 +83706,7 @@ MMF/SL 6
 도공/NNP 2
 再保險/SH 1
 적성국/NNG 1
+콩브레/NNP 1
 여인형/NNP 1
 압둘/NNP 2
 핸썸/NNG 1
@@ -82860,6 +83718,7 @@ Human/SL 1
 위당/NNP 1
 네요/EF 41
 김희라/NNP 1
+청안면/NNP 2
 이인모/NNP 12
 OO/SO 1
 폭죽/NNG 7
@@ -82951,6 +83810,7 @@ Of/SL 1
 목마르/VA 17
 램프/NNG 2
 교과서/NNG 79
+이현세/NNP 1
 비류국/NNP 2
 창구/NNG 48
 조랭이/NNG 3
@@ -82960,7 +83820,8 @@ Of/SL 1
 Homo/SL 1
 깨/VV 124
 고철/NNG 6
-진용/NNG 10
+VA/XSN 1
+기성회비/NNG 20
 현훈/NNG 2
 베팅/NNG 1
 blood/SL 1
@@ -82994,6 +83855,7 @@ Minerva/SL 1
 織翟爲章二等/SH 1
 받침/NNG 2
 Guilford/SL 9
+오날/NNG 1
 遊行/SH 1
 잡/NNG 1
 학당/NNG 5
@@ -83064,7 +83926,7 @@ le/SL 1
 구미/NNP 12
 媤從曾祖母/SH 1
 이때/NNG 299
-物價調査/SH 1
+중립국/NNG 7
 銘/SH 2
 참가치/NNG 1
 여로/NNG 5
@@ -83126,6 +83988,7 @@ edu/SL 4
 체류/NNG 56
 유흥장/NNG 1
 민방/NNG 1
+沖繩/SH 1
 Magnete/SL 1
 인유두종바이러스/NNG 2
 照會/SH 3
@@ -83144,9 +84007,11 @@ here/SL 3
 could/SL 6
 분칠/NNG 2
 유림패션카드/NNP 1
+EC/ETN 2
 친언니/NNG 1
-대간/NNG 1
+EC/ETM 3
 치치/NNP 3
+이종옥/NNP 1
 혈통주의/NNG 2
 엑스퍼츠사/NNP 1
 차분/XR 30
@@ -83180,7 +84045,7 @@ like/SL 14
 崔良業/SH 1
 融合/SH 1
 언매나/MAG 1
-정동호/NNP 1
+젖줄/NNG 4
 복지학/NNG 3
 후안/NNP 4
 한국과학재단/NNP 1
@@ -83238,8 +84103,7 @@ dei/SL 1
 게이오/NNP 1
 老人僧/SH 1
 263/SN 1
-마스터플랜/NNG 1
-훈련량/NNG 2
+크리스맨/NNP 1
 憮祭/SH 1
 본지/NNG 19
 물거품/NNG 10
@@ -83249,6 +84113,7 @@ dei/SL 1
 선전물/NNG 2
 하종화/NNP 3
 엄명/NNG 2
+善心/SH 2
 특별나/VA 1
 멜로디/NNG 6
 재종질부/NNG 2
@@ -83376,7 +84241,7 @@ Register/SL 1
 노름판/NNG 10
 중앙승가대/NNP 2
 box/SL 1
-자가당착/NNG 1
+매니큐어/NNG 2
 한강수/NNP 1
 眞空/SH 1
 성명전/NNG 1
@@ -83403,6 +84268,7 @@ up/SL 2
 장전/NNG 4
 사포/NNG 1
 봄철/NNG 19
+JKC/ETN 21
 극감/NNP 2
 海外原資材/SH 1
 靑白膽珠四顆/SH 1
@@ -83475,7 +84341,7 @@ AFP/SL 11
 브레히트/NNP 2
 이점/NNG 27
 둥치/NNG 1
-기/ETN 15762
+수학/NNG 276
 아메리카나/NNP 1
 상영관/NNG 2
 근화/NNG 2
@@ -83513,8 +84379,10 @@ MTN/SL 1
 933/SN 1
 원자탄/NNG 4
 푸른빛/NNG 6
+地金/SH 1
 밤새/NNG 19
 織翟文十有二等/SH 1
+세나뚜스/NNP 3
 雖先己與主人相見致慰賀者/SH 1
 외출복/NNG 3
 영/MAG 24
@@ -83540,7 +84408,7 @@ Cimento/SL 1
 전야제/NNG 1
 道溪邑/SH 1
 劉田英明/SH 1
-時局觀/SH 1
+端宗/SH 2
 황해도사/NNG 1
 度牒/SH 1
 마굿간/NNG 1

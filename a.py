@@ -105,14 +105,70 @@ def get_train_count():
         for train in trains:
             cur = train.split()[1]
             words_with_pos_list = split_train(cur)
+            pos_list = []
+            """
+            : WORD/POS count
+            > count(WORD/POS)
+            """
             for word_with_pos in words_with_pos_list:
                 if not word_with_pos in words_with_pos:
                     words_with_pos[word_with_pos] = 0
                 words_with_pos[word_with_pos] += 1
+                pos_list.append(split_slash(word_with_pos)[1])
+            """
+            : bigram count and unigram count
+            > count(JKO/NP) and count(JKO)
+            """
+            for i in xrange(len(pos_list)):
+                if i == 0:
+                    bigram_key = pos_list[i]+'/$'
+                else:
+                    bigram_key = pos_list[i]+'/'+pos_list[i-1]
+                if not bigram_key in words_with_pos:
+                    words_with_pos[bigram_key] = 0
+                words_with_pos[bigram_key] += 1     # bigram count
+                if not pos_list[i] in words_with_pos:
+                    words_with_pos[pos_list[i]] = 0
+                words_with_pos[pos_list[i]] += 1    # unigram count
+        words_with_pos['$'] = len(trains)
         with open(options['train_count_filename'],'w') as fp:
             for key in words_with_pos:
                 fp.write(str(key)+' '+str(words_with_pos[key])+'\n')
     return words_with_pos
 
+def calculate_conditional_probability(count_dictionary,expr):
+    """
+    : calculate_conditional_probability - function
+                                        : calculate probability given expression P(A|B)
+                                        : P(A|B) = P(AB)/P(B)
+                                        : P(A|B) = count(AB)/count(B)
+    : parameter                         : count_dictionary(dict), expr(str)
+                                        > {'넘나들/VV': 20,'JKO/NP':3931,'NP':47549,...}, 'JKO/NP'
+    : return                            : probability(float)
+                                        > 0.0826726114114
+    """
+    (left,right) = split_slash(expr)
+    if not right in count_dictionary:
+        return 0.0001
+    if count_dictionary[right] == 0:
+        return 0.0001
+    if not expr in count_dictionary:
+        return 0.0001
+    if count_dictionary[expr] == 0:
+        return 0.0001
+    return float(count_dictionary[expr])/float(count_dictionary[right])
+
+def print_dictionary(d):
+    """
+    : print dictionary  - function
+                        : test dictionary printer
+    : parameter         - d(dict)
+    : return            - None
+    """
+    for key in d:
+        print key, d[key]
+
 if __name__ == '__main__':
-    get_train_count()
+    count_dictionary = get_train_count()
+    print calculate_conditional_probability(count_dictionary,'JKO/NP')
+
