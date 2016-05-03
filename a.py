@@ -14,6 +14,7 @@ options = {
         'input_filename'        : 'input.txt',
         'output_filename'       : 'output.txt',
         'train_count_filename'  : 'train_count.txt',
+        'show_screen'           : True
         }
 
 def get_train_set(filename):
@@ -191,7 +192,7 @@ def get_result_datas(filename):
                         : read result file and create dict<list<str>>
     : parameter         : filename(str)
     : return            : ret(dict<list<str>>)
-                        > {'안녕하세요',['안녕/NNG+하/NNG+세/NNB+요/EC','안녕/NNG+하/MAG+세/NNB+요/EC',..],...}
+                        > {'안녕하세요':['안녕/NNG+하/NNG+세/NNB+요/EC','안녕/NNG+하/MAG+세/NNB+요/EC',..],...}
     """
     ret = {}
     lines = get_input_datas(filename)
@@ -203,10 +204,120 @@ def get_result_datas(filename):
             ret[key].append(line.split()[1].strip())
     return ret
 
+def calculate_observation_probability(count_dictionary,cur_morpheme):
+    """
+    : calculate_observation_probability - function
+                                        : calculate current morpheme seq's observation probability
+    : parameter                         : count_dictionary(dict), cur_morpheme(list<str>)
+                                        > pass                  , ['안녕/NNG','하/XSV','세/EC','요/JX']
+    : return                            : observation_probability(float)
+                                        > P(안녕/NNG)*P(XSV/NNG)*P(하/XSV)*P(EC/XSV)*P(세/EC)*P(JX/EC)*P(요/JX)
+    """
+    observation_probability = calculate_conditional_probability(count_dictionary,cur_morpheme[0])
+    for i in xrange(1,len(cur_morpheme)):
+        previous_pos    = split_slash(cur_morpheme[i-1])[1]
+        cur_pos         = split_slash(cur_morpheme[i])[1]
+        observation_probability *= calculate_conditional_probability(count_dictionary,cur_pos+'/'+previous_pos)
+        observation_probability *= calculate_conditional_probability(count_dictionary,cur_morpheme[i])
+    return observation_probability
+
+def hmm(count_dictionary,morpheme_dictionary,input_data):
+    """
+    : hmm           - function
+                    : get highest probability morpheme sequence given input_data
+                      using hmm and viterbi algorithm (bigram)
+    : parameter     : count_dictionary(dict), morpheme_dictionary(dict<str,list<str>>), input_data(str)
+                    > pass                  , pass                                    , '너를 사랑해!'
+    : return        : ans(list<str>)
+                    > ['너르/VA+ㄹ/ETM','사랑/NNG+하/VV+어/EF+!/SF']
+    """
+    words = input_data.split()
+    d = []  # dynamic programming table[word_length][that_word_morpheme_size]
+    b = []  # backtracking table[word_length][that_word_morpheme_size]
+    for word in words:
+        d.append([ 0 for i in xrange(len(morpheme_dictionary[word])) ])
+        b.append([ -1 for i in xrange(len(morpheme_dictionary[word])) ])
+
+    """
+    : viterbi(dp) algorithm 
+    : a_st,ed  : transition_probability(st|ed)
+    : b_s(o_1) : observation_probability(o_1)
+    :
+    : initializing state ( $ => ... )
+    > for each state s form 1 to N do
+    >   d[1,s]<-a_0,s * b_s(o_1)
+    >   b[1,s]<-0
+    """
+    cur_morpheme_list = morpheme_dictionary[words[0]]
+    for i in xrange(len(cur_morpheme_list)):
+        cur_morpheme = split_train(cur_morpheme_list[i])
+        first_pos = split_slash(cur_morpheme[0])[1]
+        transition_probability  = calculate_conditional_probability(count_dictionary,first_pos+'/$')
+        observation_probability = calculate_observation_probability(count_dictionary,cur_morpheme)
+        d[0][i] = transition_probability*observation_probability
+        b[0][i] = -1
+
+    """
+    : recursion step
+    > for time step t from 1 to T-1 do
+    >   for each state s from 1 to N do
+    >       d[t,s]<-max_(1<=s'<=N)(d[t-1,s']*a_s',s*b_s(o_t)
+    >       b[t,s]<-argmax_(1<=s'<=N)(viterbi[t-1,s']*a_s',s
+    """
+    for i in xrange(1,len(words)):
+        cur_morpheme_list = morpheme_dictionary[words[i]]
+        for j in xrange(len(cur_morpheme_list)):
+            cur_morpheme = split_train(cur_morpheme_list[j])
+            first_pos = split_slash(cur_morpheme[0])[1]
+            observation_probability = calculate_observation_probability(count_dictionary,cur_morpheme)
+            mx,idx = -1,-1
+            for k in xrange(len(d[i-1])):
+                previous_morpheme_list  = morpheme_dictionary[words[i-1]]
+                previous_morpheme       = split_train(previous_morpheme_list[k])
+                previous_pos            = split_slash(previous_morpheme[-1])[1]
+                transition_probability = calculate_conditional_probability(\
+                                            count_dictionary,first_pos+'/'+previous_pos)
+                if d[i-1][k]*transition_probability*observation_probability > mx:
+                    mx,idx = d[i-1][k]*transition_probability*observation_probability,k
+            d[i][j] = mx
+            b[i][j] = idx
+
+    """
+    : termination step
+    > d[n-1,qF] <- max_(1<=s<=N)(d[n-1,s]*a_s,qF
+    > b[n-1,qF] <- argmax_(1<=s<=N)(d[n-1,s]*a_s,qF
+    """
+    mx,idx = -1,-1
+    for i in xrange(len(d[-1])):
+        if d[-1][i] > mx:
+            mx,idx = d[-1][i],i
+    """
+    : the backtrace path by following backpointers
+      to states back in time from backpointer[n-1,qF]
+    """
+    ans = []
+    for i in xrange(len(words)-1,-1,-1):
+        ans = [morpheme_dictionary[words[i]][idx]]+ans
+        idx = b[i][idx]
+    return ans
+
 if __name__ == '__main__':
     count_dictionary    = get_train_count()
     input_datas         = get_input_datas(options['input_filename'])
-    result_datas        = get_result_datas(options['result_filename'])
-#    print calculate_conditional_probability(count_dictionary,'JKO/NP')
+    morpheme_dictionary = get_result_datas(options['result_filename'])
     
-
+    with open(options['output_filename'],'w') as fp:
+        for input_data in input_datas:
+            ans = hmm(count_dictionary,morpheme_dictionary,input_data)
+            fp.write(input_data+'\n')
+            for item in ans:
+                fp.write(item+' ')
+            fp.write('\n')
+            """
+            : if show_screen option is True, print screen
+            """
+            if options['show_screen']:
+                print input_data
+                for item in ans:
+                    print item,
+                print ''
