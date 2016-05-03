@@ -25,6 +25,7 @@ def get_train_set(filename):
                     > 'train.txt'
     : return        - train_lines_list(list<str>)
                     >  ['기회가  기회/NNG+가/JKS','말  말/NNG',...]
+    : dependency    - None
     """
     with open(filename,'r') as fp:
         lines = fp.read().strip().split('\n')
@@ -45,6 +46,7 @@ def split_by_position(s,pos):
                         > [4,9]
     : return            - ret(list<str>)
                         > ['A/SL','+/SW','를/JKO']
+    : dependency        - None
     """
     if len(pos) == 0:
         return [s]
@@ -62,6 +64,7 @@ def split_train(train):
                     > 'A/SL++/SW+를/JKO'
     : return        - split_by_position(list<str>) 
                     > ['A/SL','+/SW','를/JKO']
+    : dependency    - re, split_by_position 
     """
     p = re.compile('[A-Z]\+')
     iterator = p.finditer(train)
@@ -76,6 +79,7 @@ def split_slash(s):
                     > 'A/SL'
     : return        - (s.split('/')[0],s.split('/')[1])(tuple<str,str>)
                     > ('A','SL')
+    : dependency    - None
     """
     if s[0] == '/':
         return ('/',s.split('/')[-1])
@@ -93,6 +97,7 @@ def get_train_count():
     : parameter         : None
     : return            : words_with_pos(dict)
                         > {'넘나들/VV': 20,'비빔밥/NNG': 5, ...}
+    : dependency        - split_train, split_slash
     """
     words_with_pos = {}
     if os.path.exists(options['train_count_filename']):
@@ -147,6 +152,7 @@ def calculate_conditional_probability(count_dictionary,expr):
                                         > {'넘나들/VV': 20,'JKO/NP':3931,'NP':47549,...}, 'JKO/NP'
     : return                            : probability(float)
                                         > 0.0826726114114
+    : dependency                        - split_slash
     """
     (left,right) = split_slash(expr)
     if not right in count_dictionary:
@@ -165,6 +171,7 @@ def print_dictionary(d):
                         : test dictionary printer
     : parameter         - d(dict)
     : return            - None
+    : dependency        - None
     """
     for key in d:
         print key, d[key]
@@ -175,6 +182,7 @@ def get_input_datas(filename):
                         : read input file
     : parameter         - filename(str)
     : return            - ret(list<str>)
+    : dependency    - None
     """
     with open(filename,'r') as fp:
         lines = fp.read().strip().split('\n')
@@ -193,6 +201,7 @@ def get_result_datas(filename):
     : parameter         : filename(str)
     : return            : ret(dict<list<str>>)
                         > {'안녕하세요':['안녕/NNG+하/NNG+세/NNB+요/EC','안녕/NNG+하/MAG+세/NNB+요/EC',..],...}
+    : dependency        - get_input_datas
     """
     ret = {}
     lines = get_input_datas(filename)
@@ -212,6 +221,7 @@ def calculate_observation_probability(count_dictionary,cur_morpheme):
                                         > pass                  , ['안녕/NNG','하/XSV','세/EC','요/JX']
     : return                            : observation_probability(float)
                                         > P(안녕/NNG)*P(XSV/NNG)*P(하/XSV)*P(EC/XSV)*P(세/EC)*P(JX/EC)*P(요/JX)
+    : dependency                        - calculate_conditional_probability, split_slash
     """
     observation_probability = calculate_conditional_probability(count_dictionary,cur_morpheme[0])
     for i in xrange(1,len(cur_morpheme)):
@@ -230,6 +240,7 @@ def hmm(count_dictionary,morpheme_dictionary,input_data):
                     > pass                  , pass                                    , '너를 사랑해!'
     : return        : ans(list<str>)
                     > ['너르/VA+ㄹ/ETM','사랑/NNG+하/VV+어/EF+!/SF']
+    : dependency    - split_train, split_slash, calculate_conditional_probability, calculate_observation_probability
     """
     words = input_data.split()
     d = []  # dynamic programming table[word_length][that_word_morpheme_size]
